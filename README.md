@@ -1,42 +1,30 @@
 # Global Banking Intelligence Platform
 
-GBIP is a global banking analytics project built to analyze bank performance, profitability, growth, risk and stability across multiple countries and regions from 2020 to 2025.
+Global Banking Intelligence Platform (GBIP) is a banking analytics project covering countries, regions and banks from 2020 to 2025.
 
-The project was built using Python, PostgreSQL, Excel, SQL and Power BI.
+The project combines banking financial data and economic indicators to analyze assets, deposits, loans, profitability, growth and risk.
 
-## What GBIP Covers
+## Tools
 
-- Global banking overview
-- Regional banking analysis
-- Country-level analysis
-- Individual bank analysis
-- Bank rankings
-- Risk and stability analysis
-- Banking growth and trends
+- Python
+- PostgreSQL
+- SQL
+- Power BI
+- DAX
+- DBeaver
+- pgAdmin
+- VS Code
 
-Key metrics include:
+## Python
 
-- Total Assets
-- Total Deposits
-- Total Loans
-- Net Income
-- ROE
-- ROA
-- NPL Ratio
-- Capital Adequacy
-- Loan-to-Deposit Ratio
-- Cost-to-Income Ratio
+Python was used for data extraction, web scraping, cleaning, transformation, validation, financial data processing and synthetic data generation.
 
-## Tools Used
-
-Python was used for data extraction, processing, cleaning and synthetic data generation.
-
-Python libraries used during the project include:
+Libraries used:
 
 - pandas
 - NumPy
 - requests
-- BeautifulSoup
+- BeautifulSoup 4
 - Playwright
 - lxml
 - PyMuPDF
@@ -44,43 +32,116 @@ Python libraries used during the project include:
 - fake-useragent
 - Loguru
 
-Automated bank financial extraction was possible for only a limited number of countries because public financial sources varied significantly in structure and availability.
+Automated bank financial extraction was possible for a limited number of countries due to differences in public data availability and source structures.
 
-PostgreSQL was used as the main database and analytical layer.
+## Data
 
-SQL was used for data analysis, rankings, growth calculations, financial validation and extensive data-quality checks.
+GBIP uses a hybrid dataset containing original and synthetic data.
 
-Power BI was used to build the final interactive dashboard, with DAX used for measures and dynamic ranking logic.
+Original data was collected from publicly available sources.
 
-## Dataset
+Synthetic values were used only where reliable public data was unavailable.
 
-GBIP uses a hybrid dataset containing original public data and synthetic values.
+The original bank financial datasets are preserved separately in the `Data/Raw/` folder. Unavailable original values are marked as `Pending Public Data`.
 
-Original values were retained wherever they were publicly available.
+## Database
 
-Synthetic values were only introduced where the required bank-level public data was unavailable.
+PostgreSQL was used as the main database for storing and analyzing the project data.
 
-When an original value could not be obtained, it was marked as `Pending Public Data` in the raw dataset.
+SQL was used for:
 
-The original financial datasets are preserved separately in the raw data folder:
+- Data analysis
+- Data quality checks
+- Validation
+- Bank rankings
+- Country and regional analysis
+- Growth analysis
+- Profitability analysis
+- Risk analysis
+- SQL views
+- Summary datasets
 
-- `bank_financials`
-- `bank_financials_usd`
+The database was developed using pgAdmin and DBeaver.
 
-These contain the original collected values without synthetic replacements.
+## Power BI
 
-This allows the original data to be kept separate from the processed analytical dataset.
+Power BI was used for the final data model, DAX calculations and interactive dashboard.
 
-Synthetic values are intended for analytical and portfolio purposes.
+The dashboard contains:
+
+- Global Overview
+- Regional Analysis
+- Country Profile
+- Bank Profile
+- Bank Rankings
+- Risk & Stability
+- Executive Insights
+
+## Dashboard
+
+### Global Overview
+
+![Global Overview](Images/global_overview.png)
+
+Overview of global banking scale and key financial indicators.
+
+### Regional Analysis
+
+![Regional Analysis](Images/regional_analysis.png)
+
+Comparison of banking performance across regions.
+
+### Country Profile
+
+![Country Profile](Images/country_profile.png)
+
+Detailed analysis of a country's banking sector and economic indicators.
+
+### Bank Profile
+
+![Bank Profile](Images/bank_profile.png)
+
+Financial performance and key indicators for an individual bank.
+
+### Bank Rankings
+
+![Bank Rankings](Images/bank_rankings.png)
+
+Comparison and ranking of banks across major financial metrics.
+
+### Risk & Stability
+
+![Risk & Stability](Images/risk&stability.png)
+
+Analysis of banking risk, capital strength and stability indicators.
+
+Database schema and Power BI model relationship diagrams are also included in the `Images/` folder.
 
 ## Documentation
 
-The `docs` folder contains the detailed project documentation.
+Detailed project documentation is available in the `Docs/` folder, including:
 
-- Data Dictionary — data structures, dimensions and financial metrics
-- Methodology — complete development process, data collection, processing and validation
-- Database Schema — PostgreSQL database structure and relationships
-- Power BI Model — Power BI relationships and analytical model
-- SQL Analysis — analytical queries and data-quality checks
+- Data Dictionary
+- Methodology
+- SQL Analysis
+- Data Quality Documentation
 
-For the complete methodology and development process, see the `docs` folder.
+## Project Structure
+
+```text
+Global Banking Intelligence/
+│
+├── Data/
+│   ├── Master_Data/
+│   └── Raw/
+│
+├── Docs/
+├── Images/
+├── Power-BI/
+├── Python/
+├── Scripts/
+├── Sql/
+├── misc/
+│
+├── .gitignore
+└── README.md
