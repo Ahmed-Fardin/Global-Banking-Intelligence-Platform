@@ -3,8 +3,24 @@
 -- SQL 11 — BANK RISK & EFFICIENCY ANALYSIS
 -- ============================================================
 
+
 -- ============================================================
--- 1. BANK RISK & EFFICIENCY OVERVIEW
+-- ANALYTICAL SCREENING RANGES
+--
+-- These are project-level data-quality screening ranges.
+-- They are NOT regulatory definitions.
+--
+-- ROE:                    -100% to 100%
+-- ROA:                    -100% to 100%
+-- Capital adequacy:         0% to 100%
+-- Cost/income:              0% to 200%
+-- Loan/deposit:             0% to 500%
+-- NPL:                      0% to 100%
+-- ============================================================
+
+
+-- ============================================================
+-- 1. VALID RISK & EFFICIENCY OVERVIEW
 -- ============================================================
 
 SELECT
@@ -17,7 +33,14 @@ SELECT
     loan_to_deposit_ratio,
     roe_percent,
     roa_percent
-FROM bank_financials
+FROM bank_financials_usd
+WHERE
+    capital_adequacy_percent BETWEEN 0 AND 100
+    AND npl_ratio BETWEEN 0 AND 100
+    AND cost_income_ratio BETWEEN 0 AND 200
+    AND loan_to_deposit_ratio BETWEEN 0 AND 500
+    AND roe_percent BETWEEN -100 AND 100
+    AND roa_percent BETWEEN -100 AND 100
 ORDER BY
     fiscal_year,
     bank_name;
@@ -35,12 +58,13 @@ SELECT
 
     RANK() OVER (
         PARTITION BY fiscal_year
-        ORDER BY capital_adequacy_percent DESC NULLS LAST
+        ORDER BY capital_adequacy_percent DESC
     ) AS capital_adequacy_rank
 
-FROM bank_financials
+FROM bank_financials_usd
 
-WHERE capital_adequacy_percent IS NOT NULL
+WHERE
+    capital_adequacy_percent BETWEEN 0 AND 100
 
 ORDER BY
     fiscal_year,
@@ -48,7 +72,7 @@ ORDER BY
 
 
 -- ============================================================
--- 3. HIGHEST NPL RATIOS
+-- 3. HIGHEST VALID NPL RATIOS
 -- ============================================================
 
 SELECT
@@ -59,12 +83,13 @@ SELECT
 
     RANK() OVER (
         PARTITION BY fiscal_year
-        ORDER BY npl_ratio DESC NULLS LAST
+        ORDER BY npl_ratio DESC
     ) AS npl_rank
 
-FROM bank_financials
+FROM bank_financials_usd
 
-WHERE npl_ratio IS NOT NULL
+WHERE
+    npl_ratio BETWEEN 0 AND 100
 
 ORDER BY
     fiscal_year,
@@ -72,7 +97,7 @@ ORDER BY
 
 
 -- ============================================================
--- 4. LOWEST COST-TO-INCOME RATIOS
+-- 4. LOWEST VALID COST-TO-INCOME RATIOS
 -- ============================================================
 
 SELECT
@@ -83,12 +108,13 @@ SELECT
 
     RANK() OVER (
         PARTITION BY fiscal_year
-        ORDER BY cost_income_ratio ASC NULLS LAST
+        ORDER BY cost_income_ratio ASC
     ) AS efficiency_rank
 
-FROM bank_financials
+FROM bank_financials_usd
 
-WHERE cost_income_ratio IS NOT NULL
+WHERE
+    cost_income_ratio BETWEEN 0 AND 200
 
 ORDER BY
     fiscal_year,
@@ -96,7 +122,7 @@ ORDER BY
 
 
 -- ============================================================
--- 5. HIGHEST LOAN-TO-DEPOSIT RATIOS
+-- 5. HIGHEST VALID LOAN-TO-DEPOSIT RATIOS
 -- ============================================================
 
 SELECT
@@ -107,12 +133,13 @@ SELECT
 
     RANK() OVER (
         PARTITION BY fiscal_year
-        ORDER BY loan_to_deposit_ratio DESC NULLS LAST
+        ORDER BY loan_to_deposit_ratio DESC
     ) AS loan_deposit_rank
 
-FROM bank_financials
+FROM bank_financials_usd
 
-WHERE loan_to_deposit_ratio IS NOT NULL
+WHERE
+    loan_to_deposit_ratio BETWEEN 0 AND 500
 
 ORDER BY
     fiscal_year,
@@ -131,12 +158,12 @@ SELECT
     roe_percent,
     roa_percent
 
-FROM bank_financials
+FROM bank_financials_usd
 
 WHERE
-    capital_adequacy_percent IS NOT NULL
-    AND roe_percent IS NOT NULL
-    AND roa_percent IS NOT NULL
+    capital_adequacy_percent BETWEEN 0 AND 100
+    AND roe_percent BETWEEN -100 AND 100
+    AND roa_percent BETWEEN -100 AND 100
 
 ORDER BY
     fiscal_year,
@@ -144,7 +171,7 @@ ORDER BY
 
 
 -- ============================================================
--- 7. PROFITABILITY VS NPL RATIO
+-- 7. PROFITABILITY VS NPL
 -- ============================================================
 
 SELECT
@@ -156,12 +183,12 @@ SELECT
     roa_percent,
     net_income
 
-FROM bank_financials
+FROM bank_financials_usd
 
 WHERE
-    npl_ratio IS NOT NULL
-    AND roe_percent IS NOT NULL
-    AND roa_percent IS NOT NULL
+    npl_ratio BETWEEN 0 AND 100
+    AND roe_percent BETWEEN -100 AND 100
+    AND roa_percent BETWEEN -100 AND 100
 
 ORDER BY
     fiscal_year,
@@ -181,12 +208,12 @@ SELECT
     roa_percent,
     net_income
 
-FROM bank_financials
+FROM bank_financials_usd
 
 WHERE
-    cost_income_ratio IS NOT NULL
-    AND roe_percent IS NOT NULL
-    AND roa_percent IS NOT NULL
+    cost_income_ratio BETWEEN 0 AND 200
+    AND roe_percent BETWEEN -100 AND 100
+    AND roa_percent BETWEEN -100 AND 100
 
 ORDER BY
     fiscal_year,
@@ -233,7 +260,15 @@ SELECT
         ELSE 0
     END AS strong_roe_flag
 
-FROM bank_financials
+FROM bank_financials_usd
+
+WHERE
+    capital_adequacy_percent BETWEEN 0 AND 100
+    AND npl_ratio BETWEEN 0 AND 100
+    AND cost_income_ratio BETWEEN 0 AND 200
+    AND loan_to_deposit_ratio BETWEEN 0 AND 500
+    AND roe_percent BETWEEN -100 AND 100
+    AND roa_percent BETWEEN -100 AND 100
 
 ORDER BY
     fiscal_year,
@@ -282,13 +317,15 @@ WITH scored_banks AS (
             ELSE 0
         END AS roe_score
 
-    FROM bank_financials
+    FROM bank_financials_usd
 
     WHERE
-        capital_adequacy_percent IS NOT NULL
-        AND npl_ratio IS NOT NULL
-        AND cost_income_ratio IS NOT NULL
-        AND roe_percent IS NOT NULL
+        capital_adequacy_percent BETWEEN 0 AND 100
+        AND npl_ratio BETWEEN 0 AND 100
+        AND cost_income_ratio BETWEEN 0 AND 200
+        AND loan_to_deposit_ratio BETWEEN 0 AND 500
+        AND roe_percent BETWEEN -100 AND 100
+        AND roa_percent BETWEEN -100 AND 100
 )
 
 SELECT

@@ -1,11 +1,13 @@
 -- ============================================================
 -- GLOBAL BANKING INTELLIGENCE
 -- SQL 06 — BANK FINANCIAL RANKINGS
+-- USD MONETARY ANALYSIS
 -- ============================================================
 
--- ------------------------------------------------------------
--- 1. BANK RANKING BY TOTAL ASSETS
--- ------------------------------------------------------------
+
+-- ============================================================
+-- 1. TOTAL ASSETS RANKING
+-- ============================================================
 
 SELECT
     fiscal_year,
@@ -16,16 +18,16 @@ SELECT
         PARTITION BY fiscal_year
         ORDER BY total_assets DESC NULLS LAST
     ) AS asset_rank
-FROM bank_financials
+FROM bank_financials_usd
 WHERE total_assets IS NOT NULL
 ORDER BY
     fiscal_year,
     asset_rank;
 
 
--- ------------------------------------------------------------
--- 2. BANK RANKING BY TOTAL DEPOSITS
--- ------------------------------------------------------------
+-- ============================================================
+-- 2. TOTAL DEPOSITS RANKING
+-- ============================================================
 
 SELECT
     fiscal_year,
@@ -36,16 +38,16 @@ SELECT
         PARTITION BY fiscal_year
         ORDER BY total_deposits DESC NULLS LAST
     ) AS deposit_rank
-FROM bank_financials
+FROM bank_financials_usd
 WHERE total_deposits IS NOT NULL
 ORDER BY
     fiscal_year,
     deposit_rank;
 
 
--- ------------------------------------------------------------
--- 3. BANK RANKING BY TOTAL LOANS
--- ------------------------------------------------------------
+-- ============================================================
+-- 3. TOTAL LOANS RANKING
+-- ============================================================
 
 SELECT
     fiscal_year,
@@ -56,16 +58,16 @@ SELECT
         PARTITION BY fiscal_year
         ORDER BY total_loans DESC NULLS LAST
     ) AS loan_rank
-FROM bank_financials
+FROM bank_financials_usd
 WHERE total_loans IS NOT NULL
 ORDER BY
     fiscal_year,
     loan_rank;
 
 
--- ------------------------------------------------------------
--- 4. BANK RANKING BY NET INCOME
--- ------------------------------------------------------------
+-- ============================================================
+-- 4. NET INCOME RANKING
+-- ============================================================
 
 SELECT
     fiscal_year,
@@ -76,16 +78,16 @@ SELECT
         PARTITION BY fiscal_year
         ORDER BY net_income DESC NULLS LAST
     ) AS net_income_rank
-FROM bank_financials
+FROM bank_financials_usd
 WHERE net_income IS NOT NULL
 ORDER BY
     fiscal_year,
     net_income_rank;
 
 
--- ------------------------------------------------------------
--- 5. BANK RANKING BY ROE
--- ------------------------------------------------------------
+-- ============================================================
+-- 5. ROE RANKING
+-- ============================================================
 
 SELECT
     fiscal_year,
@@ -96,16 +98,18 @@ SELECT
         PARTITION BY fiscal_year
         ORDER BY roe_percent DESC NULLS LAST
     ) AS roe_rank
-FROM bank_financials
-WHERE roe_percent IS NOT NULL
+FROM bank_financials_usd
+WHERE
+    roe_percent IS NOT NULL
+    AND roe_percent BETWEEN -100 AND 100
 ORDER BY
     fiscal_year,
     roe_rank;
 
 
--- ------------------------------------------------------------
--- 6. BANK RANKING BY ROA
--- ------------------------------------------------------------
+-- ============================================================
+-- 6. ROA RANKING
+-- ============================================================
 
 SELECT
     fiscal_year,
@@ -116,13 +120,10 @@ SELECT
         PARTITION BY fiscal_year
         ORDER BY roa_percent DESC NULLS LAST
     ) AS roa_rank
-FROM bank_financials
-WHERE roa_percent IS NOT NULL
+FROM bank_financials_usd
+WHERE
+    roa_percent IS NOT NULL
+    AND roa_percent BETWEEN -100 AND 100
 ORDER BY
     fiscal_year,
     roa_rank;
-
-
--- ============================================================
--- END OF SQL 06
--- ============================================================

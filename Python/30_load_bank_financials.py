@@ -16,14 +16,14 @@ from pathlib import Path
 # ============================================================
 
 CSV_FILE = Path(
-    "Data/Raw/Banks/Mains/bank_financials_synthetic.csv"
+    "Data/Raw/bank_financials_synthetic.csv"
 )
 
 DB_NAME = "gbip"
 DB_USER = "postgres"
-DB_PASSWORD = "1204"
+DB_PASSWORD = "xxxx
 DB_HOST = "localhost"
-DB_PORT = 5432
+DB_PORT = xxxx
 
 
 # ============================================================

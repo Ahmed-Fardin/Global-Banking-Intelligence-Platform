@@ -8,11 +8,10 @@ The project combines banking financial data and economic indicators to analyze a
 
 - Python
 - PostgreSQL
-- SQL
+- Excel
 - Power BI
-- DAX
+- DAX 
 - DBeaver
-- pgAdmin
 - VS Code
 
 ## Python
@@ -32,11 +31,11 @@ Libraries used:
 - fake-useragent
 - Loguru
 
-Automated bank financial extraction was possible for a limited number of countries due to differences in public data availability and source structures.
+Automated bank financial extraction was possible for a limited number of countries and banks due to differences and limitations in public data availability and source structures.
 
 ## Data
 
-GBIP uses a hybrid dataset containing original and synthetic data.
+GBIP uses a hybrid dataset containing official and synthetic data.
 
 Original data was collected from publicly available sources.
 
