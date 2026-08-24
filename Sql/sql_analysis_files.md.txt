@@ -1,0 +1,172 @@
+
+
+The SQL analysis layer is designed to answer business and financial
+questions about banks, countries, profitability, growth, risk, and
+financial performance from 2020 to 2025.
+
+The SQL analysis uses the PostgreSQL `bank_financials` table and
+related reference tables.
+
+---
+
+# 1. Bank Rankings
+ Questions
+
+1. Which banks have the highest total assets in each year?
+2. Which banks have the highest total deposits in each year?
+3. Which banks have the highest total loans in each year?
+4. Which banks generate the highest net income?
+5. Which banks have the highest ROE?
+6. Which banks have the highest ROA?
+
+### SQL File
+
+`06_bank_financial_rankings.sql`
+
+---
+
+# 2. Bank Profitability
+
+### Questions
+
+1. Which banks are the most profitable?
+2. Which banks generate the highest net income?
+3. Which banks have the highest return on equity (ROE)?
+4. Which banks have the highest return on assets (ROA)?
+5. Which banks consistently appear among the top performers?
+
+### SQL File
+
+`07_bank_profitability_analysis.sql`
+
+---
+
+# 3. Country Financial Performance
+
+### Questions
+
+1. How many banks are represented in each country?
+2. What is the total reported assets of banks within each country?
+3. What is the total reported deposits within each country?
+4. What is the total reported loans within each country?
+5. What is the aggregated net income of banks within each country?
+6. What is the average ROE of banks within each country?
+7. Which countries rank highest by aggregated bank net income?
+
+### SQL File
+
+`08_country_financial_performance.sql`
+
+### Important Note
+
+Local-currency monetary values should not be interpreted as directly
+comparable across countries.
+
+Cross-country monetary comparisons should use the separate USD-normalized
+dataset created for this project.
+
+---
+
+# 4. Global Banking Trends
+
+### Questions
+
+1. How does the banking dataset change from 2020 to 2025?
+2. How does reported total assets change over time?
+3. How does reported total deposits change over time?
+4. How does reported total loans change over time?
+5. How does reported net income change over time?
+6. How does average ROE change over time?
+7. How does average ROA change over time?
+8. What is the year-over-year change in reported net income?
+
+### SQL File
+
+`09_global_banking_yearly_trends.sql`
+
+---
+
+# 5. Bank Growth
+
+### Questions
+
+1. Which banks experienced the highest asset growth?
+2. Which banks experienced the highest loan growth?
+3. Which banks experienced the highest net income growth?
+4. How has each bank's financial position changed over time?
+5. Which banks show sustained growth across multiple years?
+
+### SQL File
+
+`10_bank_growth_analysis.sql`
+
+---
+
+# 6. Bank Risk and Efficiency
+
+### Questions
+
+1. Which banks have the strongest capital adequacy?
+2. Which banks have the highest non-performing loan (NPL) ratios?
+3. Which banks have the lowest cost-to-income ratios?
+4. Which banks have unusually high loan-to-deposit ratios?
+5. How does capital adequacy relate to profitability?
+6. How does NPL performance relate to profitability?
+7. Which banks combine strong profitability with relatively strong
+   risk indicators?
+8. Which banks show potentially concerning combinations of profitability,
+   efficiency, and risk indicators?
+
+### SQL File
+
+`11_bank_risk_efficiency_analysis.sql`
+
+---
+
+# SQL Analysis Coverage
+
+| Area | SQL File | Status |
+|---|---|---|
+| Bank Rankings | 06 | Complete |
+| Profitability | 07 | Complete |
+| Country Performance | 08 | Complete |
+| Global Trends | 09 | Complete |
+| Bank Growth | 10 | Complete |
+| Risk & Efficiency | 11 | Planned |
+
+---
+
+# Data Sources Used
+
+Primary financial dataset:
+
+`Data/Raw/Banks/Mains/bank_financials_synthetic.csv`
+
+USD-normalized dataset:
+
+`Data/Raw/Banks/Mains/bank_financials_synthetic_usd.csv`
+
+PostgreSQL database:
+
+`gbip`
+
+Primary financial table:
+
+`bank_financials`
+
+---
+
+# Important Analytical Limitation
+
+The original financial dataset contains monetary values in the
+reporting currency of each bank.
+
+Therefore, local-currency monetary values must not be used for direct
+global bank-size comparisons.
+
+The separate USD-normalized dataset should be used when comparing
+monetary values across countries and currencies.
+
+Ratios such as ROE, ROA, capital adequacy, cost-to-income,
+loan-to-deposit, and NPL ratio are already expressed as ratios or
+percentages and do not require currency conversion.

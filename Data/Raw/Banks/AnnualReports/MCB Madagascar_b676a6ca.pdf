@@ -1,0 +1,1752 @@
+ <!DOCTYPE html> <html lang="fr" > <head><meta name="title" content="MCB Madagascar | Banque et Services Financiers" /><meta name="description" content="Découvrez les services bancaires de MCB Madagascar. Nous proposons une gamme complète de solutions bancaires aux besoins des particuliers et des entreprises." /> <meta charset="utf-8"> <meta name="viewport" content="width=device-width, initial-scale=1"> <!-- Favicon --> <link rel="shortcut icon" href="/ResourcePackages/MCBMU/assets/dist/images/favicon.ico" type="image/x-icon" /> <link rel="apple-touch-icon" href="/ResourcePackages/MCBMU/assets/dist/images/favicon.ico"> <!-- Mobile Metas --> <!--<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">--> <meta name="viewport"
+          content="width=device-width, initial-scale=1, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no, shrink-to-fit=no" /> <!-- Web Fonts  --> <!--<link id="googleFonts" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700&display=swap" rel="stylesheet" type="text/css">--> <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700&amp;family=Poppins:wght@300;400;500;600;700&amp;display=swap"
+          rel="stylesheet"> <link href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&amp;display=swap"
+          rel="stylesheet"> <!-- Vendor CSS --> <link href="/ResourcePackages/MCBMU/assets/dist/vendor/bootstrap/css/bootstrap.min.css?package=MCBMU" rel="stylesheet" type="text/css" /><link href="/ResourcePackages/MCBMU/assets/dist/vendor/fontawesome-free/css/all.min.css?package=MCBMU" rel="stylesheet" type="text/css" /><link href="/ResourcePackages/MCBMU/assets/dist/vendor/animate/animate.compat.css?package=MCBMU" rel="stylesheet" type="text/css" /><link href="/ResourcePackages/MCBMU/assets/dist/vendor/simple-line-icons/css/simple-line-icons.min.css?package=MCBMU" rel="stylesheet" type="text/css" /><link href="/ResourcePackages/MCBMU/assets/dist/vendor/owl.carousel/assets/owl.carousel.min.css?package=MCBMU" rel="stylesheet" type="text/css" /><link href="/ResourcePackages/MCBMU/assets/dist/vendor/owl.carousel/assets/owl.theme.default.min.css?package=MCBMU" rel="stylesheet" type="text/css" /><link href="/ResourcePackages/MCBMU/assets/dist/vendor/magnific-popup/magnific-popup.min.css?package=MCBMU" rel="stylesheet" type="text/css" /><link href="/ResourcePackages/MCBMU/assets/dist/css/theme.css?package=MCBMU" rel="stylesheet" type="text/css" /><link href="/ResourcePackages/MCBMU/assets/dist/css/theme-elements.css?package=MCBMU" rel="stylesheet" type="text/css" /><link href="/ResourcePackages/MCBMU/assets/dist/css/theme-blog.css?package=MCBMU" rel="stylesheet" type="text/css" /><link href="/ResourcePackages/MCBMU/assets/dist/css/theme-shop.css?package=MCBMU" rel="stylesheet" type="text/css" /><link href="/ResourcePackages/MCBMU/assets/dist/css/demos/demo-business-consulting-2.css?package=MCBMU" rel="stylesheet" type="text/css" /><link href="/ResourcePackages/MCBMU/assets/dist/css/skins/skin-business-consulting-2.css?package=MCBMU" rel="stylesheet" type="text/css" /><link href="/ResourcePackages/MCBMU/assets/dist/css/custom.css?package=MCBMU" rel="stylesheet" type="text/css" /><link href="/ResourcePackages/MCBMU/assets/dist/css/menu_style/assets/css/ma5-menu.css?package=MCBMU" rel="stylesheet" type="text/css" /><link href="/ResourcePackages/MCBMU/assets/dist/css/style-new.css?package=MCBMU" rel="stylesheet" type="text/css" /> <script src="/ResourcePackages/MCBMU/assets/dist/vendor/modernizr/modernizr.min.js?package=MCBMU" type="text/javascript"></script> <!-- Theme CSS --> <!-- Demo CSS --> <!-- Skin CSS --> <!-- Theme Custom CSS --> <!-- Head Libs --> <title>
+	MCB Madagascar | Banque et Services Financiers
+</title> <meta property="og:title" content="MCB Madagascar | Banque et Services Financiers" /><meta property="og:description" content="D&#233;couvrez les services bancaires de MCB Madagascar. Nous proposons une gamme compl&#232;te de solutions bancaires aux besoins des particuliers et des entreprises." /><meta property="og:url" content="https://mcb.mg" /><meta property="og:type" content="website" /><meta property="og:site_name" content="MCB Madagascar" /><script type="text/javascript">
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TSC4DVB8');
+</script><style type="text/css" media="all">.flip-back.d-flex {
+    display: flex!important;
+    flex-wrap: nowrap;
+    align-items: center;
+    align-content: space-around;
+    justify-content: center;
+}
+
+@media (min-width: 992px){
+  .hp-tools .featured-box,.hp-tools .card .content-block {
+      min-height: 450px!important;
+  }
+}
+
+@media only screen and (min-width: 991px){
+    .hp-campagne .img-text-cta .thumb-info-title {
+        top: 5%!important;
+    }
+}</style><style type="text/css" media="all">.desktop-menu .navbar .button .nav-item.ib .nav-link:hover small {
+    color: #000000;
+}
+
+.mobile-menu .univers-option{
+
+	display:flex!important;
+
+	align-items: center!important;
+
+}
+
+.mobile-menu .univers-option .ib-mobile-btn{
+
+	padding-right: 0px!important;
+
+	display:flex!important;
+
+}
+
+ 
+
+.mobile-menu .univers-option .ib-mobile-btn i:before{
+
+	color: #000000!important;
+
+	font-size: 25px!important;
+
+}
+
+.mobile-menu .univers-option .ib-mobile-btn:hover{
+
+	text-decoration:none!important;
+
+}
+.featured-box .indicativeforex{
+
+position:relative!important;
+
+z-index:1!important;
+
+}
+
+.featured-box .indicativeforex:hover{
+
+text-decoration:none!important;
+
+}
+.featured-box .indicativeforex span.product-panel__info-link .icon-label{
+    padding: 10px 9px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    font-family: 'Kanit'!important;
+    color: #000;
+    text-transform: uppercase;
+
+ 
+
+}
+
+#footer .footer-copyright #copyright{
+    margin-left: 25px;
+}
+
+@media only screen and (min-width: 992px) {
+
+  html.safari:not(.no-safari-overflow-x-fix) .body {
+
+          overflow-x: visible!important;
+
+  }
+
+}
+
+.silder-block.downtime {
+    background-color: #cdcdcd;
+    z-index: 2;
+    position: relative;
+}
+.silder-block.downtime .owl-prev {
+    color: #464646 !important;
+}
+.silder-block.downtime .owl-next {
+    color: #464646 !important;
+}
+.silder-block.downtime .owl-carousel {
+    margin-bottom: 0px;
+}
+.silder-block.downtime .owl-carousel.show-nav-title .owl-nav {
+    right: 10px !important;
+    margin-top: -15px !important;
+}
+.silder-block.downtime .owl-carousel .owl-item {
+    padding-left: 0px;
+}
+@media only screen and (max-width: 768px) {
+    .silder-block.downtime .owl-carousel.show-nav-title .owl-nav {
+        right: 0px !important;
+        margin-top: 25px !important;
+    }
+}
+@media only screen and (min-width: 991px) {
+    .silder-block.downtime .owl-carousel.show-nav-title .owl-nav {
+        right: 0px !important;
+        margin-top: 25px !important;
+    }
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .silder-block.downtime .owl-carousel.show-nav-title .owl-nav {
+        right: -50px !important;
+        margin-top: 25px !important;
+    }
+}
+.silder-block.downtime .card {
+    background-color: #cdcdcd;
+    border: 0px solid transparent;
+}
+.silder-block.downtime .card:hover {
+    -webkit-transform: translateY(0px) !important;
+    transform: translateY(0px) !important;
+}
+.silder-block.downtime .card .card-body {
+    background-color: #cdcdcd;
+    padding: 0px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    min-height: auto !important;
+    -webkit-box-pack: start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+}
+.silder-block.downtime .card .card-body .btn {
+    margin-bottom: 0px !important;
+    background-color: #cdcdcd;
+    border-color: #cdcdcd;
+    color: #000000;
+    margin-top: 0px;
+    padding-top: 0px !important;
+    padding-bottom: 0px;
+    text-transform: capitalize !important;
+    padding-right: 10px;
+    margin-right: 10px;
+    border-radius: 0px;
+    height: -webkit-fit-content;
+    height: -moz-fit-content;
+    height: fit-content;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-box-pack: start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+    padding-left: 0px;
+    font-size: 14px;
+}
+.silder-block.downtime .card .card-body .btn:before {
+    content: url("/images/mcb/default-album/notice-icon.png");
+    margin-right: 5px;
+}
+.silder-block.downtime .card .card-body .card-text {
+    min-height: auto !important;
+}
+.silder-block.downtime .card .card-body h3,
+.silder-block.downtime .card .card-body h4 {
+    display: none;
+}
+@media only screen and (max-width: 768px) {
+    .silder-block.downtime .card .card-body {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+    }
+}
+@media only screen and (min-width: 768px) {
+    .silder-block.downtime .card .card-body {
+        -webkit-box-orient: horizontal;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+        flex-direction: row;
+    }
+}
+.silder-block.downtime h4 {
+    display: none;
+}
+.silder-block.downtime .hp_downtime:hover .card-text {
+    text-decoration: underline !important;
+}
+@media only screen and (min-width: 518px) {
+    .silder-block.downtime {
+        margin-top: -125px;
+    }
+}
+@media only screen and (max-width: 518px) {
+    .silder-block.downtime {
+        margin-top: -140px;
+    }
+}
+</style><style type="text/css" media="all">.footer-desktop {
+    padding-top: 48px;
+    padding-bottom: 0!important;
+}
+
+#footer {
+    margin-top: 50px !important;
+}
+
+.link-white a{
+  color: #ffffff;
+}
+
+.tile-center.featured-box.box-shadow-1:before{
+        z-index: -1;
+}
+.tile-center.featured-box .box-content:before{
+  	z-index: -1;
+}
+
+.container-zebra-table table thead th {
+	padding: 14px 10px;
+  	font-size: 14px;
+}
+
+.container-zebra-table table tr td{
+	font-size:14px;
+  	padding: 14px 10px;
+}
+
+.container-zebra-table table tr td em{
+	font-size:14px;
+}
+
+.container-zebra-table table tr td:last-child{
+	font-size:14px;
+}
+
+@media only screen and (min-width:1200px){
+  .product-panel.indicativeforex td{
+  	padding: 6px 10px;
+  }
+}
+
+@media only screen and (min-width:991px) and (max-width:1200px){
+  .featured-box.container-zebra-table{
+  	padding-left: 5px!important;
+    	padding-right: 5px!important;
+  }
+}
+
+.product-panel.indicativeforex h3.product-panel__info-title{
+	font-size: 1.50em;
+}
+
+.mobile-menu .univers .logo-mobile img{
+    width: 45px;
+}
+
+.tiles-next-to-carousel .card{
+    min-height: 193px;
+}
+
+.tiles-next-to-carousel .card .card-body{ 
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.owl-carousel .owl-stage-outer .owl-item .container .row .col p{
+    max-width: 70%;
+    font-weight: 300;
+    font-size: 22px;
+    color: #ffffff;
+}
+
+.banner-only .detail-page-banner{
+    margin-bottom: -65px!important;
+    background-color: #ffffff!important;
+}
+
+#footer .header-social-icons .social-icons-twitter .icon-twitter{
+	font-size: 10px;
+}
+
+#footer .header-social-icons .social-icons-twitter .icon-twitter:before{
+	color : #000000;
+}
+
+#footer .header-social-icons .social-icons-twitter:hover .icon-twitter:before{
+	color : #ffffff;
+}
+
+.ma5menu--active #onetrust-consent-sdk *{
+    pointer-events: auto!important;
+}
+
+.ma5menu__logo img{
+  width:45px;
+  margin-left: 1px;
+}
+
+.ma5menu__container .ma5menu__panel{
+  margin-top: 15px;
+}
+
+.link-slider-hp .cards-container .card{
+    padding-top: 50px!important;
+    padding-bottom: 20px!important;
+}
+
+.link-slider-hp .card-body{
+    justify-content: start!important;
+    min-height: 200px;
+}
+
+.link-slider-hp .cards-container .card .card-text{
+    min-height: 100px;
+}
+
+.link-slider-hp .owl-stage-outer .card{
+    margin-top: 0px;
+}
+
+
+
+</style><link rel="canonical" href="https://mcb.mg" /></head> <body class="mg"> 
+
+
+
+
+
+ <div class="body detail-landing">  
+
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TSC4DVB8"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --> <header id="header"> <div class="mobile-menu d-block d-lg-none d-xl-none"> <div class="main-navigation"> <div class="navbar-level"> <div class="container"> <div class="row"> <div class="col-lg-12"> <div class="univers"> <div class="logo logo-mobile"> 
+
+
+<a class="navbar-brand main" href="/">
+      <img loading="lazy" class="mw-100 h-auto" src="/images/mcbmadagascarlibraries/default-album/logo-mcb-caravelle-red" title="logo-mcb-caravelle-red" alt="" width="34" height="30">
+
+        </a>
+        <script>
+var logoImage  = "/images/downtimelibraries/default-album/logo-mcb-caravelle-red.svg";
+</script> </div> <div class="univers-option"> 
+
+
+<a href="https://ib.mcbmadagascar.com/" type="button" target="_blank" class="nav-link flex-column px-3 ib-mobile-btn">
+	<i class="icon-ib"></i>
+</a> <a class="ma5menu__toggle" type="button"> <svg width="40px" height="40px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="burger-wrapper"> <g id="Artboard-Copy-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round"> <g id="Group" transform="translate(12.000000, 29.000000)" fill-rule="nonzero" stroke-width="4"> <path class="line" id="line-middle" d="M13,20 L63,20" stroke="#ffffff" stroke-linejoin="round"></path> <path class="line" id="line-top" d="M63,1 L13.347708,1 C4.449236,1 0,4.16666667 0,10.5 C0,16.8333333 4.449236,20 13.347708,20 L59,20" stroke="#ffffff"></path> <path class="line" id="line-bottom" d="M42,68 L75,68 C81.6666667,67 85,63.8333333 85,58.5 C85,53.1666667 81.6666667,50 75,49 L30,49" transform="translate(-13.000000, -29.000000)" stroke="#ffffff"></path> </g> </g> </svg> </a> </div> </div> </div> </div> </div> </div> </div> <div class="container"> <!-- mobile menu toggle button end --> <div style="display: none;"> 
+ <!-- source for mobile menu start --> 
+
+
+<ul class="site-menu">
+            <li class=&quot;active&quot;>
+                <a href="/" target="_self" id='navbarDropdownMenuLink0-1'>Particuliers</a>
+
+                <ul>
+                                <li >
+
+                <a href="/particulier/ouverture-de-compte">
+
+
+                    Ouverture de compte
+
+                </a>
+            </li>
+            <li >
+
+                <a href="/particulier/depot-a-terme">
+
+
+                    D&#233;p&#244;t &#224; terme
+
+                </a>
+            </li>
+            <li >
+
+                <a href="/particulier/les-credits">
+
+
+                    Les cr&#233;dits
+
+                </a>
+            </li>
+            <li >
+
+                <a href="/particulier/payer">
+
+
+                    Payer
+
+                </a>
+            </li>
+            <li >
+
+                <a href="/particulier/juice">
+
+
+                    MCB Juice
+
+                </a>
+            </li>
+
+                </ul>
+            </li@>
+            <li >
+                <a href="/entreprises" target="_self" id='navbarDropdownMenuLink1-1'>Entreprises</a>
+
+                <ul>
+                                <li >
+
+                <a href="/entreprises/ouverture-de-compte">
+
+
+                    Ouverture de compte
+
+                </a>
+            </li>
+            <li >
+
+                <a href="/entreprises/la-monetique-commercants">
+
+
+                    La mon&#233;tique commer&#231;ants
+
+                </a>
+            </li>
+            <li >
+
+                <a href="/entreprises/commerce-international">
+
+
+                    Commerce international
+
+                </a>
+            </li>
+            <li >
+
+                <a href="/entreprises/placements-de-tresorerie">
+
+
+                    Placements de tr&#233;sorerie
+
+                </a>
+            </li>
+            <li >
+
+                <a href="/entreprises/les-credits">
+
+
+                    Les cr&#233;dits
+
+                </a>
+            </li>
+
+                </ul>
+            </li@>
+            <li >
+                <a href="/banque-en-ligne" target="_self" id='navbarDropdownMenuLink2-1'>Banque en ligne</a>
+
+                <ul>
+                                <li >
+
+                <a href="/banque-en-ligne/particulier">
+
+
+                    Particulier
+
+                </a>
+            </li>
+            <li >
+
+                <a href="/banque-en-ligne/entreprise">
+
+
+                    Entreprise
+
+                </a>
+            </li>
+            <li >
+                <a href="/banque-en-ligne/securite">S&#233;curit&#233; </a>
+                <ul>
+                                <li >
+
+                <a href="/banque-en-ligne/securite/la-mcb-vous-protege">
+
+
+                    La MCB vous prot&#232;ge
+
+                </a>
+            </li>
+            <li >
+
+                <a href="/banque-en-ligne/securite/precautions-dusage">
+
+
+                    Pr&#233;cautions d&#39;usage
+
+                </a>
+            </li>
+            <li >
+
+                <a href="/banque-en-ligne/securite/attention-aux-fraudes">
+
+
+                    Attention aux fraudes
+
+                </a>
+            </li>
+            <li >
+
+                <a href="/banque-en-ligne/securite/avertissement-de-securite">
+
+
+                    Avertissement de s&#233;curit&#233;
+
+                </a>
+            </li>
+
+                </ul>
+            </li>
+            <li >
+
+                <a href="/banque-en-ligne/faq">
+
+
+                    FAQ
+
+                </a>
+            </li>
+
+                </ul>
+            </li@>
+            <li >
+                <a href="/a-propos" target="_self" id='navbarDropdownMenuLink3-1'>&#192; propos</a>
+
+                <ul>
+                                <li >
+
+                <a href="/a-propos/historique">
+
+
+                    Historique
+
+                </a>
+            </li>
+            <li >
+
+                <a href="/a-propos/le-management">
+
+
+                    Le Management
+
+                </a>
+            </li>
+            <li >
+
+                <a href="/a-propos/nos-correspondants">
+
+
+                    Nos correspondants
+
+                </a>
+            </li>
+            <li >
+
+                <a href="/a-propos/rapports-annuels">
+
+
+                    Rapports Annuels
+
+                </a>
+            </li>
+            <li >
+
+                <a href="/a-propos/carrieres">
+
+
+                    Carri&#232;res
+
+                </a>
+            </li>
+
+                </ul>
+            </li@>
+            <li>
+                <a href="/contact" target="_self">Contact</a>
+            </li>
+            <li>
+                <a href="/trouver-une-agence" target="_self">Trouvez une agence</a>
+            </li>
+</ul>
+
+
+
+
+
+
+
+ <!-- source for mobile menu end --> <!-- source for mobile menu footer start --> 
+ <!-- source for mobile menu footer end --> </div> </div> <!-- Modal level one --> </div> <div class=" desktop-menu d-none d-lg-block d-xl-block header-home" > <div class="nav-container"> <div class="top-header"> <div class="container-fluid"> <div class="row"> <div class="col-lg-12"> <div class="d-flex justify-content-between"> 
+<div class="row mad-top-nav" data-sf-element="Row">
+    <div id="DesktopTopNav_T2BC3A81D026_Col00" class="sf_colsIn col-lg-12" data-sf-element="Column 1" data-placeholder-label="Column 1">
+
+
+
+
+
+<ul id="nav" class="nav-content "  >
+    <li class="active">
+        <a href ="/" target="_self">Particuliers</a>
+    </li>
+    <li class="">
+        <a href ="/entreprises" target="_self">Entreprises</a>
+    </li>
+    <li class="">
+        <a href ="/banque-en-ligne" target="_self">Banque en ligne</a>
+    </li>
+    <li class="">
+        <a href ="/a-propos" target="_self">&#192; propos</a>
+    </li>
+
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+</div>
+ <div class="link-icon d-flex flex-row"> 
+
+
+<div class="link-icon d-flex flex-row">
+
+    <!-- <ul class="mx-2">
+
+        <li>
+
+            <a href="/banque-en-ligne/faq">
+
+                <i class="icon-need-help"></i><span>Besoin d'aide ?</span>
+
+            </a>
+
+        </li>
+
+    </ul> -->
+
+    <ul class="mx-2">
+    
+        <li>
+    
+            <a href="/contact">
+    
+                <i class="fas fa-thin fa-file-lines text-light"></i><span>Nous contacter</span>
+    
+            </a>
+    
+        </li>
+    
+    </ul>
+
+    <ul class="mx-2">
+
+        <li>
+
+            <a href="/trouver-une-agence">
+
+                <i class="icon-locate-us"></i><span>Trouver une agence</span>
+
+            </a>
+
+        </li>
+
+    </ul>
+
+
+
+</div> </div> </div> </div> </div> </div> </div> <div class="navigation "> <div class="container-fluid"> <nav class="navbar navbar-expand-lg navbar-dark bg-primary "> <div class="collapse navbar-collapse " id="main_nav"> <!-- Logo --> <div class="logo"> <a class="navbar-brand main" href="#"> 
+
+
+<a class="navbar-brand main" href="/">
+      <img loading="lazy" class="mw-100 h-auto" src="/images/mcbmadagascarlibraries/default-album/logo-mcb-caravelle-red.svg" title="logo-mcb-caravelle-red" alt="" width="34" height="30">
+</a> </a> </div> <!-- Second Level Navigation --> 
+
+
+
+            <div class="ms-auto me-auto main-nav">
+
+                <div class="row">
+                    <div class="col-lg-12">
+                        <ul class="navbar-nav">
+        <li class="nav-item">
+            <a class="nav-link " href="/particulier/ouverture-de-compte" target="_self">Ouverture de compte</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link " href="/particulier/depot-a-terme" target="_self">D&#233;p&#244;t &#224; terme</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link " href="/particulier/les-credits" target="_self">Les cr&#233;dits</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link " href="/particulier/payer" target="_self">Payer</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link " href="/particulier/juice" target="_self">MCB Juice</a>
+        </li>
+
+                        </ul>
+                    </div>
+                </div>
+
+            </div>
+
+
+
+
+
+
+
+
+
+
+
+ <!-- Side Button --> 
+
+
+<ul class="navbar-nav button">
+
+	<!--<li class="nav-item search">
+
+		<a type="button" class="search nav-link" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
+
+			<i class="icon-search-new"></i>
+
+		</a>
+
+	</li>-->
+
+	<li class="nav-item ib">
+
+		<!--<a class="nav-link px-3" href="#" > <img src="img/nav-icons/ib.png" alt="Internet Banking"/>
+
+	                                            	<span class="btn-title"> Internet Banking</span>
+
+	                                            </a>-->
+
+		<div class="btn-group">
+
+			<a href="https://ib.mcbmadagascar.com/" target="_blank" class="nav-link flex-column px-3">
+				<i class="icon-ib" style="font-size:20px;"></i>
+				<small style="line-height: 14px; font-size: 80%;" class="">MCBNET</small>
+			</a>
+
+			<!-- <a class="nav-link px-3" data-bs-toggle="dropdown" aria-expanded="false">
+
+				<i class="icon-ib"></i>
+
+			</a>
+
+			<div class="btn-primary">
+
+				<div class="title">
+					<h4>Internet Banking</h4>
+				</div>
+
+				<ul class="buttons">
+
+					<li class="btn-primary"><a href="https://ib.mcbmadagascar.com/" class="dropdown-item">Access Internet Banking</a></li>
+
+					<li class="mt-3 btn-primary"><a href="#" class="dropdown-item">Business</a></li>
+
+				</ul> -->
+
+
+
+			<!--<ul class="more-links mt-4">
+
+					<li><a href="#"><i class="icon-chevron-right"></i> Test link</a></li>
+
+					<li><a href="#"><i class="icon-chevron-right"></i> Lorem Ipsum</a></li>
+
+				</ul>-->
+
+		</div>
+
+
+
+		</div>
+
+
+
+	</li>
+
+</ul> </div> </nav> </div> </div> </div> </div> </header> <div role="main" class="main"> 
+
+
+
+
+
+<div class="owl-carousel owl-carousel-top-banner owl-carousel-light owl-carousel-light-init-fadeIn owl-theme manual dots-inside dots-vertical-center dots-align-right dots-orientation-portrait custom-dots-style-1 show-dots-hover show-dots-xs nav-style-1 nav-inside nav-inside-plus nav-dark nav-lg nav-font-size-lg show-nav-hover mb-0" data-plugin-options="{'autoplayTimeout': 36000000}" data-dynamic-height="['650px','650px','650px','550px','500px']" style="height: 650px;">
+    <div class="owl-stage-outer">
+        <div class="owl-stage">
+
+
+            <div class="owl-item position-relative overlay overlay-show overlay-op-3" style="background-image:url(https://mcb.mg/images/mcbmadagascarlibraries/assets/madagascar-juice-banner9bd247ca-c3b6-4714-8477-aebcc6a134a3.jpg?sfvrsn=7612d63a_1); background-size: cover; background-position: center top;">
+                <div class="container position-relative z-index-3 h-100">
+                    <div class="row align-items-center h-100">
+                        <div class="col pb-4">
+                                <h1 class="text-color-light w-50 w-100-mobile font-weight-medium text-12 line-height-2 mb-2 appear-animation text-decoration-none" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="500" data-plugin-options="{'minWindowWidth': 0}">Vos services bancaires mobiles &#224; port&#233;e de main avec MCB Juice</h1>
+                                                            <div class="description">
+                                    &nbsp;
+                                </div>
+                                                            <a target="_self" href='/particulier/juice' class="btn btn-more text-light d-flex align-items-center appear-animation ps-0" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="500" data-plugin-options="{'minWindowWidth': 0}">
+                                    <i class="icon icon-arrow-right text-10 pe-2" aria-hidden="true"></i>
+                                    <span>Plus d&#39;informations</span>
+                                </a>
+
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<section class="bg-color-light p-relative z-index-2 link-slider-hp">
+    <div class="cards custom-cards custom-cards-slider home h-auto pt-5 pb-4 container appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="100">
+        <div class="row bg-color-light cards-container d-flex justify-content-center justify-content-xl-between w-100 mb-5 mx-0 box-shadow-1 p-relative top-0">
+            <div class="owl-carousel owl-theme stage-margin nav-style-1 hp" data-plugin-options="{'items': 4 , 'margin': 0, 'loop': false, 'nav': true, 'dots': false, 'stagePadding': 40,'responsive': {'0': {'items': 1, 'loop':true}, '479': {'items': 1, 'loop':true}, '768': {'items': 2, 'loop':true}, '991': {'items': 3, 'loop':true}}}">
+
+                    <div class=" bg-light p-0 shadow-none">
+                        <div class="card border-radius-0 border-0 shadow-none">
+                            <div class="card-body hp border-0 px-3 d-flex align-items-center justify-content-center flex-column z-index-1">
+                                                                    <a href="/particulier/payer">
+                                        <h4 class="card-title mb-1 text-6 font-weight-light text-color-dark text-center">Op&#233;rations internationales</h4>
+                                    </a>
+                                                                    <a href="/particulier/payer">
+                                        <div class="card-text link-button text-center pt-2"><p>Recevez ou transférez des fonds à l’étranger</p></div>
+                                    </a>
+                                                                    <a href="/particulier/payer" class="font-weight-bold text-uppercase text-decoration-none mt-3">En savoir plus</a>
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class=" bg-light p-0 shadow-none">
+                        <div class="card border-radius-0 border-0 shadow-none">
+                            <div class="card-body hp border-0 px-3 d-flex align-items-center justify-content-center flex-column z-index-1">
+                                                                    <a href="/particulier/les-credits">
+                                        <h4 class="card-title mb-1 text-6 font-weight-light text-color-dark text-center">Les cr&#233;dits</h4>
+                                    </a>
+                                                                    <a href="/particulier/les-credits">
+                                        <div class="card-text link-button text-center pt-2"><p>Notre offre s’adapte à tous vos besoins</p></div>
+                                    </a>
+                                                                    <a href="/particulier/les-credits" class="font-weight-bold text-uppercase text-decoration-none mt-3">En savoir plus</a>
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class=" bg-light p-0 shadow-none">
+                        <div class="card border-radius-0 border-0 shadow-none">
+                            <div class="card-body hp border-0 px-3 d-flex align-items-center justify-content-center flex-column z-index-1">
+                                                                    <a href="/particulier/depot-a-terme">
+                                        <h4 class="card-title mb-1 text-6 font-weight-light text-color-dark text-center">D&#233;p&#244;t &#224; terme</h4>
+                                    </a>
+                                                                    <a href="/particulier/depot-a-terme">
+                                        <div class="card-text link-button text-center pt-2"><p>Choisissez le montant et la durée de votre placement</p></div>
+                                    </a>
+                                                                    <a href="/particulier/depot-a-terme" class="font-weight-bold text-uppercase text-decoration-none mt-3">En savoir plus</a>
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class=" bg-light p-0 shadow-none">
+                        <div class="card border-radius-0 border-0 shadow-none">
+                            <div class="card-body hp border-0 px-3 d-flex align-items-center justify-content-center flex-column z-index-1">
+                                                                    <a href="/particulier/ouverture-de-compte">
+                                        <h4 class="card-title mb-1 text-6 font-weight-light text-color-dark text-center">Ouverture de compte</h4>
+                                    </a>
+                                                                    <a href="/particulier/ouverture-de-compte">
+                                        <div class="card-text link-button text-center pt-2"><p>Nos différents types de compte sont à votre disposition</p></div>
+                                    </a>
+                                                                    <a href="/particulier/ouverture-de-compte" class="font-weight-bold text-uppercase text-decoration-none mt-3">En savoir plus</a>
+
+                            </div>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</section><div id="Main_C050_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container">
+</div>
+<div id="Main_C038_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container">
+
+
+<section class="carousel-card">
+    <div id="carouselExampleDark" class="carousel carousel-bootstrap carousel-dark slide my-3 h-100">
+        <div class="carousel-indicators">
+                <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="1" class="" aria-current="" aria-label="Slide 2"></button>
+
+        </div>
+        <div class="carousel-inner">
+
+                <div class="carousel-item active" data-bs-interval="10000" style="background-image:url(https://mcb.mg/images/mcbmadagascarlibraries/assets/mcb-madagascar-entreprise-banner-image.jpeg?sfvrsn=1260b840_1); ">
+
+                    <div class="carousel-caption d-none d-md-block">
+                            <h3>Banque en ligne</h3>
+                        <p>&nbsp;</p>
+                            <a href="/banque-en-ligne" target="_self" class="btn btn-more"><i class="icon icon-arrow-right" aria-hidden="true"></i> <span>Plus d&#39;informations</span> </a>
+                    </div>
+                </div>
+                <div class="carousel-item " data-bs-interval="10000" style="background-image:url(https://mcb.mg/images/mcbmadagascarlibraries/assets/madagascar-green-loan.jpeg?sfvrsn=899e55ca_2); ">
+
+                    <div class="carousel-caption d-none d-md-block">
+                            <h3>Green Loan</h3>
+                        <p>MCB Madagascar, première banque à signer une ligne de crédit verte SUNREF.</p>
+                            <a href="/entreprises/les-credits/green-loan" target="_self" class="btn btn-more"><i class="icon icon-arrow-right" aria-hidden="true"></i> <span>Plus d&#39;informations</span> </a>
+                    </div>
+                </div>
+
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="prev">
+            <span class="icon icon-arrow-left" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="next">
+            <span class="icon icon-arrow-right" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
+</section>
+
+
+</div>
+
+<div class="row mt-50" data-sf-element="Row">
+    <div id="Main_C008_Col00" class="sf_colsIn col-lg-12" data-sf-element="Column 1" data-placeholder-label="Column 1"><div id="Main_C010_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container">
+<div class="row mb-20" data-sf-element="Row">
+    <div id="Main_C018_Col00" class="sf_colsIn col-lg-12" data-sf-element="Column 1" data-placeholder-label="Column 1">
+
+<div class="check-ul-styling" >
+    <div ><h2>Outils &amp; calculateurs</h2></div>    
+</div>
+    </div>
+</div>
+<div class="row" data-sf-element="Row">
+    <div id="Main_C019_Col00" class="sf_colsIn col-lg-12" data-sf-element="Column 1" data-placeholder-label="Column 1">
+<div class="row hp-tools" data-sf-element="Row">
+    <div id="Main_C034_Col00" class="sf_colsIn col-lg-6" data-sf-element="Column 1" data-placeholder-label="Column 1">
+
+<div class="featured-box featured-box-primary border-radius-0 border-all-light box-shadow-none box-shadow-1 box-shadow-1-hover border-color-transparent-hover mt-0">
+    <div class="grid__item block-currency-convertor grid__item-1-2-large">
+
+
+        <div class="component component--collapsed">
+            <div class="tools-list" data-eh="yes" style="height: 445.281px;">
+                <a href="#" class="product-panel hidden-at-large" data-eh="yes" data-triggerer="true" data-show="#foreignexchangecalculatorpopup" style="height: 445.281px;">
+                    <div class="product-panel__header">
+                        <span class="icon--calculator"></span>
+                    </div>
+                    <div class="product-panel__info">
+                        <div class="product-panel__info-inner">
+                            <h2 class="h2 product-panel__info-title mt-4">Convertisseur de devises</h2>
+                            <p class="product-panel__info-text"></p>
+                            <span class="anchor product-panel__info-link">Utilisez notre convertisseur de devises</span>
+                        </div>
+                    </div>
+                </a>
+
+                <div id="ftools">
+                    <div id="foreignexchangecalculator" class="foreignexchangecalculator element-animate element-animate-show" data-equal="[data-eh]">
+                        <span class="foreignexchangecalculator__close" data-triggerer="true" data-hide="#foreignexchangecalculator" style="display: none;"><span class="icon--cross"></span></span>
+                        <div class="foreignexchangecalculator__inner">
+                            <div class="grid__row">
+                                <div class="grid__item grid__item--collapse-bottom grid__item-9-10-medium" data-eh="true" style="height: 126px;">
+                                    <div class="grid__row grid-row-new">
+                                        <div class="grid__item grid__item-4-10-medium me-4">
+                                            <div class="form__input-container">
+                                                <label class="visually-hidden" for="moneyAmount1a">
+                                                    <span></span>
+                                                </label>
+                                                <input type="text" name="moneyAmount1a" id="moneyAmount1a" value="1" class="form__input form__input--full-width moneyAmount1" placeholder="e.g. 100">
+                                            </div>
+                                        </div>
+                                        <div class="grid__item grid__item-6-10-medium grid_listing">
+                                            <div class="form__input-container">
+                                                <select id="currency1a" name="currency1a" class="form__input jquery-selectmenu--forex currency1">
+                                                        <option value="aud" >Australian Dollars AUD</option>
+                                                        <option value="cad" >Canadian Dollar CAD</option>
+                                                        <option value="chf" >Swiss Franc CHF</option>
+                                                        <option value="djf" >Djibouti Franc DJF</option>
+                                                        <option value="dkk" >Danish Krone DKK</option>
+                                                        <option value="eur" >Euro EUR</option>
+                                                        <option value="gbp" >Pound Sterling GBP</option>
+                                                        <option value="hkd" >Hong Kong Dollar HKD</option>
+                                                        <option value="jpy" >Japanese Yen JPY</option>
+                                                        <option value="mga" >Madagascar MGA</option>
+                                                        <option value="mur" >MAURITIUS RUPEE MUR</option>
+                                                        <option value="nok" >Norwegian Krone NOK</option>
+                                                        <option value="nzd" >New Zealand Dollars NZD</option>
+                                                        <option value="sek" >Swedish Krone SEK</option>
+                                                        <option value="sgd" >Singapore Dollars SGD</option>
+                                                        <option value="usd" selected>US Dollar USD</option>
+                                                        <option value="zar" >South African Rand ZAR</option>
+                                                </select>
+
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                    <div class="grid__item hidden-at-large grid-swap-currencies content-centered text-end mt-2">
+                                        <span class="foreignexchangecalculator__swap-currencies">
+                                            <i class="fa-solid fa-arrow-right-arrow-left fa-rotate-90 fs-2"></i>
+                                        </span>
+                                    </div>
+                                    <div class="grid__row grid-row-new">
+                                        <div class="grid__item grid__item--collapse-bottom grid__item-4-10-medium me-4">
+                                            <div class="form__input-container">
+                                                <label class="visually-hidden" for="moneyAmount2a">
+                                                    <span></span>
+                                                </label>
+                                                <input type="text" name="moneyAmount2a" id="moneyAmount2a" class="form__input form__input--full-width moneyAmount2" readonly="readonly">
+                                            </div>
+                                        </div>
+                                        <div class="grid__item grid__item-6-10-medium grid_listing">
+                                            <div class="form__input-container">
+                                                <select id="currency2a" name="currency2a" class="form__input jquery-selectmenu--forex currency2">
+
+                                                        <option value="aud" >Australian Dollars AUD</option>
+                                                        <option value="cad" >Canadian Dollar CAD</option>
+                                                        <option value="chf" >Swiss Franc CHF</option>
+                                                        <option value="djf" >Djibouti Franc DJF</option>
+                                                        <option value="dkk" >Danish Krone DKK</option>
+                                                        <option value="eur" >Euro EUR</option>
+                                                        <option value="gbp" >Pound Sterling GBP</option>
+                                                        <option value="hkd" >Hong Kong Dollar HKD</option>
+                                                        <option value="jpy" >Japanese Yen JPY</option>
+                                                        <option value="mga" selected>Madagascar MGA</option>
+                                                        <option value="mur" >MAURITIUS RUPEE MUR</option>
+                                                        <option value="nok" >Norwegian Krone NOK</option>
+                                                        <option value="nzd" >New Zealand Dollars NZD</option>
+                                                        <option value="sek" >Swedish Krone SEK</option>
+                                                        <option value="sgd" >Singapore Dollars SGD</option>
+                                                        <option value="usd" >US Dollar USD</option>
+                                                        <option value="zar" >South African Rand ZAR</option>
+
+                                                </select>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="grid__item grid__item--collapse-bottom grid__item-1-10-medium visible-at-large">
+                                    <div class="vertically-aligned" data-eh="true" style="height: 126px;">
+                                        <div class="vertically-aligned__content">
+                                            <span class="foreignexchangecalculator__swap-currencies"><span class="icon--swap foreignexchangecalculator__swap-currencies-icon"></span></span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="foreignexchangecalculator__results" style="">
+                                <span class="foreignexchangecalculator__results-from">
+                                    <span class="foreignexchangecalculator__results-base-amount"></span>  &#233;quivaut &#224;
+                                </span>
+                                <span class="foreignexchangecalculator__results-to">
+                                    <span class="foreignexchangecalculator__results-result-amount"></span>
+                                </span>
+                                <span class="foreignexchangecalculator__results-terms">
+                                    Clause de non-responsabilité: Les taux de change fournis par le présent convertisseur de devises sont à titre indicatif uniquement et sont une moyenne du prix d’achat et du prix de vente. À aucun moment, ils ne doivent être considérés comme équivalent aux taux appliqués par la Banque. Les clients doivent impérativement contacter les employés de la Banque pour connaître le taux du marché en vigueur avant de conclure toute transaction. Il est entendu et convenu qu’en aucun cas, la responsabilité de la Banque ne saurait être engagée en cas d’erreur, d’omission ou perte directe ou indirecte résultant de l'utilisation des taux de change fournis par ledit convertisseur de devises.
+                                </span>
+
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <script>
+                        var currencyData = {"aud":{"code":"AUD","label":"Australian Dollars","rate":3004.64014,"symbol":"","flag":null},"cad":{"code":"CAD","label":"Canadian Dollar","rate":3048.4502,"symbol":"","flag":null},"chf":{"code":"CHF","label":"Swiss Franc","rate":5285.51,"symbol":"","flag":null},"djf":{"code":"DJF","label":"Djibouti Franc","rate":24.1300011,"symbol":"","flag":null},"dkk":{"code":"DKK","label":"Danish Krone","rate":655.51,"symbol":"","flag":null},"eur":{"code":"EUR","label":"Euro","rate":4824.17969,"symbol":"","flag":null},"gbp":{"code":"GBP","label":"Pound Sterling","rate":5743.12,"symbol":"","flag":null},"hkd":{"code":"HKD","label":"Hong Kong Dollar","rate":547.949951,"symbol":"","flag":null},"jpy":{"code":"JPY","label":"Japanese Yen","rate":26.3499985,"symbol":"","flag":null},"mga":{"code":"MGA","label":"Madagascar","rate":1.0,"symbol":"","flag":"MG"},"mur":{"code":"MUR","label":"MAURITIUS RUPEE","rate":90.85,"symbol":"","flag":null},"nok":{"code":"NOK","label":"Norwegian Krone","rate":447.75,"symbol":"","flag":null},"nzd":{"code":"NZD","label":"New Zealand Dollars","rate":2498.53,"symbol":"","flag":null},"sek":{"code":"SEK","label":"Swedish Krone","rate":442.12,"symbol":"","flag":null},"sgd":{"code":"SGD","label":"Singapore Dollars","rate":3327.14,"symbol":"","flag":null},"usd":{"code":"USD","label":"US Dollar","rate":4296.33,"symbol":"","flag":null},"zar":{"code":"ZAR","label":"South African Rand","rate":260.81,"symbol":"","flag":null}};
+                        var baseCurrency = 'MGA';
+                    </script>
+
+                </div>
+            </div>
+
+        </div>
+        
+        
+    </div>
+</div>
+
+    </div>
+    <div id="Main_C034_Col01" class="sf_colsIn col-lg-3 container-zebra-table" data-sf-element="Column 2" data-placeholder-label="Column 2">
+<div id="Forex" class="p-4 featured-box featured-box-primary border-radius-0 border-all-light box-shadow-none box-shadow-1 box-shadow-1-hover border-color-transparent-hover container-zebra-table mt-0">
+    <div class="grid__item grid__item-1-4-large">
+        <div class="component component--collapsed">
+            <a href="https://mcb.mg/t%C3%A9l%C3%A9charger-les-taux-journaliers" class="product-panel hover-expand indicativeforex" data-eh="yes" target="_self">
+                <div class="product-panel__info">
+                    <div class="product-panel__info-inner">
+                        <h3 class="h3 product-panel__info-title">Taux de change indicatifs</h3>
+                        <div class="product-panel__info-text" id="indicativeRates">
+
+
+                        </div>
+                        <div class="product-panel__info-links">
+                            <span class="product-panel__info-link">
+                                <span class="icon--calculator product-panel__info-link-icon"></span>
+
+                                <span class="icon-label">Taux Journalier</span>
+
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+</div>
+<script>
+    let currency = "MGA";
+</script>
+
+    </div>
+    <div id="Main_C034_Col02" class="sf_colsIn col-lg-3" data-sf-element="Column 3" data-placeholder-label="Column 3">
+
+<div class="check-ul-styling" >
+    <div ><div class="card bg-img-col-3 text-center rounded-0"><div class="content-block d-flex flex-column justify-content-end align-items-center p-3" style="background-image: url(&quot;/images/mcbmadagascarlibraries/default-album/rates-and-fees-1.jpg&quot;); background-size: cover; background-position: center; min-height: 360px"><div class="mt-4 d-flex flex-column align-items-center justify-content-end"><h3 class="font-weight-medium text-color-light text-8 line-height-1 mb-2">Frais &amp; Charges</h3><p class="font-weight-medium text-color-light text-2 line-height-4">Taux d'intérêt, frais et charges applicables aux services bancaires particuliers et aux entreprises</p></div><div class="d-flex flex-row flex-wrap align-items-center justify-content-evenly"><a class="btn btn-light btn-outline btn-outline-thin btn-outline-light-opacity-2 btn-effect-5 font-weight-semi-bold px-3 btn-py-2 text-3 text-color-light text-color-hover-dark d-flex flex-row ms-1 mb-1 text-1" target="_blank" href="/docs/mcbmadagascarlibraries/frais-et-charges/particuliers-fevrier-2026.pdf?sfvrsn=3d1a4d0c_10">Applicables à compter du 1er Fevrier 2026<span class="icon-bi_download ms-1"></span></a>
+ </div></div></div></div>    
+</div>
+    </div>
+</div>
+
+    </div>
+</div>
+
+</div>
+
+    </div>
+</div>
+
+<div class="row mt-50" data-sf-element="Row">
+    <div id="Main_C009_Col00" class="sf_colsIn col-lg-12" data-sf-element="Column 1" data-placeholder-label="Column 1"><div id="Main_C011_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container">
+<div class="row" data-sf-element="Row">
+    <div id="Main_C026_Col00" class="sf_colsIn col-lg-4" data-sf-element="Column 1" data-placeholder-label="Column 1">
+
+<div class="owl-item active" style="margin-right: 10px;">
+    <div>
+
+        <div class="card bg-color-light box-shadow-1 box-shadow-1-hover anim-hover-translate-top-10px transition-3ms">
+
+            <div class="card-body">
+
+                <!--<img src="/images/downtimelibraries/default-album/help-support.jpeg" class="img-fluid hover-effect-2 mb-3" alt="">-->
+
+                <h3 class="card-title mb-2 text-5 font-weight-medium text-decoration-none text-transform-none">Banque en Ligne</h3>
+
+                <p class="card-text line-height-5 mt-2">Simplifiez vos transactions bancaires quotidiennes avec plus de liberté et de confort</p>
+
+                <p class="mb-0 mt-3"><a href="/banque-en-ligne" class="read-more text-color-primary font-weight-semibold mt-2 text-2">Plus d'information <i class="fas fa-angle-right position-relative top-1 ms-1"></i></a></p>
+
+            </div>
+
+        </div>
+
+    </div>
+</div>
+    </div>
+    <div id="Main_C026_Col01" class="sf_colsIn col-lg-4" data-sf-element="Column 2" data-placeholder-label="Column 2">
+
+<div class="owl-item active" style="margin-right: 10px;">
+    <div>
+
+        <div class="card bg-color-light box-shadow-1 box-shadow-1-hover anim-hover-translate-top-10px transition-3ms">
+
+            <div class="card-body">
+
+                <!--<img src="/images/downtimelibraries/default-album/help-support.jpeg" class="img-fluid hover-effect-2 mb-3" alt="">-->
+
+                <h3 class="card-title mb-2 text-5 font-weight-medium text-decoration-none text-transform-none">Besoin d'aide ?</h3>
+
+                <p class="card-text line-height-5 mt-2">Nous avons rassemblé les questions posées le plus fréquemment par nos clients</p>
+
+                <p class="mb-0 mt-3"><a href="/banque-en-ligne/faq" class="read-more text-color-primary font-weight-semibold mt-2 text-2">Voir Plus <i class="fas fa-angle-right position-relative top-1 ms-1"></i></a></p>
+
+            </div>
+
+        </div>
+
+    </div>
+</div>
+    </div>
+    <div id="Main_C026_Col02" class="sf_colsIn col-lg-4 d-none" data-sf-element="Column 3" data-placeholder-label="Column 3">
+    </div>
+</div>
+
+</div>
+
+    </div>
+</div>
+ </div> <footer id="footer" class="footer-top-border without-border bg-color-light-scale-1 pt-0 mt-0"> <script defer>
+                var owlCarouselTopBanner = document.getElementsByClassName('owl-carousel-top-banner');
+                var desktopMenu = document.getElementsByClassName("desktop-menu");
+                if (owlCarouselTopBanner.length > 0) {
+
+                    desktopMenu[0].classList.add("header-home");
+                } else {
+
+                    desktopMenu[0].classList.remove("header-home");
+                }
+            </script> 
+<div id="Footer_T2BC3A81D008_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container">
+<div class="row footer-desktop" data-sf-element="Row">
+    <div id="Footer_T2BC3A81D020_Col00" class="sf_colsIn col-lg-12" data-sf-element="Column 1" data-placeholder-label="Column 1"><div class="row" data-sf-element="Row">
+    <div id="Footer_T2BC3A81D029_Col00" class="sf_colsIn col-md-6 col-lg-3 mb-4 mb-lg-0 pb-20" data-sf-element="Column 1" data-placeholder-label="Column 1">
+
+<h5 class="text-3 text-color-dark mb-3">Resources</h5>
+
+<ul class="list list-icons list-icons-sm">
+    <li><a href="/politique-de-cookies" data-sf-ec-immutable="">
+
+            <em class="fas fa-caret-right"></em>Politique de cookies
+
+        </a>
+
+    </li>
+    <li><a href="/docs/mcbmadagascarlibraries/frais-et-charges/particuliers-fevrier-2026" data-sf-ec-immutable="">
+
+            <em class="fas fa-caret-right"></em>Frais &amp; Charges Particuliers
+        </a>
+
+    </li>
+    <li><a href="/docs/mcbmadagascarlibraries/frais-et-charges/entreprises-fevrier-2026.pdf" data-sf-ec-immutable="">
+      
+
+            <em class="fas fa-caret-right"></em>Frais &amp; Charges Entreprises
+
+        </a>
+
+    </li>
+                  <li><a href="/docs/mcbmadagascarlibraries/frais-et-charges/associations-fevrier-2026.pdf" data-sf-ec-immutable="">
+      
+
+            <em class="fas fa-caret-right"></em>Frais &amp; Charges Associations
+
+        </a>
+
+    </li>
+    <li><a href="https://mcb.mu/resources/libor-transition" data-sf-ec-immutable="" target="_blank">
+
+            <em class="fas fa-caret-right"></em>La transition du LIBOR
+
+        </a>
+
+    </li>
+              </ul>
+    </div>
+     <div id="Footer_T2BC3A81D029_Col01" class="sf_colsIn col-md-6 col-lg-3 mb-4 mb-lg-0 pb-20" data-sf-element="Column 2" data-placeholder-label="Column 2">
+
+<h5 class="text-3 text-color-dark mb-3">Filiales à l’étranger</h5>
+
+<ul class="list list-icons list-icons-sm">
+    <li><a href="https://mcb.mu/" data-sf-ec-immutable="" target="_blank">
+
+            <em class="fas fa-caret-right"></em>MCB Maurice
+
+        </a>
+
+    </li>
+    <li><a href="https://mcb.sc/" data-sf-ec-immutable="" target="_blank">
+
+            <em class="fas fa-caret-right"></em>MCB Seychelles
+
+        </a>
+
+    </li>
+        <li><a href="https://mcb.mv/" data-sf-ec-immutable="" target="_blank">
+        
+                <em class="fas fa-caret-right"></em>MCB Maldives
+            </a>
+        
+        </li>
+</ul>
+    </div>
+     <div id="Footer_T2BC3A81D029_Col02" class="sf_colsIn col-md-6 col-lg-3 mb-4 mb-md-0 pb-20" data-sf-element="Column 3" data-placeholder-label="Column 3">
+
+<h5 class="text-3 text-color-dark mb-3">Subsidiaries & Associates</h5>
+<ul class="list list-icons list-icons-sm">
+    <li><a href="https://mcbcapitalmarkets.mu/" data-sf-ec-immutable="" target="_blank">
+
+            <em class="fas fa-caret-right"></em>MCB Capital Markets
+
+        </a>
+
+    </li>
+    <li><a href="https://mcbcapitalmarkets.mu/services/brokerage-investments" data-sf-ec-immutable=""  target="_blank">
+
+            <em class="fas fa-caret-right"></em>MCB Securities
+        </a>
+
+    </li>
+    <!-- <li><a href="https://mcbgroup.com/mcb-investment-holding" data-sf-ec-immutable="">
+
+            <em class="fas fa-caret-right"></em>MCB Investment Holding Ltd
+        </a>
+
+    </li> -->
+    <li><a href="https://mcb.mu/corporate/investment-advisory/securities-services" data-sf-ec-immutable=""  target="_blank">
+
+            <em class="fas fa-caret-right"></em> MCB Registry & Transfer Agent
+        </a>
+
+    </li>
+    <li><a href="https://mcbleasing.mu/" data-sf-ec-immutable="" target="_blank">
+
+            <em class="fas fa-caret-right"></em>MCB Leasing
+
+        </a>
+
+    </li>
+    <li><a href="https://mcbfactors.mu/" data-sf-ec-immutable="" target="_blank">
+
+            <em class="fas fa-caret-right"></em>MCB Factors
+
+        </a>
+
+    </li>
+</ul>
+    </div>
+     <div id="Footer_T2BC3A81D029_Col03" class="sf_colsIn col-md-6 col-lg-3 pb-20" data-sf-element="Column 4" data-placeholder-label="Column 4">
+
+<h5 class="text-3 text-color-dark mb-3">MCB Group</h5>
+
+<ul class="list list-icons list-icons-sm">
+  <li>
+    <a href="https://mcbgroup.com/news" data-sf-ec-immutable=""  target="_blank"> <em class="fas fa-caret-right"></em>News</a>
+  </li>
+  <li>
+    <a href="https://mcbgroup.com/investors-centre" data-sf-ec-immutable=""  target="_blank"> <em class="fas fa-caret-right"></em>Investor Centre</a>
+  </li>
+  <li>
+    <a href="https://mcbgroup.com/company-profile" data-sf-ec-immutable=""  target="_blank"> <em class="fas fa-caret-right"></em>Company Profile</a>
+  </li>
+  <li>
+    <a href="https://mcbgroup.com/corporate-governance" data-sf-ec-immutable=""  target="_blank"> <em class="fas fa-caret-right"></em>Corporate Governance</a>
+  </li>
+</ul>
+    </div>
+</div>
+
+<div class="row" data-sf-element="Row">
+    <div id="Footer_T2BC3A81D010_Col00" class="sf_colsIn col-md-6 col-lg-4 mb-4 mb-lg-0 pb-20" data-sf-element="Column 1" data-placeholder-label="Column 1">
+    </div>
+    <div id="Footer_T2BC3A81D010_Col01" class="sf_colsIn col-md-6 col-lg-4 mb-4 mb-lg-0 pb-20" data-sf-element="Column 2" data-placeholder-label="Column 2">
+    </div>
+    <div id="Footer_T2BC3A81D010_Col02" class="sf_colsIn col-md-6 col-lg-4 mb-4 mb-lg-0 pb-20" data-sf-element="Column 3" data-placeholder-label="Column 3">
+    </div>
+</div>
+
+<div class="row mt-50" data-sf-element="Row">
+    <div id="Footer_T2BC3A81D014_Col00" class="sf_colsIn col-lg-12" data-sf-element="Column 1" data-placeholder-label="Column 1">
+<div class="row justify-content-center" data-sf-element="Row">
+    <div id="Footer_T2BC3A81D015_Col00" class="sf_colsIn col-md-6 col-lg-3 mb-4 mb-lg-0 pb-20" data-sf-element="Column 1" data-placeholder-label="Column 1">
+
+<a href="/contact" class="d-flex align-items-center">
+  <i class="fas fa-thin fa-file-lines fa-xl me-2"></i>
+
+  <h5 class="text-3 text-color-dark mb-0">Nous contacter</h5>
+</a>
+    </div>
+     <div id="Footer_T2BC3A81D015_Col01" class="sf_colsIn col-md-6 col-lg-3 mb-4 mb-lg-0 pb-20" data-sf-element="Column 2" data-placeholder-label="Column 2">
+
+<a href="/trouver-une-agence" class="d-flex align-items-center">
+
+    <i class="fas fa-solid fa-location-dot fa-xl me-2"></i>
+
+    <h5 class="text-3 text-color-dark mb-0">
+
+        Trouver une agence
+
+    </h5>
+
+</a>
+    </div>
+     <div id="Footer_T2BC3A81D015_Col02" class="sf_colsIn col-md-6 col-lg-3 mb-4 mb-md-0 pb-20" data-sf-element="Column 3" data-placeholder-label="Column 3">
+
+<a href="/banque-en-ligne/faq" class="d-flex align-items-center">
+
+    <i class="fas fa-light fa-circle-question fa-xl me-2"></i>
+
+    <h5 class="text-3 text-color-dark mb-0">
+
+        Besoin d'aide ?
+
+    </h5>
+
+</a>
+    </div>
+     <div id="Footer_T2BC3A81D015_Col03" class="sf_colsIn col-md-6 col-lg-3 pb-20 d-none" data-sf-element="Column 4" data-placeholder-label="Column 4">
+    </div>
+</div>
+
+    </div>
+</div>
+
+<div class="row mt-50" data-sf-element="Row">
+    <div id="Footer_T2BC3A81D018_Col00" class="sf_colsIn col-lg-12" data-sf-element="Column 1" data-placeholder-label="Column 1">
+
+<div class="footer-copyright footer-top-border bg-color-light-scale-1">
+
+    <div class="container">
+
+        <div class="row">
+
+            <div class="col-lg-1 d-flex align-items-center justify-content-center justify-content-lg-start mb-2 mb-lg-0">
+
+                <a href="/" class="logo pe-0 pe-lg-1">
+
+                    <img src="/images/mcbmadagascarlibraries/default-album/logo-mcb-color.svg" sf-size="8076" data-sf-ec-immutable="" height="32" alt="" />
+
+                </a>
+
+            </div>
+
+            <div class="col-lg-7 d-flex align-items-center justify-content-center justify-content-lg-start mb-4 mb-lg-0">
+
+                <p id="copyright" style="text-align:right;"></p>
+
+                <script>
+
+                    date = new Date();
+
+                    year = date.getFullYear();
+
+                    text = "© " + year + " MCB Madagascar, une filiale de <a href=\"https://www.mcbgroup.com\" target=\"_blank\"><strong>MCB Group Ltd</strong></a>"
+
+                    document.getElementById("copyright").innerHTML = text;
+
+                </script>
+
+            </div>
+
+            <div class="col-lg-4 d-flex align-items-center justify-content-center justify-content-lg-end">
+
+
+
+                <ul class="header-social-icons social-icons">
+
+                    <li class="social-icons-facebook"><a href="https://www.facebook.com/mcb.madagascar/" target="_blank" title="Facebook"><i class="fab fa-facebook-f text-2"></i></a></li>
+
+                    <li class="social-icons-twitter d-none"><a href="https://twitter.com/mcbgroup" target="_blank" title="Twitter"><i class="icon-twitter"></i></a></li>
+
+                    <li class="social-icons-linkedin"><a href="https://www.linkedin.com/company/mcbmadagascar" target="_blank" title="Linkedin"><i class="fab fa-linkedin-in text-2"></i></a></li>
+
+                </ul>
+
+
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+
+
+
+    </div>
+</div>
+
+    </div>
+</div>
+
+</div>
+ </footer> </div>    <script src="/ResourcePackages/MCBMU/assets/dist/vendor/plugins/js/plugins.min.js?package=MCBMU" type="text/javascript"></script><script src="/ResourcePackages/MCBMU/assets/dist/js/theme.js?package=MCBMU" type="text/javascript"></script><script src="/ResourcePackages/MCBMU/assets/dist/js/views/view.contact.js?package=MCBMU" type="text/javascript"></script><script src="/ResourcePackages/MCBMU/assets/dist/js/demos/demo-business-consulting-2.js?package=MCBMU" type="text/javascript"></script><script src="/ResourcePackages/MCBMU/assets/dist/js/custom.js?package=MCBMU" type="text/javascript"></script><script src="/ResourcePackages/MCBMU/assets/dist/js/ma5-menu.js?package=MCBMU" type="text/javascript"></script> <script src="/ResourcePackages/MCBMU/assets/dist/js/theme.init.js?package=MCBMU" type="text/javascript"></script><script src="/ResourcePackages/MCBMU/assets/dist/js/jquery-ui.min.js?package=MCBMU" type="text/javascript"></script><script src="/ResourcePackages/MCBMU/assets/dist/js/forexCalculator.js?package=MCBMU" type="text/javascript"></script><script src="/ResourcePackages/MCBMU/assets/dist/js/forexdata.js?package=MCBMU" type="text/javascript"></script><script type="application/json" id="PersonalizationTracker">
+	{"IsPagePersonalizationTarget":false,"IsUrlPersonalizationTarget":false,"PageId":"4a06d483-4637-413a-aff9-21f7042f311e"}
+</script><script type="text/javascript" src="/WebResource.axd?d=NjxTqR2bqTw1rewxxlkHPoPYunvfVEoY4E-wwpitnlh_NUAgGpAzGOc5XN_4QOC7EMbr77fD7_S-e6lsXJI8FwgQq7yGA02uJdEKbccFYOVrV4b5klpK9dbnf8XBA4A-erNVSzV8ecYrDyLMxyDHv3coq8fAT8b3Smb9URSBbjyXEpwg5GOuels9K6i7XjzUWw80JIYI_sWuorqFewH0NXtRt0VAtgMEbcrWvL8FdwE1&amp;t=639013907760000000">
+
+</script><script type="text/javascript">
+$(document).ready(function() {
+                window.addEventListener("resize", updateLayout, false); 
+                
+                function updateLayout() {
+                  if(window.innerWidth < 991) {
+                    $(".burger-wrapper").on("changedClass", function(){
+                        $(this).removeClass("active");
+                    });
+
+                    $(document).on("click", "#onetrust-consent-sdk", function(){
+                        $(".ma5menu__toggle .burger-wrapper").removeClass('active'); 
+                    });
+                  } 
+                }
+  		updateLayout();
+            });
+
+$(document).ready(function() {
+  
+  $(window).scroll(function () {
+  
+      var currentScrollNew1 = $(window).scrollTop();
+  
+      if (currentScrollNew1 >= 840) {
+          $('.top-header').addClass('fix-nav');
+          $('.navigation').addClass('fix-nav');
+      } else {
+          $('.top-header').removeClass('fix-nav');
+          $('.navigation').removeClass('fix-nav');
+      }
+  
+  });
+});
+</script> <!-- Vendor --> <!-- Theme Base, Components and Settings --> <!-- Current Page Vendor and Views --> <!-- Demo --> <!-- Theme Custom --> <script>
+            $(document).ready(function () {
+
+                /***** ma5menu config starts *****/
+
+                ma5menu({
+                    menu: '.site-menu',
+                    activeClass: 'active',
+                    footer: '#ma5menu-tools',
+                    position: 'bottom',
+                    closeOnBodyClick: true
+                });
+
+                /***** ma5menu config ends *****/
+
+                /***** ma5menu custom starts *****/
+
+                $('.ma5menu__btn--enter').on('click',
+                    function () {
+                        $('.ma5menu__logo').css('display', 'none');
+                    });
+
+                $('.ma5menu__btn--leave').on('click',
+                    function () {
+                        setTimeout(
+                            function () {
+                                var className = $(".ma5menu__container .lvl-0").attr("class");
+                                if (className.indexOf('ma5menu__panel--active') != -1) {
+                                    $('.ma5menu__logo').css('display', 'block');
+                                }
+                            },
+                            100);
+                    });
+
+                /********  Hide mobile menu on mobile starts   *********/
+
+                $(document).ready(function () {
+
+                    var previousScroll = 0;
+
+                    $(window).scroll(function () {
+
+                        var currentScroll = $(this).scrollTop();
+
+                        // If the current scroll position is greater than 0 (the top) AND the current scroll position is less than the document height minus the window height (the bottom) run the navigation if/else statement.
+                        if (currentScroll > 0 && currentScroll < $(document).height() - $(window).height()) {
+
+                            // If the current scroll is greater than the previous scroll (i.e we're scrolling down the page), hide the nav.
+                            if (currentScroll > previousScroll) {
+                                window.setTimeout(hideNav, 300);
+                            } else {
+                                window.setTimeout(showNav, 300);
+                            }
+
+                            // Set the previous scroll value equal to the current scroll.
+                            previousScroll = currentScroll;
+                        }
+
+                    });
+
+                    function hideNav() {
+                        $(".nav-logo-buttons").removeClass("is-visible").addClass("is-hidden");
+                    }
+
+                    function showNav() {
+                        $(".nav-logo-buttons").removeClass("is-hidden").addClass("is-visible");
+                    }
+
+                });
+
+                /********  Hide mobile menu on mobile ends   *********/
+                if ($(".btn-floating")[0]) {
+                    var fixFloatingBtnNew = $('.btn-floating').offset().top;
+
+                    $(window).scroll(function () {
+
+                        var currentScrollNew = $(window).scrollTop();
+
+                        if (currentScrollNew >= fixFloatingBtnNew + 39) {
+
+                            $('.main-product-btn-clone').addClass("visible");
+                            $('.main-product-btn-clone').removeClass("hidden");
+
+                        } else {
+
+                            $('.main-product-btn-clone').addClass("hidden");
+                            $('.main-product-btn-clone').removeClass("visible");
+                        }
+
+
+                    });
+                }
+
+
+                var fixmeTopNew = $('.desktop-menu').offset().top;
+
+                $(window).scroll(function () {
+
+                    var currentScrollNew = $(window).scrollTop();
+
+                    if (currentScrollNew >= 10) {
+                        $('.desktop-menu').addClass('anim-header-home');
+                        $('.desktop-menu').removeClass('header-home-top');
+
+
+                    } else {
+                        $('.desktop-menu').removeClass('anim-header-home');
+                        $('.desktop-menu').addClass('header-home-top');
+                    }
+
+                });
+
+
+                $(window).scroll(function () {
+
+                    var currentScrollNew1 = $(window).scrollTop();
+
+                    if (currentScrollNew1 >= 840) {
+                        $('.top-header').addClass('fix-nav');
+                        $('.navigation').addClass('fix-nav');
+                    } else {
+                        $('.top-header').removeClass('fix-nav');
+                        $('.navigation').removeClass('fix-nav');
+                    }
+
+                });
+
+
+                if ($(".main-banner")[0]) {
+                    $('.navigation').addClass("landing-banner");
+                } else {
+                    $('.navigation').removeClass('landing-banner');
+                }
+
+
+
+                $('.dropdown-menu').on("click.bs.dropdown",
+                    function (e) {
+                        e.stopPropagation();
+                    });
+
+                $('.btn-close-dropdown-menu').on("click",
+                    function () {
+                        $('.navbar-nav .dropdown-menu').removeClass('show');
+                        $('.navbar-nav .dropdown-toggle').removeClass('show');
+                        $('#overlay').css('display', 'none');
+                    });
+
+                $('.navbar-nav .has-megamenu .dropdown-toggle').on("click",
+                    function () {
+                        var overlay = jQuery('<div id="overlay"> </div>');
+                        overlay.appendTo(document.body);
+                        $('#overlay').css({ "position": "fixed", "top": "0", "left": "0", "width": "100%", "height": "100%", "background-color": "#000", "opacity": "0.9", "z-index": "1010" });
+
+                        if ($(".megamenu").hasClass("show")) {
+
+                            $('#overlay').css('display', 'block');
+
+                        } else {
+                            $('#overlay').css('display', 'none');
+                        }
+
+
+                    });
+
+                /*
+                if ($(".owl-carousel-top-banner")[0]) {
+                    $('.desktop-menu').addClass("header-home");
+                } else {
+                    $('.desktop-menu').removeClass('header-home');
+                };
+                */
+
+                if ($(".owl-carousel-top-banner")[0] || $(".detail-page-banner")[0] || $(".banner-small")[0] || $(".owl-carousel-new")[0]) {
+                    $('.main').removeClass('no-banner-spacing');
+                } else {
+                    $('.main').addClass("no-banner-spacing");
+                };
+
+
+                $(document).on("click",
+                    function (event) {
+                        var $trigger = $(".dropdown");
+                        if ($trigger !== event.target && !$trigger.has(event.target).length) {
+                            $('#overlay').css('display', 'none');
+                        }
+                    });
+
+
+            });
+        </script> <!-- Theme Initialization Files --> </body> </html>

@@ -1,0 +1,255 @@
+country_name,iso2_code,iso3_code,continent,region_id,currency_id,latitude,longitude,country_flag_url,official_website
+Abkhazia,,,Asia,4,119,43,41,,http://presidentofabkhazia.org
+Afghanistan,AF,AFG,Asia,4,2,33,65,https://flags.restcountries.com/v5/w640/af.png,https://president.gov.af
+Albania,AL,ALB,Europe,5,3,41,20,https://flags.restcountries.com/v5/w640/al.png,https://www.kryeministria.al
+Algeria,DZ,DZA,Africa,1,41,28,3,https://flags.restcountries.com/v5/w640/dz.png,https://www.el-mouradia.dz
+American Samoa,AS,ASM,Oceania,6,146,-14.33333333,-170,https://flags.restcountries.com/v5/w640/as.png,
+Andorra,AD,AND,Europe,5,47,42.5,1.5,https://flags.restcountries.com/v5/w640/ad.png,https://www.govern.ad
+Angola,AO,AGO,Africa,1,6,-12.5,18.5,https://flags.restcountries.com/v5/w640/ao.png,https://www.governo.gov.ao
+Anguilla,AI,AIA,North America,2,154,18.25,-63.16666666,https://flags.restcountries.com/v5/w640/ai.png,
+Antarctica,AQ,ATA,Antarctica,3,,-90,0,https://flags.restcountries.com/v5/w640/aq.png,
+Antigua and Barbuda,AG,ATG,North America,2,154,17.05,-61.8,https://flags.restcountries.com/v5/w640/ag.png,https://www.ab.gov.ag
+Argentina,AR,ARG,South America,2,7,-34,-64,https://flags.restcountries.com/v5/w640/ar.png,https://www.argentina.gob.ar
+Armenia,AM,ARM,Asia,4,4,40,45,https://flags.restcountries.com/v5/w640/am.png,https://www.gov.am
+Aruba,AW,ABW,North America,2,9,12.5,-69.96666666,https://flags.restcountries.com/v5/w640/aw.png,
+Australia,AU,AUS,Oceania,6,8,-27,133,https://flags.restcountries.com/v5/w640/au.png,https://www.australia.gov.au
+Austria,AT,AUT,Europe,5,47,47.33333333,13.33333333,https://flags.restcountries.com/v5/w640/at.png,https://www.oesterreich.gv.at
+Azerbaijan,AZ,AZE,Europe,4,10,40.5,47.5,https://flags.restcountries.com/v5/w640/az.png,https://president.az
+Bahamas,BS,BHS,North America,2,20,25.0343,-77.3963,https://flags.restcountries.com/v5/w640/bs.png,https://www.bahamas.gov.bs
+Bahrain,BH,BHR,Asia,4,14,26,50.55,https://flags.restcountries.com/v5/w640/bh.png,https://www.bahrain.bh
+Bangladesh,BD,BGD,Asia,4,13,24,90,https://flags.restcountries.com/v5/w640/bd.png,
+Barbados,BB,BRB,North America,2,12,13.16666666,-59.53333333,https://flags.restcountries.com/v5/w640/bb.png,https://www.gov.bb
+Belarus,BY,BLR,Europe,5,23,53,28,https://flags.restcountries.com/v5/w640/by.png,https://president.gov.by
+Belgium,BE,BEL,Europe,5,47,50.83333333,4,https://flags.restcountries.com/v5/w640/be.png,https://www.belgium.be
+Belize,BZ,BLZ,North America,2,24,17.25,-88.75,https://flags.restcountries.com/v5/w640/bz.png,
+Benin,BJ,BEN,Africa,1,155,9.5,2.25,https://flags.restcountries.com/v5/w640/bj.png,https://www.gouv.bj
+Bermuda,BM,BMU,North America,2,16,32.33333333,-64.75,https://flags.restcountries.com/v5/w640/bm.png,
+Bhutan,BT,BTN,Asia,4,21,27.5,90.5,https://flags.restcountries.com/v5/w640/bt.png,https://www.bhutan.gov.bt
+Bolivia,BO,BOL,South America,2,18,-17,-65,https://flags.restcountries.com/v5/w640/bo.png,https://www.bolivia.gob.bo
+Bosnia and Herzegovina,BA,BIH,Europe,5,11,44,18,https://flags.restcountries.com/v5/w640/ba.png,https://www.vijeceministara.gov.ba
+Botswana,BW,BWA,Africa,1,22,-22,24,https://flags.restcountries.com/v5/w640/bw.png,https://www.gov.bw
+Bouvet Island,BV,BVT,Antarctica,3,,-54.4208,3.3464,https://flags.restcountries.com/v5/w640/bv.png,
+Brazil,BR,BRA,South America,2,19,-10,-55,https://flags.restcountries.com/v5/w640/br.png,https://www.gov.br
+British Indian Ocean Territory,IO,IOT,Asia,1,146,-6,71.5,https://flags.restcountries.com/v5/w640/io.png,
+British Virgin Islands,VG,VGB,North America,2,146,18.431383,-64.62305,https://flags.restcountries.com/v5/w640/vg.png,
+Brunei,BN,BRN,Asia,4,17,4.5,114.6666667,https://flags.restcountries.com/v5/w640/bn.png,https://www.gov.bn
+Bulgaria,BG,BGR,Europe,5,47,43,25,https://flags.restcountries.com/v5/w640/bg.png,https://www.government.bg
+Burkina Faso,BF,BFA,Africa,1,155,13,-2,https://flags.restcountries.com/v5/w640/bf.png,https://www.gouvernement.gov.bf
+Burundi,BI,BDI,Africa,1,15,-3.5,30,https://flags.restcountries.com/v5/w640/bi.png,https://www.presidence.gov.bi
+Cabo Verde,CV,CPV,Africa,1,35,16.5388,-23.0418,https://flags.restcountries.com/v5/w640/cv.png,https://www.governo.cv
+Cambodia,KH,KHM,Asia,4,74,13,105,https://flags.restcountries.com/v5/w640/kh.png,https://www.pressocm.gov.kh
+Cameroon,CM,CMR,Africa,1,153,6,12,https://flags.restcountries.com/v5/w640/cm.png,https://www.spm.gov.cm
+Canada,CA,CAN,North America,2,25,60,-95,https://flags.restcountries.com/v5/w640/ca.png,https://www.canada.ca
+Caribbean Netherlands,BQ,BES,North America,2,146,12.18,-68.25,https://flags.restcountries.com/v5/w640/bq.png,
+Cayman Islands,KY,CYM,North America,2,79,19.3133,-81.2546,https://flags.restcountries.com/v5/w640/ky.png,
+Central African Republic,CF,CAF,Africa,1,153,7,21,https://flags.restcountries.com/v5/w640/cf.png,https://www.gouvernement.cf
+Chad,TD,TCD,Africa,1,153,15,19,https://flags.restcountries.com/v5/w640/td.png,https://www.primature.td
+Chile,CL,CHL,South America,2,30,-30,-71,https://flags.restcountries.com/v5/w640/cl.png,https://www.gob.cl
+China,CN,CHN,Asia,4,31,35,105,https://flags.restcountries.com/v5/w640/cn.png,https://www.gov.cn
+Christmas Island,CX,CXR,Asia,6,8,-10.5,105.6666667,https://flags.restcountries.com/v5/w640/cx.png,
+Cocos (Keeling) Islands,CC,CCK,Asia,6,8,-12.1642,96.871,https://flags.restcountries.com/v5/w640/cc.png,
+Colombia,CO,COL,South America,2,32,4,-72,https://flags.restcountries.com/v5/w640/co.png,https://www.gov.co
+Comoros,KM,COM,Africa,1,75,-12.16666666,44.25,https://flags.restcountries.com/v5/w640/km.png,https://www.beit-salam.km
+Congo,CG,COG,Africa,1,153,-1,15,https://flags.restcountries.com/v5/w640/cg.png,https://www.gouvernement.cg
+Cook Islands,CK,COK,Oceania,6,29,-21.23333333,-159.7666667,https://flags.restcountries.com/v5/w640/ck.png,
+Costa Rica,CR,CRI,North America,2,33,10,-84,https://flags.restcountries.com/v5/w640/cr.png,
+Croatia,HR,HRV,Europe,5,47,45.16666666,15.5,https://flags.restcountries.com/v5/w640/hr.png,https://vlada.gov.hr
+Cuba,CU,CUB,North America,2,34,21.5,-80,https://flags.restcountries.com/v5/w640/cu.png,https://www.cuba.cu
+Curaçao,CW,CUW,North America,2,5,12.116667,-68.933333,https://flags.restcountries.com/v5/w640/cw.png,
+Cyprus,CY,CYP,Europe,5,47,35,33,https://flags.restcountries.com/v5/w640/cy.png,https://www.cyprus.gov.cy
+Czechia,CZ,CZE,Europe,5,36,49.75,15.5,https://flags.restcountries.com/v5/w640/cz.png,https://www.vlada.cz
+DRC,CD,COD,Africa,1,26,0,25,https://flags.restcountries.com/v5/w640/cd.png,https://www.presidentrdc.cd
+Denmark,DK,DNK,Europe,5,38,56,10,https://flags.restcountries.com/v5/w640/dk.png,https://www.stm.dk
+Djibouti,DJ,DJI,Africa,1,37,11.5,43,https://flags.restcountries.com/v5/w640/dj.png,https://www.presidence.dj
+Dominica,DM,DMA,North America,2,154,15.41666666,-61.33333333,https://flags.restcountries.com/v5/w640/dm.png,https://www.dominica.gov.dm
+Dominican Republic,DO,DOM,North America,2,40,19,-70.66666666,https://flags.restcountries.com/v5/w640/do.png,https://www.gob.do
+Ecuador,EC,ECU,South America,2,146,-2,-77.5,https://flags.restcountries.com/v5/w640/ec.png,https://www.gob.ec
+Egypt,EG,EGY,Africa,1,43,27,30,https://flags.restcountries.com/v5/w640/eg.png,https://www.egypt.gov.eg
+El Salvador,SV,SLV,North America,2,146,13.83333333,-88.91666666,https://flags.restcountries.com/v5/w640/sv.png,https://www.presidencia.gob.sv
+Equatorial Guinea,GQ,GNQ,Africa,1,153,2,10,https://flags.restcountries.com/v5/w640/gq.png,https://www.guineaecuatorialpress.com
+Eritrea,ER,ERI,Africa,1,45,15,39,https://flags.restcountries.com/v5/w640/er.png,https://www.shabait.com
+Estonia,EE,EST,Europe,5,47,59,26,https://flags.restcountries.com/v5/w640/ee.png,https://www.valitsus.ee
+Eswatini,SZ,SWZ,Africa,1,134,-26.5,31.5,https://flags.restcountries.com/v5/w640/sz.png,https://www.gov.sz
+Ethiopia,ET,ETH,Africa,1,46,8,38,https://flags.restcountries.com/v5/w640/et.png,https://www.ethiopia.gov.et
+Falkland Islands,FK,FLK,South America,2,49,-51.75,-59,https://flags.restcountries.com/v5/w640/fk.png,
+Faroe Islands,FO,FRO,Europe,5,38,62,-7,https://flags.restcountries.com/v5/w640/fo.png,
+Fiji,FJ,FJI,Oceania,6,48,-17.7134,178.065,https://flags.restcountries.com/v5/w640/fj.png,https://www.fiji.gov.fj
+Finland,FI,FIN,Europe,5,47,64,26,https://flags.restcountries.com/v5/w640/fi.png,https://valtioneuvosto.fi
+France,FR,FRA,Europe,5,47,46,2,https://flags.restcountries.com/v5/w640/fr.png,https://www.gouvernement.fr
+French Guiana,GF,GUF,South America,2,47,4,-53,https://flags.restcountries.com/v5/w640/gf.png,
+French Polynesia,PF,PYF,Oceania,6,156,-17.6797,-149.4068,https://flags.restcountries.com/v5/w640/pf.png,
+French Southern and Antarctic Lands,TF,ATF,Antarctica,3,47,-49.25,69.167,https://flags.restcountries.com/v5/w640/tf.png,
+Gabon,GA,GAB,Africa,1,153,-1,11.75,https://flags.restcountries.com/v5/w640/ga.png,https://www.gouvernement.ga
+Gambia,GM,GMB,Africa,1,55,13.46666666,-16.56666666,https://flags.restcountries.com/v5/w640/gm.png,https://www.statehouse.gm
+Georgia,GE,GEO,Asia,4,52,42,43.5,https://flags.restcountries.com/v5/w640/ge.png,https://www.government.gov.ge
+Germany,DE,DEU,Europe,5,47,51,9,https://flags.restcountries.com/v5/w640/de.png,https://www.bundesregierung.de
+Ghana,GH,GHA,Africa,1,53,8,-2,https://flags.restcountries.com/v5/w640/gh.png,https://www.ghana.gov.gh
+Gibraltar,GI,GIB,Europe,5,54,36.13333333,-5.35,https://flags.restcountries.com/v5/w640/gi.png,
+Greece,GR,GRC,Europe,5,47,39,22,https://flags.restcountries.com/v5/w640/gr.png,https://www.primeminister.gr
+Greenland,GL,GRL,North America,2,38,72,-40,https://flags.restcountries.com/v5/w640/gl.png,
+Grenada,GD,GRD,North America,2,154,12.11666666,-61.66666666,https://flags.restcountries.com/v5/w640/gd.png,https://www.gov.gd
+Guadeloupe,GP,GLP,North America,2,47,16.25,-61.583333,https://flags.restcountries.com/v5/w640/gp.png,
+Guam,GU,GUM,Oceania,6,146,13.46666666,144.7833333,https://flags.restcountries.com/v5/w640/gu.png,
+Guatemala,GT,GTM,North America,2,57,15.5,-90.25,https://flags.restcountries.com/v5/w640/gt.png,https://www.guatemala.gob.gt
+Guernsey,GG,GGY,Europe,5,50,49.46666666,-2.58333333,https://flags.restcountries.com/v5/w640/gg.png,
+Guinea,GN,GIN,Africa,1,56,11,-10,https://flags.restcountries.com/v5/w640/gn.png,https://www.gouvernement.gov.gn
+Guinea-Bissau,GW,GNB,Africa,1,155,12,-15,https://flags.restcountries.com/v5/w640/gw.png,https://www.gov.gw
+Guyana,GY,GUY,South America,2,58,5,-59,https://flags.restcountries.com/v5/w640/gy.png,https://www.op.gov.gy
+Haiti,HT,HTI,North America,2,61,19,-72.41666666,https://flags.restcountries.com/v5/w640/ht.png,https://www.primature.gouv.ht
+Heard Island and McDonald Islands,HM,HMD,Antarctica,3,,-53.0818,73.5042,https://flags.restcountries.com/v5/w640/hm.png,
+Honduras,HN,HND,North America,2,60,15,-86.5,https://flags.restcountries.com/v5/w640/hn.png,https://www.presidencia.gob.hn
+Hong Kong,HK,HKG,Asia,4,59,22.267,114.188,https://flags.restcountries.com/v5/w640/hk.png,
+Hungary,HU,HUN,Europe,5,62,47,20,https://flags.restcountries.com/v5/w640/hu.png,https://www.kormany.hu
+Iceland,IS,ISL,Europe,5,68,65,-18,https://flags.restcountries.com/v5/w640/is.png,https://www.government.is
+India,IN,IND,Asia,4,65,20,77,https://flags.restcountries.com/v5/w640/in.png,https://www.india.gov.in
+Indonesia,ID,IDN,Asia,4,63,-5,120,https://flags.restcountries.com/v5/w640/id.png,https://www.indonesia.go.id
+Iran,IR,IRN,Asia,4,67,32,53,https://flags.restcountries.com/v5/w640/ir.png,https://www.dolat.ir
+Iraq,IQ,IRQ,Asia,4,66,33,44,https://flags.restcountries.com/v5/w640/iq.png,https://www.cabinet.iq
+Ireland,IE,IRL,Europe,5,47,53,-8,https://flags.restcountries.com/v5/w640/ie.png,https://www.gov.ie
+Isle of Man,IM,IMN,Europe,5,50,54.25,-4.5,https://flags.restcountries.com/v5/w640/im.png,
+Israel,IL,ISR,Asia,4,64,31.47,35.13,https://flags.restcountries.com/v5/w640/il.png,https://www.gov.il
+Italy,IT,ITA,Europe,5,47,42.83333333,12.83333333,https://flags.restcountries.com/v5/w640/it.png,https://www.governo.it
+Ivory Coast,CI,CIV,Africa,1,155,8,-5,https://flags.restcountries.com/v5/w640/ci.png,https://www.gouv.ci
+Jamaica,JM,JAM,North America,2,69,18.25,-77.5,https://flags.restcountries.com/v5/w640/jm.png,https://www.jis.gov.jm
+Japan,JP,JPN,Asia,4,71,36,138,https://flags.restcountries.com/v5/w640/jp.png,https://www.kantei.go.jp
+Jersey,JE,JEY,Europe,5,50,49.25,-2.16666666,https://flags.restcountries.com/v5/w640/je.png,
+Jordan,JO,JOR,Asia,4,70,31,36,https://flags.restcountries.com/v5/w640/jo.png,https://www.pm.gov.jo
+Kazakhstan,KZ,KAZ,Asia,4,80,48.0196,66.9237,https://flags.restcountries.com/v5/w640/kz.png,https://www.gov.kz
+Kenya,KE,KEN,Africa,1,72,1,38,https://flags.restcountries.com/v5/w640/ke.png,https://www.president.go.ke
+Kiribati,KI,KIR,Oceania,6,8,1.41666666,173,https://flags.restcountries.com/v5/w640/ki.png,https://www.president.gov.ki
+Kosovo,XK,XKX,Europe,5,47,42.666667,21.166667,https://flags.restcountries.com/v5/w640/xk.png,https://www.rks-gov.net
+Kuwait,KW,KWT,Asia,4,78,29.5,45.75,https://flags.restcountries.com/v5/w640/kw.png,https://www.e.gov.kw
+Kyrgyzstan,KG,KGZ,Asia,4,73,41,75,https://flags.restcountries.com/v5/w640/kg.png,https://www.gov.kg
+Laos,LA,LAO,Asia,4,81,18,105,https://flags.restcountries.com/v5/w640/la.png,https://www.laogov.gov.la
+Latvia,LV,LVA,Europe,5,47,57,25,https://flags.restcountries.com/v5/w640/lv.png,https://www.latvija.lv
+Lebanon,LB,LBN,Asia,4,82,33.83333333,35.83333333,https://flags.restcountries.com/v5/w640/lb.png,https://www.presidency.gov.lb
+Lesotho,LS,LSO,Africa,1,85,-29.5,28.5,https://flags.restcountries.com/v5/w640/ls.png,https://www.gov.ls
+Liberia,LR,LBR,Africa,1,84,6.5,-9.5,https://flags.restcountries.com/v5/w640/lr.png,https://www.emansion.gov.lr
+Libya,LY,LBY,Africa,1,86,25,17,https://flags.restcountries.com/v5/w640/ly.png,https://www.gov.ly
+Liechtenstein,LI,LIE,Europe,5,27,47.26666666,9.53333333,https://flags.restcountries.com/v5/w640/li.png,https://www.llv.li
+Lithuania,LT,LTU,Europe,5,47,56,24,https://flags.restcountries.com/v5/w640/lt.png,https://www.lrv.lt
+Luxembourg,LU,LUX,Europe,5,47,49.75,6.16666666,https://flags.restcountries.com/v5/w640/lu.png,https://gouvernement.lu
+Macau,MO,MAC,Asia,4,93,22.16666666,113.55,https://flags.restcountries.com/v5/w640/mo.png,
+Madagascar,MG,MDG,Africa,1,89,-20,47,https://flags.restcountries.com/v5/w640/mg.png,https://www.gouvernement.mg
+Malawi,MW,MWI,Africa,1,97,-13.5,34,https://flags.restcountries.com/v5/w640/mw.png,https://www.malawi.gov.mw
+Malaysia,MY,MYS,Asia,4,99,2.5,112.5,https://flags.restcountries.com/v5/w640/my.png,https://www.malaysia.gov.my
+Maldives,MV,MDV,Asia,4,96,3.25,73,https://flags.restcountries.com/v5/w640/mv.png,https://presidency.gov.mv
+Mali,ML,MLI,Africa,1,155,17,-4,https://flags.restcountries.com/v5/w640/ml.png,https://www.primature.gov.ml
+Malta,MT,MLT,Europe,5,47,35.9375,14.3754,https://flags.restcountries.com/v5/w640/mt.png,https://www.gov.mt
+Marshall Islands,MH,MHL,Oceania,6,146,9,168,https://flags.restcountries.com/v5/w640/mh.png,https://www.rmigovernment.org
+Martinique,MQ,MTQ,North America,2,47,14.666667,-61,https://flags.restcountries.com/v5/w640/mq.png,
+Mauritania,MR,MRT,Africa,1,94,20,-12,https://flags.restcountries.com/v5/w640/mr.png,https://www.mauritania.mr
+Mauritius,MU,MUS,Africa,1,95,-20.28333333,57.55,https://flags.restcountries.com/v5/w640/mu.png,https://www.gov.mu
+Mayotte,YT,MYT,Africa,1,47,-12.83333333,45.16666666,https://flags.restcountries.com/v5/w640/yt.png,
+Mexico,MX,MEX,North America,2,98,23,-102,https://flags.restcountries.com/v5/w640/mx.png,https://www.gob.mx
+Micronesia,FM,FSM,Oceania,6,146,6.91666666,158.25,https://flags.restcountries.com/v5/w640/fm.png,https://www.fsmgov.org
+Moldova,MD,MDA,Europe,5,88,47,29,https://flags.restcountries.com/v5/w640/md.png,https://www.gov.md
+Monaco,MC,MCO,Europe,5,47,43.73333333,7.4,https://flags.restcountries.com/v5/w640/mc.png,https://www.gouv.mc
+Mongolia,MN,MNG,Asia,4,92,46,105,https://flags.restcountries.com/v5/w640/mn.png,https://www.pmis.gov.mn
+Montenegro,ME,MNE,Europe,5,47,42.5,19.3,https://flags.restcountries.com/v5/w640/me.png,https://www.gov.me
+Montserrat,MS,MSR,North America,2,154,16.75,-62.2,https://flags.restcountries.com/v5/w640/ms.png,
+Morocco,MA,MAR,Africa,1,87,32,-5,https://flags.restcountries.com/v5/w640/ma.png,https://www.maroc.ma
+Mozambique,MZ,MOZ,Africa,1,100,-18.25,35,https://flags.restcountries.com/v5/w640/mz.png,https://www.portaldogoverno.gov.mz
+Myanmar,MM,MMR,Asia,4,91,22,98,https://flags.restcountries.com/v5/w640/mm.png,https://www.myanmarembassy.com
+Namibia,NA,NAM,Africa,1,101,-22,17,https://flags.restcountries.com/v5/w640/na.png,https://www.gov.na
+Nauru,NR,NRU,Oceania,6,8,-0.53333333,166.9166667,https://flags.restcountries.com/v5/w640/nr.png,https://www.naurugov.nr
+Nepal,NP,NPL,Asia,4,106,28,84,https://flags.restcountries.com/v5/w640/np.png,https://www.nepal.gov.np
+Netherlands,NL,NLD,Europe,5,47,52.5,5.75,https://flags.restcountries.com/v5/w640/nl.png,https://www.government.nl
+New Caledonia,NC,NCL,Oceania,6,156,-21.5,165.5,https://flags.restcountries.com/v5/w640/nc.png,
+New Zealand,NZ,NZL,Oceania,6,107,-41,174,https://flags.restcountries.com/v5/w640/nz.png,https://www.govt.nz
+Nicaragua,NI,NIC,North America,2,103,13,-85,https://flags.restcountries.com/v5/w640/ni.png,https://www.presidencia.gob.ni
+Niger,NE,NER,Africa,1,155,16,8,https://flags.restcountries.com/v5/w640/ne.png,https://www.gouvernement.ne
+Nigeria,NG,NGA,Africa,1,102,10,8,https://flags.restcountries.com/v5/w640/ng.png,https://www.nigeria.gov.ng
+Niue,NU,NIU,Oceania,6,107,-19.03333333,-169.8666667,https://flags.restcountries.com/v5/w640/nu.png,
+Norfolk Island,NF,NFK,Oceania,6,8,-29.03333333,167.95,https://flags.restcountries.com/v5/w640/nf.png,
+North Korea,KP,PRK,Asia,4,76,40,127,https://flags.restcountries.com/v5/w640/kp.png,https://www.rodong.rep.kp
+North Macedonia,MK,MKD,Europe,5,90,41.83333333,22,https://flags.restcountries.com/v5/w640/mk.png,https://vlada.mk
+Northern Cyprus,,,Europe,5,140,35.2,33.4,,https://kktcb.org
+Northern Mariana Islands,MP,MNP,Oceania,6,146,15.2,145.75,https://flags.restcountries.com/v5/w640/mp.png,
+Norway,NO,NOR,Europe,5,104,62,10,https://flags.restcountries.com/v5/w640/no.png,https://www.regjeringen.no
+Oman,OM,OMN,Asia,4,108,21,57,https://flags.restcountries.com/v5/w640/om.png,https://www.oman.om
+Pakistan,PK,PAK,Asia,4,113,30,70,https://flags.restcountries.com/v5/w640/pk.png,https://www.pakistan.gov.pk
+Palau,PW,PLW,Oceania,6,146,7.5,134.5,https://flags.restcountries.com/v5/w640/pw.png,https://www.palaugov.pw
+Palestine,PS,PSE,Asia,4,43,31.9,35.2,https://flags.restcountries.com/v5/w640/ps.png,https://www.palestinecabinet.gov.ps
+Panama,PA,PAN,North America,2,109,9,-80,https://flags.restcountries.com/v5/w640/pa.png,https://www.presidencia.gob.pa
+Papua New Guinea,PG,PNG,Oceania,6,111,-6,147,https://flags.restcountries.com/v5/w640/pg.png,https://www.pm.gov.pg
+Paraguay,PY,PRY,South America,2,115,-23,-58,https://flags.restcountries.com/v5/w640/py.png,https://www.presidencia.gov.py
+Peru,PE,PER,South America,2,110,-10,-76,https://flags.restcountries.com/v5/w640/pe.png,https://www.gob.pe
+Philippines,PH,PHL,Asia,4,112,13,122,https://flags.restcountries.com/v5/w640/ph.png,https://www.gov.ph
+Pitcairn Islands,PN,PCN,Oceania,6,107,-25.06666666,-130.1,https://flags.restcountries.com/v5/w640/pn.png,
+Poland,PL,POL,Europe,5,114,52,20,https://flags.restcountries.com/v5/w640/pl.png,https://www.gov.pl
+Portugal,PT,PRT,Europe,5,47,39.5,-8,https://flags.restcountries.com/v5/w640/pt.png,https://www.portugal.gov.pt
+Puerto Rico,PR,PRI,North America,2,146,18.25,-66.5,https://flags.restcountries.com/v5/w640/pr.png,
+Qatar,QA,QAT,Asia,4,116,25.5,51.25,https://flags.restcountries.com/v5/w640/qa.png,https://www.gov.qa
+Romania,RO,ROU,Europe,5,117,46,25,https://flags.restcountries.com/v5/w640/ro.png,https://www.gov.ro
+Russia,RU,RUS,Europe,5,119,60,100,https://flags.restcountries.com/v5/w640/ru.png,https://www.government.ru
+Rwanda,RW,RWA,Africa,1,120,-2,30,https://flags.restcountries.com/v5/w640/rw.png,https://www.gov.rw
+Réunion,RE,REU,Africa,1,47,-21.15,55.5,https://flags.restcountries.com/v5/w640/re.png,
+Saint Barthélemy,BL,BLM,North America,2,47,18.5,-63.41666666,https://flags.restcountries.com/v5/w640/bl.png,
+"Saint Helena, Ascension and Tristan da Cunha",SH,SHN,Africa,1,50,-15.95,-5.72,https://flags.restcountries.com/v5/w640/sh.png,
+Saint Kitts and Nevis,KN,KNA,North America,2,154,17.33333333,-62.75,https://flags.restcountries.com/v5/w640/kn.png,https://www.gov.kn
+Saint Lucia,LC,LCA,North America,2,154,13.88333333,-60.96666666,https://flags.restcountries.com/v5/w640/lc.png,https://www.govt.lc
+Saint Martin,MF,MAF,North America,2,47,18.0708,-63.0501,https://flags.restcountries.com/v5/w640/mf.png,
+Saint Pierre and Miquelon,PM,SPM,North America,2,47,46.83333333,-56.33333333,https://flags.restcountries.com/v5/w640/pm.png,
+Saint Vincent and the Grenadines,VC,VCT,North America,2,154,13.25,-61.2,https://flags.restcountries.com/v5/w640/vc.png,https://www.gov.vc
+Samoa,WS,WSM,Oceania,6,152,-13.58333333,-172.3333333,https://flags.restcountries.com/v5/w640/ws.png,https://www.govt.ws
+San Marino,SM,SMR,Europe,5,47,43.76666666,12.41666666,https://flags.restcountries.com/v5/w640/sm.png,https://www.gov.sm
+Saudi Arabia,SA,SAU,Asia,4,121,25,45,https://flags.restcountries.com/v5/w640/sa.png,https://www.my.gov.sa
+Senegal,SN,SEN,Africa,1,155,14,-14,https://flags.restcountries.com/v5/w640/sn.png,https://www.gouv.sn
+Serbia,RS,SRB,Europe,5,118,44,21,https://flags.restcountries.com/v5/w640/rs.png,https://www.srbija.gov.rs
+Seychelles,SC,SYC,Africa,1,123,-4.58333333,55.66666666,https://flags.restcountries.com/v5/w640/sc.png,https://www.statehouse.gov.sc
+Sierra Leone,SL,SLE,Africa,1,127,8.5,-11.5,https://flags.restcountries.com/v5/w640/sl.png,https://www.statehouse.gov.sl
+Singapore,SG,SGP,Asia,4,126,1.36666666,103.8,https://flags.restcountries.com/v5/w640/sg.png,https://www.gov.sg
+Sint Maarten,SX,SXM,North America,2,5,18.033333,-63.05,https://flags.restcountries.com/v5/w640/sx.png,
+Slovakia,SK,SVK,Europe,5,47,48.66666666,19.5,https://flags.restcountries.com/v5/w640/sk.png,https://www.vlada.gov.sk
+Slovenia,SI,SVN,Europe,5,47,46.11666666,14.81666666,https://flags.restcountries.com/v5/w640/si.png,https://www.gov.si
+Solomon Islands,SB,SLB,Oceania,6,122,-8,159,https://flags.restcountries.com/v5/w640/sb.png,https://www.gov.sb
+Somalia,SO,SOM,Africa,1,129,10,49,https://flags.restcountries.com/v5/w640/so.png,https://www.villasomalia.gov.so
+Somaliland,,,Africa,1,128,9.5,45.5,,https://www.govsomaliland.org
+South Africa,ZA,ZAF,Africa,1,158,-29,24,https://flags.restcountries.com/v5/w640/za.png,https://www.gov.za
+South Georgia,GS,SGS,Antarctica,3,50,-54.5,-37,https://flags.restcountries.com/v5/w640/gs.png,
+South Korea,KR,KOR,Asia,4,77,37,127.5,https://flags.restcountries.com/v5/w640/kr.png,https://www.korea.go.kr
+South Ossetia,,,Asia,4,119,42.4,43.95,,http://presidentruo.org
+South Sudan,SS,SSD,Africa,1,131,7,30,https://flags.restcountries.com/v5/w640/ss.png,https://www.goss.org
+Spain,ES,ESP,Europe,5,47,40,-4,https://flags.restcountries.com/v5/w640/es.png,https://www.lamoncloa.gob.es
+Sri Lanka,LK,LKA,Asia,4,83,7,81,https://flags.restcountries.com/v5/w640/lk.png,https://www.gov.lk
+Sudan,SD,SDN,Africa,1,124,15,30,https://flags.restcountries.com/v5/w640/sd.png,https://www.sudan.gov.sd
+Suriname,SR,SUR,South America,2,130,4,-56,https://flags.restcountries.com/v5/w640/sr.png,https://www.gov.sr
+Svalbard and Jan Mayen,SJ,SJM,Europe,5,104,78,20,https://flags.restcountries.com/v5/w640/sj.png,
+Sweden,SE,SWE,Europe,5,125,62,15,https://flags.restcountries.com/v5/w640/se.png,https://www.government.se
+Switzerland,CH,CHE,Europe,5,27,47,8,https://flags.restcountries.com/v5/w640/ch.png,https://www.admin.ch
+Syria,SY,SYR,Asia,4,133,35,38,https://flags.restcountries.com/v5/w640/sy.png,https://www.gov.sy
+São Tomé and Príncipe,ST,STP,Africa,1,132,1,7,https://flags.restcountries.com/v5/w640/st.png,https://www.presidencia.st
+Taiwan,TW,TWN,Asia,4,142,23.5,121,https://flags.restcountries.com/v5/w640/tw.png,https://www.ey.gov.tw
+Tajikistan,TJ,TJK,Asia,4,136,39,71,https://flags.restcountries.com/v5/w640/tj.png,https://www.president.tj
+Tanzania,TZ,TZA,Africa,1,143,-6,35,https://flags.restcountries.com/v5/w640/tz.png,https://www.utumishi.go.tz
+Thailand,TH,THA,Asia,4,135,15,100,https://flags.restcountries.com/v5/w640/th.png,https://www.thaigov.go.th
+Timor-Leste,TL,TLS,Oceania,4,146,-8.83333333,125.9166667,https://flags.restcountries.com/v5/w640/tl.png,https://www.governu.tl
+Togo,TG,TGO,Africa,1,155,8,1.16666666,https://flags.restcountries.com/v5/w640/tg.png,https://www.gouvernement.tg
+Tokelau,TK,TKL,Oceania,6,107,-9,-172,https://flags.restcountries.com/v5/w640/tk.png,
+Tonga,TO,TON,Oceania,6,139,-20,-175,https://flags.restcountries.com/v5/w640/to.png,https://www.gov.to
+Trinidad and Tobago,TT,TTO,North America,2,141,10.6918,-61.2225,https://flags.restcountries.com/v5/w640/tt.png,https://www.ttconnect.gov.tt
+Tunisia,TN,TUN,Africa,1,138,34,9,https://flags.restcountries.com/v5/w640/tn.png,https://www.pm.gov.tn
+Turkey,TR,TUR,Europe,4,140,39,35,https://flags.restcountries.com/v5/w640/tr.png,https://www.turkiye.gov.tr
+Turkmenistan,TM,TKM,Asia,4,137,40,60,https://flags.restcountries.com/v5/w640/tm.png,https://www.turkmenistan.gov.tm
+Turks and Caicos Islands,TC,TCA,North America,2,146,21.75,-71.58333333,https://flags.restcountries.com/v5/w640/tc.png,
+Tuvalu,TV,TUV,Oceania,6,8,-8,178,https://flags.restcountries.com/v5/w640/tv.png,https://www.tuvaluislands.com
+Uganda,UG,UGA,Africa,1,145,1,32,https://flags.restcountries.com/v5/w640/ug.png,
+Ukraine,UA,UKR,Europe,5,144,49,32,https://flags.restcountries.com/v5/w640/ua.png,https://www.kmu.gov.ua
+United Arab Emirates,AE,ARE,Asia,4,1,24,54,https://flags.restcountries.com/v5/w640/ae.png,https://www.government.ae
+United Kingdom,GB,GBR,Europe,5,50,54,-2,https://flags.restcountries.com/v5/w640/gb.png,https://www.gov.uk
+United States,US,USA,North America,2,146,38,-97,https://flags.restcountries.com/v5/w640/us.png,https://www.usa.gov
+United States Minor Outlying Islands,UM,UMI,Oceania,2,146,19.3,166.633333,https://flags.restcountries.com/v5/w640/um.png,
+United States Virgin Islands,VI,VIR,North America,2,146,18.35,-64.933333,https://flags.restcountries.com/v5/w640/vi.png,
+Uruguay,UY,URY,South America,2,147,-33,-56,https://flags.restcountries.com/v5/w640/uy.png,https://www.gub.uy
+Uzbekistan,UZ,UZB,Asia,4,148,41,64,https://flags.restcountries.com/v5/w640/uz.png,https://www.gov.uz
+Vanuatu,VU,VUT,Oceania,6,151,-16,167,https://flags.restcountries.com/v5/w640/vu.png,https://www.vanuatu.gov.vu
+Vatican City,VA,VAT,Europe,5,47,41.9,12.45,https://flags.restcountries.com/v5/w640/va.png,https://www.vatican.va
+Venezuela,VE,VEN,South America,2,149,8,-66,https://flags.restcountries.com/v5/w640/ve.png,https://www.venezuela.gob.ve
+Vietnam,VN,VNM,Asia,4,150,16.16666666,107.8333333,https://flags.restcountries.com/v5/w640/vn.png,https://chinhphu.vn
+Wallis and Futuna,WF,WLF,Oceania,6,156,-13.3,-176.2,https://flags.restcountries.com/v5/w640/wf.png,
+Western Sahara,EH,ESH,Africa,1,41,24.5,-13,https://flags.restcountries.com/v5/w640/eh.png,
+Yemen,YE,YEM,Asia,4,157,15,48,https://flags.restcountries.com/v5/w640/ye.png,https://www.yemen.gov.ye
+Zambia,ZM,ZMB,Africa,1,159,-15,30,https://flags.restcountries.com/v5/w640/zm.png,https://www.statehouse.gov.zm
+Zimbabwe,ZW,ZWE,Africa,1,160,-20,30,https://flags.restcountries.com/v5/w640/zw.png,https://www.zim.gov.zw
+Åland Islands,AX,ALA,Europe,5,47,60.116667,19.9,https://flags.restcountries.com/v5/w640/ax.png,

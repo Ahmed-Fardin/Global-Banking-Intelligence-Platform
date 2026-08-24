@@ -1,0 +1,1223 @@
+country_name,iso3_code,bank_name,bank_type,bank_rank,headquarters_city,official_website,founded_year,swift_code,is_active,data_source
+Afghanistan,AFG,Da Afghanistan Bank,Central,0,Kabul,https://dab.gov.af,1939,DAXXAFKA,TRUE,Official Website
+Afghanistan,AFG,Afghan United Bank,Commercial,1,Kabul,https://aub.af,2007,AUXXAFKA,TRUE,Official Website
+Afghanistan,AFG,Azizi Bank,Commercial,2,Kabul,https://www.azizibank.af,2006,AZIZAFKA,TRUE,Official Website
+Afghanistan,AFG,Afghanistan International Bank,Commercial,3,Kabul,https://www.aib.af,2004,AIXXAFKA,TRUE,Official Website
+Afghanistan,AFG,Ghaznawi Bank,Commercial,4,Kabul,https://www.ghaznawibank.com,2008,GHAZAFKA,TRUE,Official Website
+Afghanistan,AFG,Pashtany Bank,Commercial,5,Kabul,https://pashtanybank.gov.af,1954,PASHAFKA,TRUE,Official Website
+Albania,ALB,Bank of Albania,Central,0,Tirana,https://www.bankofalbania.org,1925,ALBAALTI,TRUE,Official Website
+Albania,ALB,Raiffeisen Bank Albania,Commercial,1,Tirana,https://www.raiffeisen.al,2004,RAXXALTI,TRUE,Official Website
+Albania,ALB,BKT Bank,Commercial,2,Tirana,https://www.bkt.com.al,1925,BKTXALTI,TRUE,Official Website
+Albania,ALB,Credins Bank,Commercial,3,Tirana,https://www.bankacredins.com,2003,CREDALTI,TRUE,Official Website
+Albania,ALB,Intesa Sanpaolo Bank Albania,Commercial,4,Tirana,https://www.intesasanpaolobank.al,2008,ISAXALTI,TRUE,Official Website
+Albania,ALB,Tirana Bank,Commercial,5,Tirana,https://www.tiranabank.al,1996,TIRAALTI,TRUE,Official Website
+Algeria,DZA,Bank of Algeria,Central,0,Algiers,https://www.bank-of-algeria.dz,1962,ALGEDZAL,TRUE,Official Website
+Algeria,DZA,Banque Nationale d'Algérie,Commercial,1,Algiers,https://www.bna.dz,1966,BNDADZAL,TRUE,Official Website
+Algeria,DZA,Banque Extérieure d'Algérie,Commercial,2,Algiers,https://www.bea.dz,1967,BEDADZAL,TRUE,Official Website
+Algeria,DZA,Crédit Populaire d'Algérie,Commercial,3,Algiers,https://www.cpa-bank.dz,1966,CPDADZAL,TRUE,Official Website
+Algeria,DZA,Banque de Développement Local,Commercial,4,Sidi M'Hamed,https://www.bdl.dz,1985,BDDLDZSI,TRUE,Official Website
+Algeria,DZA,Banque de l'Agriculture et du Développement Rural,Commercial,5,Algiers,https://www.badr-bank.dz,1982,BDLADZAL,TRUE,Official Website
+Angola,AGO,National Bank of Angola,Central,0,Luanda,https://www.bna.ao,1926,NAXXAOLU,TRUE,Official Website
+Angola,AGO,Banco Angolano de Investimentos,Commercial,1,Luanda,https://www.bancobai.ao,1996,BADIAOLU,TRUE,Official Website
+Angola,AGO,Banco de Fomento Angola,Commercial,2,Luanda,https://www.bfa.ao,1993,BDFAAOLU,TRUE,Official Website
+Angola,AGO,Standard Bank Angola,Commercial,3,Luanda,https://www.standardbank.co.ao,2005,SAXXAOLU,TRUE,Official Website
+Angola,AGO,Banco Económico,Commercial,4,Luanda,https://www.bancoeconomico.ao,1997,BEXXAOLU,TRUE,Official Website
+Angola,AGO,Banco Millennium Atlântico,Commercial,5,Luanda,https://www.bancobma.ao,2006,BMAXAOLU,TRUE,Official Website
+Antigua and Barbuda,ATG,Eastern Caribbean Central Bank,Central,0,Basseterre,https://www.eccb-centralbank.org,1983,ECCXXXBA,TRUE,Official Website
+Antigua and Barbuda,ATG,ECAB Bank,Commercial,1,St. John's,https://www.ecabank.com,1983,ECABXXST,TRUE,Official Website
+Antigua and Barbuda,ATG,CIBC Caribbean Antigua,Commercial,2,St. John's,https://www.cibcfcib.com,1920,CCAXXXST,TRUE,Official Website
+Antigua and Barbuda,ATG,Republic Bank EC Antigua,Commercial,3,St. John's,https://republicbankec.com,2004,REAXXXST,TRUE,Official Website
+Antigua and Barbuda,ATG,ACB Caribbean,Commercial,4,St. John's,https://www.acbonline.com,1955,ACXXXXST,TRUE,Official Website
+Antigua and Barbuda,ATG,Global Bank of Commerce,Commercial,5,St. John's,https://www.globalbank.ag,1983,GCXXXXST,TRUE,Official Website
+Argentina,ARG,Central Bank of Argentina,Central,0,Buenos Aires,https://www.bcra.gob.ar,1935,CAXXARBU,TRUE,Official Website
+Argentina,ARG,Banco de la Nación Argentina,Commercial,1,Buenos Aires,https://www.bna.com.ar,1891,BDLNARBU,TRUE,Official Website
+Argentina,ARG,Banco Galicia,Commercial,2,Buenos Aires,https://www.galicia.com.ar,1905,BGXXARBU,TRUE,Official Website
+Argentina,ARG,BBVA Argentina,Commercial,3,Buenos Aires,https://www.bbva.com.ar,1886,BAXXARBU,TRUE,Official Website
+Argentina,ARG,Banco Macro,Commercial,4,Buenos Aires,https://www.macro.com.ar,1985,BMXXARBU,TRUE,Official Website
+Argentina,ARG,Santander Argentina,Commercial,5,Buenos Aires,https://www.santander.com.ar,1968,SAXXARBU,TRUE,Official Website
+Armenia,ARM,Central Bank of Armenia,Central,0,Yerevan,https://www.cba.am,1993,CAXXAMYE,TRUE,Official Website
+Armenia,ARM,Ameriabank,Commercial,1,Yerevan,https://www.ameriabank.am,1992,AMERAMYE,TRUE,Official Website
+Armenia,ARM,Ardshinbank,Commercial,2,Yerevan,https://www.ardshinbank.am,2003,ARDSAMYE,TRUE,Official Website
+Armenia,ARM,Acba Bank,Commercial,3,Yerevan,https://www.acba.am,1995,ACBAAMYE,TRUE,Official Website
+Armenia,ARM,Converse Bank,Commercial,4,Yerevan,https://www.conversebank.am,1993,CONVAMYE,TRUE,Official Website
+Armenia,ARM,IDBank,Commercial,5,Yerevan,https://idbank.am,1990,IDBAAMYE,TRUE,Official Website
+Australia,AUS,Reserve Bank of Australia,Central,0,Sydney,https://www.rba.gov.au,1960,RAXXAUSY,TRUE,Official Website
+Australia,AUS,Commonwealth Bank of Australia,Commercial,1,Sydney,https://www.commbank.com.au,1911,CAXXAUSY,TRUE,Official Website
+Australia,AUS,Westpac Banking Corporation,Commercial,2,Sydney,https://www.westpac.com.au,1817,WBXXAUSY,TRUE,Official Website
+Australia,AUS,National Australia Bank,Commercial,3,Melbourne,https://www.nab.com.au,1982,NAXXAUME,TRUE,Official Website
+Australia,AUS,ANZ,Commercial,4,Melbourne,https://www.anz.com.au,1835,ANZXAUME,TRUE,Official Website
+Australia,AUS,Macquarie Bank,Commercial,5,Sydney,https://www.macquarie.com,1985,MACQAUSY,TRUE,Official Website
+Austria,AUT,Oesterreichische Nationalbank,Central,0,Vienna,https://www.oenb.at,1816,ONXXATVI,TRUE,Official Website
+Austria,AUT,Erste Bank,Commercial,1,Vienna,https://www.erstebank.at,1819,ERSTATVI,TRUE,Official Website
+Austria,AUT,Raiffeisen Bank International,Commercial,2,Vienna,https://www.rbinternational.com,1927,RIXXATVI,TRUE,Official Website
+Austria,AUT,BAWAG,Commercial,3,Vienna,https://www.bawag.at,1883,BAWAATVI,TRUE,Official Website
+Austria,AUT,UniCredit Bank Austria,Commercial,4,Vienna,https://www.bankaustria.at,1855,UAXXATVI,TRUE,Official Website
+Austria,AUT,Oberbank,Commercial,5,Linz,https://www.oberbank.at,1869,OBERATLI,TRUE,Official Website
+Azerbaijan,AZE,Central Bank of Azerbaijan,Central,0,Baku,https://www.cbar.az,1992,CAXXAZBA,TRUE,Official Website
+Azerbaijan,AZE,International Bank of Azerbaijan,Commercial,1,Baku,https://www.ibar.az,1992,IAXXAZBA,TRUE,Official Website
+Azerbaijan,AZE,Kapital Bank,Commercial,2,Baku,https://kapitalbank.az,1874,KAPIAZBA,TRUE,Official Website
+Azerbaijan,AZE,Pasha Bank,Commercial,3,Baku,https://www.pashabank.az,2007,PASHAZBA,TRUE,Official Website
+Azerbaijan,AZE,Xalq Bank,Commercial,4,Baku,https://www.xalqbank.az,2004,XALQAZBA,TRUE,Official Website
+Azerbaijan,AZE,Rabitabank,Commercial,5,Baku,https://www.rabitabank.com,1993,RABIAZBA,TRUE,Official Website
+Bahamas,BHS,Central Bank of The Bahamas,Central,0,Nassau,https://www.centralbankbahamas.com,1974,CBXXBSNA,TRUE,Official Website
+Bahamas,BHS,Royal Bank of Canada Bahamas,Commercial,1,Nassau,https://www.rbcroyalbank.com/caribbean,1908,RCBXBSNA,TRUE,Official Website
+Bahamas,BHS,CIBC FirstCaribbean,Commercial,2,Nassau,https://www.cibcfcib.com,2002,CFXXBSNA,TRUE,Official Website
+Bahamas,BHS,Scotiabank Bahamas,Commercial,3,Nassau,https://bs.scotiabank.com,1956,SBXXBSNA,TRUE,Official Website
+Bahamas,BHS,Bank of The Bahamas,Commercial,4,Nassau,https://www.bankbahamas.com,1971,BAHABSNA,TRUE,Official Website
+Bahamas,BHS,Fidelity Bank Bahamas,Commercial,5,Nassau,https://www.fidelitygroup.com,2006,FBXXBSNA,TRUE,Official Website
+Bahrain,BHR,Central Bank of Bahrain,Central,0,Manama,https://www.cbb.gov.bh,1973,CBXXBHMA,TRUE,Official Website
+Bahrain,BHR,National Bank of Bahrain,Commercial,1,Manama,https://www.nbbonline.com,1957,NBXXBHMA,TRUE,Official Website
+Bahrain,BHR,Bank of Bahrain and Kuwait,Commercial,2,Manama,https://www.bbkonline.com,1971,BKXXBHMA,TRUE,Official Website
+Bahrain,BHR,Ahli United Bank Bahrain,Commercial,3,Manama,https://www.ahliunited.com,2000,AUBXBHMA,TRUE,Official Website
+Bahrain,BHR,GFH Financial Group,Commercial,4,Manama,https://www.gfh.com,1999,GFGXBHMA,TRUE,Official Website
+Bahrain,BHR,Khaleeji Bank,Commercial,5,Manama,https://www.khaleejibank.com,2004,KHALBHMA,TRUE,Official Website
+Bangladesh,BGD,Bangladesh Bank,Central,0,Dhaka,https://www.bb.org.bd,1972,BBHOBDDH,TRUE,Offical Website
+Bangladesh,BGD,Sonali Bank PLC,Commercial,1,Dhaka,https://www.sonalibank.com.bd,1972,SPXXBDDH,TRUE,
+Bangladesh,BGD,Agrani Bank PLC,Commercial,2,Dhaka,https://www.agranibank.org,1972,APXXBDDH,TRUE,
+Bangladesh,BGD,Janata Bank PLC,Commercial,3,Dhaka,https://www.janatabank-bd.com,1972,JPXXBDDH,TRUE,
+Bangladesh,BGD,Rupali Bank PLC,Commercial,4,Dhaka,https://www.rupalibank.org,1986,RPXXBDDH,TRUE,
+Bangladesh,BGD,BRAC Bank PLC,Commercial,5,Dhaka,https://www.bracbank.com,2001,BPXXBDDH,TRUE,
+Barbados,BRB,Central Bank of Barbados,Central,0,Bridgetown,https://www.centralbank.org.bb,1972,CBXXBBBR,TRUE,Official Website
+Barbados,BRB,Republic Bank Barbados,Commercial,1,Bridgetown,https://republicbarbados.com,1982,RBXXBBBR,TRUE,Official Website
+Barbados,BRB,CIBC FirstCaribbean Barbados,Commercial,2,Bridgetown,https://www.cibcfcib.com,2002,CFBXBBBR,TRUE,Official Website
+Barbados,BRB,Scotiabank Barbados,Commercial,3,Bridgetown,https://bb.scotiabank.com,1956,SBXXBBBR,TRUE,Official Website
+Barbados,BRB,RBC Royal Bank Barbados,Commercial,4,Bridgetown,https://www.rbcroyalbank.com/caribbean,1906,RRBXBBBR,TRUE,Official Website
+Barbados,BRB,First Citizens Bank Barbados,Commercial,5,Bridgetown,https://www.firstcitizensgroup.com,2009,FCBXBBBR,TRUE,Official Website
+Belarus,BLR,National Bank of the Republic of Belarus,Central,0,Minsk,https://www.nbrb.by,1991,NRBXBYMI,TRUE,Official Website
+Belarus,BLR,Belarusbank,Commercial,1,Minsk,https://belarusbank.by,1922,BELABYMI,TRUE,Official Website
+Belarus,BLR,Belagroprombank,Commercial,2,Minsk,https://www.belapb.by,1991,BELABYMI,TRUE,Official Website
+Belarus,BLR,Belinvestbank,Commercial,3,Minsk,https://www.belinvestbank.by,2001,BELIBYMI,TRUE,Official Website
+Belarus,BLR,Priorbank,Commercial,4,Minsk,https://www.priorbank.by,1989,PRIOBYMI,TRUE,Official Website
+Belarus,BLR,Sber Bank Belarus,Commercial,5,Minsk,https://www.sber-bank.by,2008,SBXXBYMI,TRUE,Official Website
+Belgium,BEL,National Bank of Belgium,Central,0,Brussels,https://www.nbb.be,1850,NBXXBEBR,TRUE,Official Website
+Belgium,BEL,KBC Bank,Commercial,1,Brussels,https://www.kbc.com,1998,KBCXBEBR,TRUE,Official Website
+Belgium,BEL,BNP Paribas Fortis,Commercial,2,Brussels,https://www.bnpparibasfortis.com,2009,BPFXBEBR,TRUE,Official Website
+Belgium,BEL,Belfius Bank,Commercial,3,Brussels,https://www.belfius.be,2012,BELFBEBR,TRUE,Official Website
+Belgium,BEL,ING Belgium,Commercial,4,Brussels,https://www.ing.be,1998,IBXXBEBR,TRUE,Official Website
+Belgium,BEL,Argenta,Commercial,5,Antwerp,https://www.argenta.be,1956,ARGEBEAN,TRUE,Official Website
+Belize,BLZ,Central Bank of Belize,Central,0,Belmopan,https://www.centralbank.org.bz,1982,CBXXBZBE,TRUE,Official Website
+Belize,BLZ,Belize Bank,Commercial,1,Belize City,https://www.belizebank.com,1902,BELIBZBE,TRUE,Official Website
+Belize,BLZ,Atlantic Bank,Commercial,2,Belize City,https://www.atlabank.com,1971,ATLABZBE,TRUE,Official Website
+Belize,BLZ,Heritage Bank Belize,Commercial,3,Belize City,https://www.heritagebt.com,1978,HBXXBZBE,TRUE,Official Website
+Belize,BLZ,National Bank of Belize,Commercial,4,Belmopan,https://www.nationalbankbelize.com,2013,NBXXBZBE,TRUE,Official Website
+Belize,BLZ,Caye International Bank,Commercial,5,San Pedro,https://www.cayebank.bz,1996,CIXXBZSA,TRUE,Official Website
+Benin,BEN,Central Bank of West African States,Central,0,Cotonou,https://www.bceao.int,1962,CWASBJCO,TRUE,Official Website
+Benin,BEN,Bank of Africa Benin,Commercial,1,Cotonou,https://www.boabenin.com,1989,ABXXBJCO,TRUE,Official Website
+Benin,BEN,Ecobank Benin,Commercial,2,Cotonou,https://www.ecobank.com,1990,EBXXBJCO,TRUE,Official Website
+Benin,BEN,Orabank Benin,Commercial,3,Cotonou,https://www.orabank.net,1988,OBXXBJCO,TRUE,Official Website
+Benin,BEN,Coris Bank Benin,Commercial,4,Cotonou,https://www.corisbank.com,2019,CBXXBJCO,TRUE,Official Website
+Benin,BEN,Banque Internationale pour l'Industrie et le Commerce,Commercial,5,Cotonou,https://www.biic.bj,2020,BIPLBJCO,TRUE,Official Website
+Bhutan,BTN,Royal Monetary Authority of Bhutan,Central,0,Thimphu,https://www.rma.org.bt,1982,RMABBTTH,TRUE,Official Website
+Bhutan,BTN,Bank of Bhutan,Commercial,1,Thimphu,https://www.bob.bt,1968,BHUTBTTH,TRUE,Official Website
+Bhutan,BTN,Bhutan National Bank,Commercial,2,Thimphu,https://www.bnb.bt,1997,BNXXBTTH,TRUE,Official Website
+Bhutan,BTN,T-Bank,Commercial,3,Thimphu,https://www.tbank.bt,2010,TXXXBTTH,TRUE,Official Website
+Bhutan,BTN,Druk PNB Bank,Commercial,4,Thimphu,https://www.drukpnbbank.bt,2010,DPXXBTTH,TRUE,Official Website
+Bhutan,BTN,Bhutan Development Bank,Commercial,5,Thimphu,https://www.bdb.bt,1988,BDXXBTTH,TRUE,Official Website
+Bolivia,BOL,Central Bank of Bolivia,Central,0,La Paz,https://www.bcb.gob.bo,1928,CBXXBOLA,TRUE,Official Website
+Bolivia,BOL,Banco Nacional de Bolivia,Commercial,1,La Paz,https://www.bnb.com.bo,1871,BNDBBOLA,TRUE,Official Website
+Bolivia,BOL,Banco Mercantil Santa Cruz,Commercial,2,La Paz,https://www.bmsc.com.bo,1905,BMSCBOLA,TRUE,Official Website
+Bolivia,BOL,Banco BISA,Commercial,3,La Paz,https://www.bisa.com,1963,BBXXBOLA,TRUE,Official Website
+Bolivia,BOL,Banco Unión,Commercial,4,La Paz,https://www.bancounion.com.bo,1979,BUXXBOLA,TRUE,Official Website
+Bolivia,BOL,Banco Ganadero,Commercial,5,Santa Cruz de la Sierra,https://www.bg.com.bo,1994,BGXXBOSA,TRUE,Official Website
+Bosnia and Herzegovina,BIH,Central Bank of Bosnia and Herzegovina,Central,0,Sarajevo,https://www.cbbh.ba,1997,CBHXBASA,TRUE,Official Website
+Bosnia and Herzegovina,BIH,UniCredit Bank Mostar,Commercial,1,Mostar,https://www.unicredit.ba,1997,UMXXBAMO,TRUE,Official Website
+Bosnia and Herzegovina,BIH,Raiffeisen Bank Bosnia and Herzegovina,Commercial,2,Sarajevo,https://www.raiffeisenbank.ba,1992,RBHXBASA,TRUE,Official Website
+Bosnia and Herzegovina,BIH,NLB Banka Sarajevo,Commercial,3,Sarajevo,https://www.nlb.ba,2001,NBSXBASA,TRUE,Official Website
+Bosnia and Herzegovina,BIH,Sparkasse Bank BiH,Commercial,4,Sarajevo,https://www.sparkasse.ba,2000,SBXXBASA,TRUE,Official Website
+Bosnia and Herzegovina,BIH,ASA Banka,Commercial,5,Sarajevo,https://www.asabanka.ba,2016,ABXXBASA,TRUE,Official Website
+Botswana,BWA,Bank of Botswana,Central,0,Gaborone,https://www.bankofbotswana.bw,1975,BOTSBWGA,TRUE,Official Website
+Botswana,BWA,First National Bank Botswana,Commercial,1,Gaborone,https://www.fnbbotswana.co.bw,1991,FNBXBWGA,TRUE,Official Website
+Botswana,BWA,Absa Bank Botswana,Commercial,2,Gaborone,https://www.absa.co.bw,1950,ABXXBWGA,TRUE,Official Website
+Botswana,BWA,Stanbic Bank Botswana,Commercial,3,Gaborone,https://www.stanbicbank.co.bw,1992,SBXXBWGA,TRUE,Official Website
+Botswana,BWA,Bank Gaborone,Commercial,4,Gaborone,https://www.bankgaborone.co.bw,2006,GABOBWGA,TRUE,Official Website
+Botswana,BWA,BancABC Botswana,Commercial,5,Gaborone,https://www.bancabc.co.bw,2001,BBXXBWGA,TRUE,Official Website
+Brazil,BRA,Central Bank of Brazil,Central,0,Brasília,https://www.bcb.gov.br,1964,CBXXBRBR,TRUE,Official Website
+Brazil,BRA,Itaú Unibanco,Commercial,1,São Paulo,https://www.itau.com.br,2008,IUXXBRSÃƒ,TRUE,Official Website
+Brazil,BRA,Banco do Brasil,Commercial,2,Brasília,https://www.bb.com.br,1808,BDBXBRBR,TRUE,Official Website
+Brazil,BRA,Bradesco,Commercial,3,Osasco,https://banco.bradesco,1943,BRADBROS,TRUE,Official Website
+Brazil,BRA,Santander Brasil,Commercial,4,São Paulo,https://www.santander.com.br,1982,SBXXBRSÃƒ,TRUE,Official Website
+Brazil,BRA,Caixa Econômica Federal,Commercial,5,Brasília,https://www.caixa.gov.br,1861,CEFXBRBR,TRUE,Official Website
+Brazil,BRA,Banco Safra,Commercial,6,São Paulo,https://www.safra.com.br,1955,BSXXBRSÃƒ,TRUE,Official Website
+Brunei,BRN,Autoriti Monetari Brunei Darussalam,Central,0,Bandar Seri Begawan,https://www.ambd.gov.bn,2011,AMBDBNBA,TRUE,
+Brunei,BRN,Baiduri Bank,Commercial,1,Bandar Seri Begawan,https://www.baiduri.com.bn,1994,BAIDBNBA,TRUE,
+Brunei,BRN,Bank Islam Brunei Darussalam,Commercial,2,Bandar Seri Begawan,https://www.bibd.com.bn,2005,IBDXBNBA,TRUE,
+Brunei,BRN,Standard Chartered Bank Brunei,Commercial,3,Bandar Seri Begawan,https://www.sc.com/bn,1958,SCBXBNBA,TRUE,
+Brunei,BRN,United Overseas Bank Brunei,Commercial,4,Bandar Seri Begawan,https://www.uobgroup.com,1970,UOBXBNBA,TRUE,
+Brunei,BRN,Maybank Brunei,Commercial,5,Bandar Seri Begawan,https://www.maybank2u.com.bn,1960,MBXXBNBA,TRUE,
+Bulgaria,BGR,Bulgarian National Bank,Central,0,Sofia,https://www.bnb.bg,1879,BNXXBGSO,TRUE,Official Website
+Bulgaria,BGR,UniCredit Bulbank,Commercial,1,Sofia,https://www.unicreditbulbank.bg,2007,UBXXBGSO,TRUE,Official Website
+Bulgaria,BGR,DSK Bank,Commercial,2,Sofia,https://dskbank.bg,1951,DSKXBGSO,TRUE,Official Website
+Bulgaria,BGR,United Bulgarian Bank,Commercial,3,Sofia,https://www.ubb.bg,1992,UBXXBGSO,TRUE,Official Website
+Bulgaria,BGR,Postbank Bulgaria,Commercial,4,Sofia,https://www.postbank.bg,1991,PBXXBGSO,TRUE,Official Website
+Bulgaria,BGR,First Investment Bank,Commercial,5,Sofia,https://www.fibank.bg,1993,FIXXBGSO,TRUE,Official Website
+Burkina Faso,BFA,Central Bank of West African States,Central,0,Ouagadougou,https://www.bceao.int,1962,CWASBFOU,TRUE,Official Website
+Burkina Faso,BFA,Coris Bank International Burkina Faso,Commercial,1,Ouagadougou,https://www.corisbank.com,2008,CIBFBFOU,TRUE,Official Website
+Burkina Faso,BFA,Bank of Africa Burkina Faso,Commercial,2,Ouagadougou,https://www.boaburkina.com,1988,ABFXBFOU,TRUE,Official Website
+Burkina Faso,BFA,Ecobank Burkina Faso,Commercial,3,Ouagadougou,https://www.ecobank.com,1990,EBFXBFOU,TRUE,Official Website
+Burkina Faso,BFA,United Bank for Africa Burkina Faso,Commercial,4,Ouagadougou,https://www.ubagroup.com,2005,UFABBFOU,TRUE,Official Website
+Burkina Faso,BFA,Coris Bank International,Commercial,5,Ouagadougou,https://www.corisbank.com,2008,CIXXBFOU,TRUE,Official Website
+Burundi,BDI,Bank of the Republic of Burundi,Central,0,Gitega,https://www.brb.bi,1964,RBXXBIGI,TRUE,Official Website
+Burundi,BDI,Banque Commerciale du Burundi,Commercial,1,Bujumbura,https://www.bcb.bi,1964,BCDBBIBU,TRUE,Official Website
+Burundi,BDI,Interbank Burundi,Commercial,2,Bujumbura,https://www.interbankburundi.com,1992,IBXXBIBU,TRUE,Official Website
+Burundi,BDI,Ecobank Burundi,Commercial,3,Bujumbura,https://www.ecobank.com,2014,EBXXBIBU,TRUE,Official Website
+Burundi,BDI,CRDB Bank Burundi,Commercial,4,Bujumbura,https://www.crdbbank.co.bi,2012,CBXXBIBU,TRUE,Official Website
+Burundi,BDI,KCB Bank Burundi,Commercial,5,Bujumbura,https://burundi.kcbgroup.com,2012,KBXXBIBU,TRUE,Official Website
+Cambodia,KHM,National Bank of Cambodia,Central,0,Phnom Penh,https://www.nbc.gov.kh,1954,NCXXKHPH,TRUE,
+Cambodia,KHM,ACLEDA Bank,Commercial,1,Phnom Penh,https://www.acledabank.com.kh,1993,ACLEKHPH,TRUE,
+Cambodia,KHM,Canadia Bank,Commercial,2,Phnom Penh,https://www.canadiabank.com.kh,1991,CANAKHPH,TRUE,
+Cambodia,KHM,ABA Bank,Commercial,3,Phnom Penh,https://www.ababank.com,1996,ABAXKHPH,TRUE,
+Cambodia,KHM,Foreign Trade Bank of Cambodia,Commercial,4,Phnom Penh,https://www.ftbbank.com,1979,FTCXKHPH,TRUE,
+Cambodia,KHM,Prince Bank,Commercial,5,Phnom Penh,https://www.princebank.com.kh,2015,PRINKHPH,TRUE,
+Cameroon,CMR,Bank of Central African States,Central,0,Yaoundé,https://www.beac.int,1972,CASXCMYA,TRUE,Official Website
+Cameroon,CMR,Afriland First Bank,Commercial,1,Yaoundé,https://www.afrilandfirstbank.com,1987,AFXXCMYA,TRUE,Official Website
+Cameroon,CMR,Société Générale Cameroun,Commercial,2,Douala,https://www.sgcameroun.com,1962,SGCXCMDO,TRUE,Official Website
+Cameroon,CMR,Banque Internationale du Cameroun pour l'Épargne et le Crédit,Commercial,3,Douala,https://www.bicec.com,1962,BIDCCMDO,TRUE,Official Website
+Cameroon,CMR,Ecobank Cameroon,Commercial,4,Douala,https://www.ecobank.com,2001,ECXXCMDO,TRUE,Official Website
+Cameroon,CMR,UBA Cameroon,Commercial,5,Douala,https://www.ubagroup.com,2008,UCXXCMDO,TRUE,Official Website
+Canada,CAN,Bank of Canada,Central,0,Ottawa,https://www.bankofcanada.ca,1935,CANACAOT,TRUE,Official Website
+Canada,CAN,Royal Bank of Canada,Commercial,1,Toronto,https://www.rbc.com,1864,RCXXCATO,TRUE,Official Website
+Canada,CAN,Toronto-Dominion Bank,Commercial,2,Toronto,https://www.td.com,1855,TDXXCATO,TRUE,Official Website
+Canada,CAN,Scotiabank,Commercial,3,Toronto,https://www.scotiabank.com,1832,SCOTCATO,TRUE,Official Website
+Canada,CAN,BMO,Commercial,4,Montreal,https://www.bmo.com,1817,BMOXCAMO,TRUE,Official Website
+Canada,CAN,CIBC,Commercial,5,Toronto,https://www.cibc.com,1961,CIBCCATO,TRUE,Official Website
+Cape Verde,CPV,Bank of Cape Verde,Central,0,Praia,https://www.bcv.cv,1975,CVXXCVPR,TRUE,Official Website
+Cape Verde,CPV,Caixa Económica de Cabo Verde,Commercial,1,Praia,https://www.caixa.cv,1928,CEDCCVPR,TRUE,Official Website
+Cape Verde,CPV,Banco Comercial do Atlântico,Commercial,2,Praia,https://www.bca.cv,1993,BCDACVPR,TRUE,Official Website
+Cape Verde,CPV,Banco Interatlântico,Commercial,3,Praia,https://www.bancointeratlantico.cv,1999,BIXXCVPR,TRUE,Official Website
+Cape Verde,CPV,Banco Caboverdiano de Negócios,Commercial,4,Praia,https://www.bcn.cv,2003,BCDNCVPR,TRUE,Official Website
+Cape Verde,CPV,Ecobank Cabo Verde,Commercial,5,Praia,https://www.ecobank.com,2013,ECVXCVPR,TRUE,Official Website
+Central African Republic,CAF,Bank of Central African States,Central,0,Bangui,https://www.beac.int,1972,CASXCFBA,TRUE,Official Website
+Central African Republic,CAF,Banque Populaire Maroco Centrafricaine,Commercial,1,Bangui,https://www.bpmc-bank.com,1990,BPMCCFBA,TRUE,Official Website
+Central African Republic,CAF,Ecobank Central African Republic,Commercial,2,Bangui,https://www.ecobank.com,2008,ECARCFBA,TRUE,Official Website
+Central African Republic,CAF,Commercial Bank Centrafrique,Commercial,3,Bangui,https://www.cbca.cf,1998,CCXXCFBA,TRUE,Official Website
+Central African Republic,CAF,Banque Sahélo-Saharienne,Commercial,4,Bangui,https://www.bsicbank.com,2004,BSSXCFBA,TRUE,Official Website
+Central African Republic,CAF,Union Bank for Africa CAR,Commercial,5,Bangui,https://www.ubagroup.com,2010,UFACCFBA,TRUE,Official Website
+Chad,TCD,Bank of Central African States,Central,0,N'Djamena,https://www.beac.int,1972,CASXTDN',TRUE,Official Website
+Chad,TCD,Commercial Bank Chad,Commercial,1,N'Djamena,https://www.cbtchad.com,1997,CCXXTDN',TRUE,Official Website
+Chad,TCD,Ecobank Chad,Commercial,2,N'Djamena,https://www.ecobank.com,2009,ECXXTDN',TRUE,Official Website
+Chad,TCD,Banque Sahélo-Saharienne pour l'Investissement et le Commerce,Commercial,3,N'Djamena,https://www.bsicbank.com,1999,BSSPTDN',TRUE,Official Website
+Chad,TCD,Orabank Chad,Commercial,4,N'Djamena,https://www.orabank.net,2013,OCXXTDN',TRUE,Official Website
+Chad,TCD,Banque Agricole et Commerciale,Commercial,5,N'Djamena,https://www.bac.td,2001,BAECTDN',TRUE,Official Website
+Chile,CHL,Central Bank of Chile,Central,0,Santiago,https://www.bcentral.cl,1925,CCXXCLSA,TRUE,Official Website
+Chile,CHL,Banco de Chile,Commercial,1,Santiago,https://www.bancochile.cl,1893,BDCXCLSA,TRUE,Official Website
+Chile,CHL,Banco Santander Chile,Commercial,2,Santiago,https://banco.santander.cl,1978,BSCXCLSA,TRUE,Official Website
+Chile,CHL,BancoEstado,Commercial,3,Santiago,https://www.bancoestado.cl,1953,BANCCLSA,TRUE,Official Website
+Chile,CHL,Banco BCI,Commercial,4,Santiago,https://www.bci.cl,1937,BBXXCLSA,TRUE,Official Website
+Chile,CHL,Scotiabank Chile,Commercial,5,Santiago,https://www.scotiabankchile.cl,1990,SCXXCLSA,TRUE,Official Website
+China,CHN,People's Bank of China,Central,0,Beijing,https://www.pbc.gov.cn,1948,PSCXCNBE,TRUE,Official Website
+China,CHN,Industrial and Commercial Bank of China,Commercial,1,Beijing,https://www.icbc.com.cn,1984,ICCXCNBE,TRUE,Official Website
+China,CHN,China Construction Bank,Commercial,2,Beijing,https://www.ccb.com,1954,CCXXCNBE,TRUE,Official Website
+China,CHN,Agricultural Bank of China,Commercial,3,Beijing,https://www.abchina.com,1951,ACXXCNBE,TRUE,Official Website
+China,CHN,Bank of China,Commercial,4,Beijing,https://www.boc.cn,1912,CHINCNBE,TRUE,Official Website
+China,CHN,Bank of Communications,Commercial,5,Shanghai,https://www.bankcomm.com,1908,COMMCNSH,TRUE,Official Website
+Colombia,COL,Bank of the Republic,Central,0,Bogotá,https://www.banrep.gov.co,1923,REPUCOBO,TRUE,Official Website
+Colombia,COL,Bancolombia,Commercial,1,Medellín,https://www.bancolombia.com,1945,BANCCOME,TRUE,Official Website
+Colombia,COL,Banco de Bogotá,Commercial,2,Bogotá,https://www.bancodebogota.com,1870,BDBXCOBO,TRUE,Official Website
+Colombia,COL,Davivienda,Commercial,3,Bogotá,https://www.davivienda.com,1972,DAVICOBO,TRUE,Official Website
+Colombia,COL,BBVA Colombia,Commercial,4,Bogotá,https://www.bbva.com.co,1956,BCXXCOBO,TRUE,Official Website
+Colombia,COL,Banco de Occidente Colombia,Commercial,5,Cali,https://www.bancodeoccidente.com.co,1965,BDOCCOCA,TRUE,Official Website
+Comoros,COM,Central Bank of the Comoros,Central,0,Moroni,https://www.banque-comores.km,1981,CCXXKMMO,TRUE,Official Website
+Comoros,COM,Banque pour l'Industrie et le Commerce,Commercial,1,Moroni,https://www.bic-comores.com,1993,BPLIKMMO,TRUE,Official Website
+Comoros,COM,Exim Bank Comores,Commercial,2,Moroni,https://www.eximbankcomores.com,2007,ECXXKMMO,TRUE,Official Website
+Comoros,COM,Banque Fédérale de Commerce,Commercial,3,Moroni,https://www.bfc-comores.com,1982,BFDCKMMO,TRUE,Official Website
+Comoros,COM,Sanduk Microfinance Bank,Commercial,4,Moroni,https://www.sandukcomores.org,1999,SMXXKMMO,TRUE,Official Website
+Comoros,COM,Meck Comores,Commercial,5,Moroni,https://www.meck-comores.org,1998,MCXXKMMO,TRUE,Official Website
+Costa Rica,CRI,Central Bank of Costa Rica,Central,0,San José,https://www.bccr.fi.cr,1950,CCRXCRSA,TRUE,Official Website
+Costa Rica,CRI,Banco Nacional de Costa Rica,Commercial,1,San José,https://www.bncr.fi.cr,1914,BNDCCRSA,TRUE,Official Website
+Costa Rica,CRI,Banco de Costa Rica,Commercial,2,San José,https://www.bancobcr.com,1877,BDCRCRSA,TRUE,Official Website
+Costa Rica,CRI,BAC Credomatic Costa Rica,Commercial,3,San José,https://www.baccredomatic.com,1952,BCCRCRSA,TRUE,Official Website
+Costa Rica,CRI,Banco Popular,Commercial,4,San José,https://www.bancopopular.fi.cr,1969,BPXXCRSA,TRUE,Official Website
+Costa Rica,CRI,Scotiabank Costa Rica,Commercial,5,San José,https://www.scotiabankcr.com,1995,SCRXCRSA,TRUE,Official Website
+Croatia,HRV,Croatian National Bank,Central,0,Zagreb,https://www.hnb.hr,1990,CNXXHRZA,TRUE,Official Website
+Croatia,HRV,Zagrebačka Banka,Commercial,1,Zagreb,https://www.zaba.hr,1914,ZBXXHRZA,TRUE,Official Website
+Croatia,HRV,Privredna Banka Zagreb,Commercial,2,Zagreb,https://www.pbz.hr,1966,PBZXHRZA,TRUE,Official Website
+Croatia,HRV,Erste & Steiermärkische Bank,Commercial,3,Rijeka,https://www.erstebank.hr,2003,ESXXHRRI,TRUE,Official Website
+Croatia,HRV,Raiffeisenbank Hrvatska,Commercial,4,Zagreb,https://www.rba.hr,1994,RHXXHRZA,TRUE,Official Website
+Croatia,HRV,OTP Bank Croatia,Commercial,5,Split,https://www.otpbanka.hr,2018,OCXXHRSP,TRUE,Official Website
+Cuba,CUB,Central Bank of Cuba,Central,0,Havana,https://www.bc.gob.cu,1997,CCXXCUHA,TRUE,Official Website
+Cuba,CUB,Banco Nacional de Cuba,Commercial,1,Havana,https://www.bc.gob.cu,1948,BNDCCUHA,TRUE,Official Website
+Cuba,CUB,Banco Popular de Ahorro,Commercial,2,Havana,https://www.bpa.cu,1983,BPDACUHA,TRUE,Official Website
+Cuba,CUB,Banco Metropolitano,Commercial,3,Havana,https://www.banco-metropolitano.com.cu,1996,BMXXCUHA,TRUE,Official Website
+Cuba,CUB,Banco de Crédito y Comercio,Commercial,4,Havana,https://www.bandec.cu,1997,BDCYCUHA,TRUE,Official Website
+Cuba,CUB,Banco Internacional de Comercio,Commercial,5,Havana,https://www.bicsa.com,1993,BIDCCUHA,TRUE,Official Website
+Cyprus,CYP,Central Bank of Cyprus,Central,0,Nicosia,https://www.centralbank.cy,1963,CCXXCYNI,TRUE,Official Website
+Cyprus,CYP,Bank of Cyprus,Commercial,1,Nicosia,https://www.bankofcyprus.com,1899,CYPRCYNI,TRUE,Official Website
+Cyprus,CYP,Hellenic Bank,Commercial,2,Nicosia,https://www.hellenicbank.com,1974,HELLCYNI,TRUE,Official Website
+Cyprus,CYP,AstroBank,Commercial,3,Nicosia,https://www.astrobank.com,2006,ASTRCYNI,TRUE,Official Website
+Czech Republic,CZE,Czech National Bank,Central,0,Prague,https://www.cnb.cz,1993,CNXXCZPR,TRUE,Official Website
+Czech Republic,CZE,ČSOB,Commercial,1,Prague,https://www.csob.cz,1964,ÄŒSOBCZPR,TRUE,Official Website
+Czech Republic,CZE,Česká spořitelna,Commercial,2,Prague,https://www.csas.cz,1825,ÄŒSXXCZPR,TRUE,Official Website
+Czech Republic,CZE,Komerční banka,Commercial,3,Prague,https://www.kb.cz,1990,KBXXCZPR,TRUE,Official Website
+Czech Republic,CZE,UniCredit Bank Czech Republic,Commercial,4,Prague,https://www.unicreditbank.cz,2007,UCRXCZPR,TRUE,Official Website
+Czech Republic,CZE,Moneta Money Bank,Commercial,5,Prague,https://www.moneta.cz,1998,MMXXCZPR,TRUE,Official Website
+Democratic Republic of the Congo,COD,Bank of Central African Congo,Central,0,Kinshasa,https://www.bcc.cd,1961,CACXCDKI,TRUE,Official Website
+Democratic Republic of the Congo,COD,Rawbank,Commercial,1,Kinshasa,https://www.rawbank.com,2002,RAWBCDKI,TRUE,Official Website
+Democratic Republic of the Congo,COD,EquityBCDC,Commercial,2,Kinshasa,https://equitygroupholdings.com,1909,EQUICDKI,TRUE,Official Website
+Democratic Republic of the Congo,COD,Trust Merchant Bank,Commercial,3,Lubumbashi,https://www.trustmerchantbank.com,2004,TMXXCDLU,TRUE,Official Website
+Democratic Republic of the Congo,COD,BGFIBank RDC,Commercial,4,Kinshasa,https://www.bgfibank.com,2010,BRXXCDKI,TRUE,Official Website
+Democratic Republic of the Congo,COD,Ecobank DRC,Commercial,5,Kinshasa,https://www.ecobank.com,2008,EDXXCDKI,TRUE,Official Website
+Denmark,DNK,Danmarks Nationalbank,Central,0,Copenhagen,https://www.nationalbanken.dk,1818,DNXXDKCO,TRUE,Official Website
+Denmark,DNK,Danske Bank,Commercial,1,Copenhagen,https://danskebank.com,1871,DANSDKCO,TRUE,Official Website
+Denmark,DNK,Nykredit Bank,Commercial,2,Copenhagen,https://www.nykredit.com,1985,NYKRDKCO,TRUE,Official Website
+Denmark,DNK,Jyske Bank,Commercial,3,Silkeborg,https://www.jyskebank.dk,1967,JYSKDKSI,TRUE,Official Website
+Denmark,DNK,Sydbank,Commercial,4,Aabenraa,https://www.sydbank.dk,1970,SYDBDKAA,TRUE,Official Website
+Denmark,DNK,Spar Nord Bank,Commercial,5,Aalborg,https://www.sparnord.dk,1824,SNXXDKAA,TRUE,Official Website
+Djibouti,DJI,Central Bank of Djibouti,Central,0,Djibouti,https://www.banquecentrale.dj,1979,CDXXDJDJ,TRUE,Official Website
+Djibouti,DJI,Banque pour le Commerce et l'Industrie Mer Rouge,Commercial,1,Djibouti,https://www.bcimr.dj,1950,BPLCDJDJ,TRUE,Official Website
+Djibouti,DJI,International Commercial Bank Djibouti,Commercial,2,Djibouti,https://www.icbank-dj.com,2006,ICDXDJDJ,TRUE,Official Website
+Djibouti,DJI,Saba Islamic Bank,Commercial,3,Djibouti,https://www.sib.dj,2007,SIXXDJDJ,TRUE,Official Website
+Djibouti,DJI,East Africa Bank,Commercial,4,Djibouti,https://www.eastafricabank.com,2011,EAXXDJDJ,TRUE,Official Website
+Djibouti,DJI,Exim Bank Djibouti,Commercial,5,Djibouti,https://www.eximbank.dj,2010,EDXXDJDJ,TRUE,Official Website
+Dominica,DMA,Eastern Caribbean Central Bank,Central,0,Basseterre,https://www.eccb-centralbank.org,1983,ECCXDMBA,TRUE,Official Website
+Dominica,DMA,National Bank of Dominica,Commercial,1,Roseau,https://www.nbdominica.com,1978,NDXXDMRO,TRUE,Official Website
+Dominica,DMA,Republic Bank EC Dominica,Commercial,2,Roseau,https://republicbankec.com,2004,REDXDMRO,TRUE,Official Website
+Dominica,DMA,CIBC FirstCaribbean Dominica,Commercial,3,Roseau,https://www.cibcfcib.com,2002,CFDXDMRO,TRUE,Official Website
+Dominica,DMA,Royal Bank of Canada Dominica,Commercial,4,Roseau,https://www.rbcroyalbank.com/caribbean,1907,RCDXDMRO,TRUE,Official Website
+Dominica,DMA,National Cooperative Credit Union,Commercial,5,Roseau,https://www.nccudominica.com,1951,NCCUDMRO,TRUE,Official Website
+Dominican Republic,DOM,Central Bank of the Dominican Republic,Central,0,Santo Domingo,https://www.bancentral.gov.do,1947,CDRXDOSA,TRUE,Official Website
+Dominican Republic,DOM,Banco Popular Dominicano,Commercial,1,Santo Domingo,https://www.popularenlinea.com,1963,BPDXDOSA,TRUE,Official Website
+Dominican Republic,DOM,Banreservas,Commercial,2,Santo Domingo,https://www.banreservas.com,1941,BANRDOSA,TRUE,Official Website
+Dominican Republic,DOM,BHD León,Commercial,3,Santo Domingo,https://www.bhd.com.do,1972,BLXXDOSA,TRUE,Official Website
+Dominican Republic,DOM,Scotiabank República Dominicana,Commercial,4,Santo Domingo,https://do.scotiabank.com,1920,SRDXDOSA,TRUE,Official Website
+Dominican Republic,DOM,Banco Santa Cruz,Commercial,5,Santiago,https://www.bsc.com.do,1999,BSCXDOSA,TRUE,Official Website
+Ecuador,ECU,Central Bank of Ecuador,Central,0,Quito,https://www.bce.fin.ec,1927,CEXXECQU,TRUE,Official Website
+Ecuador,ECU,Banco Pichincha,Commercial,1,Quito,https://www.pichincha.com,1906,BPXXECQU,TRUE,Official Website
+Ecuador,ECU,Banco Guayaquil,Commercial,2,Guayaquil,https://www.bancoguayaquil.com,1923,BGXXECGU,TRUE,Official Website
+Ecuador,ECU,Banco del Pacífico,Commercial,3,Guayaquil,https://www.bancodelpacifico.com,1972,BDPXECGU,TRUE,Official Website
+Ecuador,ECU,Produbanco,Commercial,4,Quito,https://www.produbanco.com,1978,PRODECQU,TRUE,Official Website
+Ecuador,ECU,Banco Internacional Ecuador,Commercial,5,Quito,https://www.bancointernacional.fin.ec,1973,BIEXECQU,TRUE,Official Website
+Egypt,EGY,Central Bank of Egypt,Central,0,Cairo,https://www.cbe.org.eg,1961,CEXXEGCA,TRUE,Official Website
+Egypt,EGY,National Bank of Egypt,Commercial,1,Cairo,https://www.nbe.com.eg,1898,NEXXEGCA,TRUE,Official Website
+Egypt,EGY,Banque Misr,Commercial,2,Cairo,https://www.banquemisr.com,1920,BMXXEGCA,TRUE,Official Website
+Egypt,EGY,Commercial International Bank,Commercial,3,Giza,https://www.cibeg.com,1975,CIXXEGGI,TRUE,Official Website
+Egypt,EGY,QNB Alahli,Commercial,4,Cairo,https://www.qnbalahli.com,1978,QAXXEGCA,TRUE,Official Website
+Egypt,EGY,Banque du Caire,Commercial,5,Cairo,https://www.bdc.com.eg,1952,BDCXEGCA,TRUE,Official Website
+El Salvador,SLV,Central Reserve Bank of El Salvador,Central,0,San Salvador,https://www.bcr.gob.sv,1934,CRESSVSA,TRUE,Official Website
+El Salvador,SLV,Banco Agrícola,Commercial,1,San Salvador,https://www.bancoagricola.com,1955,BAXXSVSA,TRUE,Official Website
+El Salvador,SLV,Banco Cuscatlán,Commercial,2,San Salvador,https://www.bancocuscatlan.com,1972,BCXXSVSA,TRUE,Official Website
+El Salvador,SLV,Davivienda El Salvador,Commercial,3,San Salvador,https://www.davivienda.com.sv,1973,DESXSVSA,TRUE,Official Website
+El Salvador,SLV,Banco Promerica El Salvador,Commercial,4,San Salvador,https://www.promerica.com.sv,1996,BPESSVSA,TRUE,Official Website
+El Salvador,SLV,Banco Atlántida El Salvador,Commercial,5,San Salvador,https://www.bancoatlantida.com.sv,2017,BAESSVSA,TRUE,Official Website
+Equatorial Guinea,GNQ,Bank of Central African States,Central,0,Malabo,https://www.beac.int,1972,CASXGQMA,TRUE,Official Website
+Equatorial Guinea,GNQ,BGFIBank Guinea Ecuatorial,Commercial,1,Malabo,https://www.bgfibank.com,2001,BGEXGQMA,TRUE,Official Website
+Equatorial Guinea,GNQ,CCEI Bank GE,Commercial,2,Malabo,https://www.cceibankge.com,2001,CGXXGQMA,TRUE,Official Website
+Equatorial Guinea,GNQ,BANGE,Commercial,3,Malabo,https://www.bangebusinessschool.com,2006,BANGGQMA,TRUE,Official Website
+Equatorial Guinea,GNQ,Ecobank Guinea Ecuatorial,Commercial,4,Malabo,https://www.ecobank.com,2011,EGEXGQMA,TRUE,Official Website
+Equatorial Guinea,GNQ,Societe Generale Guinea Ecuatorial,Commercial,5,Malabo,https://www.societegenerale.com,2009,SGGEGQMA,TRUE,Official Website
+Eritrea,ERI,Bank of Eritrea,Central,0,Asmara,https://www.shabait.com,1993,ERITERAS,TRUE,Official Website
+Eritrea,ERI,Commercial Bank of Eritrea,Commercial,1,Asmara,https://www.combankeritrea.com,1994,CEXXERAS,TRUE,Official Website
+Eritrea,ERI,Housing and Commerce Bank of Eritrea,Commercial,2,Asmara,https://www.hcb-eritrea.com,1994,HCEXERAS,TRUE,Official Website
+Eritrea,ERI,Eritrean Investment and Development Bank,Commercial,3,Asmara,https://www.eidb-er.com,1996,EIDXERAS,TRUE,Official Website
+Eritrea,ERI,Eritrean Development Bank,Commercial,4,Asmara,https://www.eidb-er.com,1996,EDXXERAS,TRUE,Official Website
+Eritrea,ERI,Himbol Financial Services,Commercial,5,Asmara,https://www.himbol.com,2002,HFSXERAS,TRUE,Official Website
+Estonia,EST,Eesti Pank,Central,0,Tallinn,https://www.eestipank.ee,1919,EPXXEETA,TRUE,Official Website
+Estonia,EST,LHV Pank,Commercial,1,Tallinn,https://www.lhv.ee,1999,LPXXEETA,TRUE,Official Website
+Estonia,EST,Swedbank Estonia,Commercial,2,Tallinn,https://www.swedbank.ee,1991,SEXXEETA,TRUE,Official Website
+Estonia,EST,SEB Estonia,Commercial,3,Tallinn,https://www.seb.ee,1992,SEXXEETA,TRUE,Official Website
+Estonia,EST,Luminor Bank,Commercial,4,Tallinn,https://www.luminor.ee,2017,LUMIEETA,TRUE,Official Website
+Estonia,EST,Coop Pank,Commercial,5,Tallinn,https://www.cooppank.ee,2017,CPXXEETA,TRUE,Official Website
+Eswatini,SWZ,Central Bank of Eswatini,Central,0,Mbabane,https://www.centralbank.org.sz,1974,CEXXSZMB,TRUE,Official Website
+Eswatini,SWZ,Standard Bank Eswatini,Commercial,1,Mbabane,https://www.standardbank.co.sz,1988,SEXXSZMB,TRUE,Official Website
+Eswatini,SWZ,FNB Eswatini,Commercial,2,Mbabane,https://www.fnb.co.sz,1995,FEXXSZMB,TRUE,Official Website
+Eswatini,SWZ,Nedbank Eswatini,Commercial,3,Mbabane,https://www.nedbank.co.sz,1974,NEXXSZMB,TRUE,Official Website
+Eswatini,SWZ,Eswatini Bank,Commercial,4,Manzini,https://www.eswatinibank.co.sz,1965,ESWASZMA,TRUE,Official Website
+Eswatini,SWZ,SwaziBank,Commercial,5,Manzini,https://www.eswatinibank.co.sz,1965,SWAZSZMA,TRUE,Official Website
+Ethiopia,ETH,National Bank of Ethiopia,Central,0,Addis Ababa,https://www.nbe.gov.et,1963,NEXXETAD,TRUE,Official Website
+Ethiopia,ETH,Commercial Bank of Ethiopia,Commercial,1,Addis Ababa,https://www.combanketh.et,1942,CEXXETAD,TRUE,Official Website
+Ethiopia,ETH,Dashen Bank,Commercial,2,Addis Ababa,https://dashenbanksc.com,1995,DASHETAD,TRUE,Official Website
+Ethiopia,ETH,Awash Bank,Commercial,3,Addis Ababa,https://www.awashbank.com,1994,AWASETAD,TRUE,Official Website
+Ethiopia,ETH,Hibret Bank,Commercial,4,Addis Ababa,https://www.hibretbank.com.et,1998,HIBRETAD,TRUE,Official Website
+Ethiopia,ETH,Cooperative Bank of Oromia,Commercial,5,Addis Ababa,https://coopbankoromia.com.et,2004,COXXETAD,TRUE,Official Website
+Fiji,FJI,Reserve Bank of Fiji,Central,0,Suva,https://www.rbf.gov.fj,1984,RFXXFJSU,TRUE,Official Website
+Fiji,FJI,ANZ Fiji,Commercial,1,Suva,https://www.anz.com.fj,1880,AFXXFJSU,TRUE,Official Website
+Fiji,FJI,Westpac Fiji,Commercial,2,Suva,https://www.westpac.com.fj,1901,WFXXFJSU,TRUE,Official Website
+Fiji,FJI,Bank of Baroda Fiji,Commercial,3,Suva,https://www.bankofbaroda.in,1961,BFXXFJSU,TRUE,Official Website
+Fiji,FJI,HFC Bank Fiji,Commercial,4,Suva,https://www.hfc.com.fj,1964,HFXXFJSU,TRUE,Official Website
+Fiji,FJI,BSP Fiji,Commercial,5,Suva,https://www.bsp.com.fj,2015,BFXXFJSU,TRUE,Official Website
+Finland,FIN,Bank of Finland,Central,0,Helsinki,https://www.suomenpankki.fi,1811,FINLFIHE,TRUE,Official Website
+Finland,FIN,Nordea Bank Finland,Commercial,1,Helsinki,https://www.nordea.com,1820,NFXXFIHE,TRUE,Official Website
+Finland,FIN,OP Financial Group,Commercial,2,Helsinki,https://www.op.fi,1902,OFGXFIHE,TRUE,Official Website
+Finland,FIN,Danske Bank Finland,Commercial,3,Helsinki,https://danskebank.fi,1871,DFXXFIHE,TRUE,Official Website
+Finland,FIN,Aktia Bank,Commercial,4,Helsinki,https://www.aktia.fi,1991,AKTIFIHE,TRUE,Official Website
+Finland,FIN,S-Bank,Commercial,5,Helsinki,https://www.s-pankki.fi,2007,SXXXFIHE,TRUE,Official Website
+France,FRA,Banque de France,Central,0,Paris,https://www.banque-france.fr,1800,BDFXFRPA,TRUE,Official Website
+France,FRA,BNP Paribas,Commercial,1,Paris,https://group.bnpparibas,2000,BPXXFRPA,TRUE,Official Website
+France,FRA,Crédit Agricole,Commercial,2,Montrouge,https://www.credit-agricole.com,1894,CAXXFRMO,TRUE,Official Website
+France,FRA,Société Générale,Commercial,3,Paris,https://www.societegenerale.com,1864,SGXXFRPA,TRUE,Official Website
+France,FRA,Groupe BPCE,Commercial,4,Paris,https://groupebpce.com,2009,GBXXFRPA,TRUE,Official Website
+France,FRA,Crédit Mutuel Alliance Fédérale,Commercial,5,Strasbourg,https://www.creditmutuelalliancefederale.fr,1882,CMAFFRST,TRUE,Official Website
+Gabon,GAB,Bank of Central African States,Central,0,Libreville,https://www.beac.int,1972,CASXGALI,TRUE,Official Website
+Gabon,GAB,BGFIBank Gabon,Commercial,1,Libreville,https://www.bgfibank.com,1971,BGXXGALI,TRUE,Official Website
+Gabon,GAB,Union Gabonaise de Banque,Commercial,2,Libreville,https://www.ugb-gabon.com,1965,UGDBGALI,TRUE,Official Website
+Gabon,GAB,Orabank Gabon,Commercial,3,Libreville,https://www.orabank.net,2003,OGXXGALI,TRUE,Official Website
+Gabon,GAB,Ecobank Gabon,Commercial,4,Libreville,https://www.ecobank.com,2009,EGXXGALI,TRUE,Official Website
+Gabon,GAB,Banque Internationale pour le Commerce et l'Industrie du Gabon,Commercial,5,Libreville,https://www.bicig.ga,1945,BIPLGALI,TRUE,Official Website
+Gambia,GMB,Central Bank of The Gambia,Central,0,Banjul,https://www.cbg.gm,1971,CGXXGMBA,TRUE,Official Website
+Gambia,GMB,Trust Bank Gambia,Commercial,1,Banjul,https://www.trustbankgambia.com,1997,TGXXGMBA,TRUE,Official Website
+Gambia,GMB,Ecobank Gambia,Commercial,2,Banjul,https://www.ecobank.com,2007,EGXXGMBA,TRUE,Official Website
+Gambia,GMB,Access Bank Gambia,Commercial,3,Banjul,https://www.accessbankgambia.com,2007,AGXXGMBA,TRUE,Official Website
+Gambia,GMB,Standard Chartered Gambia,Commercial,4,Banjul,https://www.sc.com/gm,1894,SCGXGMBA,TRUE,Official Website
+Gambia,GMB,AGIB Bank,Commercial,5,Banjul,https://www.agib.gm,1997,AGIBGMBA,TRUE,Official Website
+Georgia,GEO,National Bank of Georgia,Central,0,Tbilisi,https://www.nbg.gov.ge,1919,NGXXGETB,TRUE,Official Website
+Georgia,GEO,Bank of Georgia,Commercial,1,Tbilisi,https://bankofgeorgia.ge,1903,GEORGETB,TRUE,Official Website
+Georgia,GEO,TBC Bank,Commercial,2,Tbilisi,https://www.tbcbank.ge,1992,TBCXGETB,TRUE,Official Website
+Georgia,GEO,Liberty Bank,Commercial,3,Tbilisi,https://libertybank.ge,2002,LIBEGETB,TRUE,Official Website
+Georgia,GEO,Basisbank,Commercial,4,Tbilisi,https://basisbank.ge,1993,BASIGETB,TRUE,Official Website
+Georgia,GEO,Credo Bank,Commercial,5,Tbilisi,https://credobank.ge,2007,CREDGETB,TRUE,Official Website
+Germany,DEU,Deutsche Bundesbank,Central,0,Frankfurt am Main,https://www.bundesbank.de,1957,DBXXDEFR,TRUE,Official Website
+Germany,DEU,Deutsche Bank,Commercial,1,Frankfurt am Main,https://www.db.com,1870,DEUTDEFR,TRUE,Official Website
+Germany,DEU,Commerzbank,Commercial,2,Frankfurt am Main,https://www.commerzbank.com,1870,COMMDEFR,TRUE,Official Website
+Germany,DEU,DZ Bank,Commercial,3,Frankfurt am Main,https://www.dzbank.com,2001,DZXXDEFR,TRUE,Official Website
+Germany,DEU,KfW,Development,4,Frankfurt am Main,https://www.kfw.de,1948,KFWXDEFR,TRUE,Official Website
+Germany,DEU,BayernLB,Commercial,5,Munich,https://www.bayernlb.de,1884,BAYEDEMU,TRUE,Official Website
+Ghana,GHA,Bank of Ghana,Central,0,Accra,https://www.bog.gov.gh,1957,GHANGHAC,TRUE,Official Website
+Ghana,GHA,GCB Bank,Commercial,1,Accra,https://www.gcbbank.com.gh,1953,GCBXGHAC,TRUE,Official Website
+Ghana,GHA,Ecobank Ghana,Commercial,2,Accra,https://www.ecobank.com,1990,EGXXGHAC,TRUE,Official Website
+Ghana,GHA,Absa Bank Ghana,Commercial,3,Accra,https://www.absa.com.gh,1917,AGXXGHAC,TRUE,Official Website
+Ghana,GHA,Stanbic Bank Ghana,Commercial,4,Accra,https://www.stanbicbank.com.gh,1999,SGXXGHAC,TRUE,Official Website
+Ghana,GHA,Fidelity Bank Ghana,Commercial,5,Accra,https://www.fidelitybank.com.gh,2006,FGXXGHAC,TRUE,Official Website
+Greece,GRC,Bank of Greece,Central,0,Athens,https://www.bankofgreece.gr,1927,GREEGRAT,TRUE,Official Website
+Greece,GRC,National Bank of Greece,Commercial,1,Athens,https://www.nbg.gr,1841,NGXXGRAT,TRUE,Official Website
+Greece,GRC,Eurobank,Commercial,2,Athens,https://www.eurobank.gr,1990,EUROGRAT,TRUE,Official Website
+Greece,GRC,Alpha Bank,Commercial,3,Athens,https://www.alpha.gr,1879,ALPHGRAT,TRUE,Official Website
+Greece,GRC,Piraeus Bank,Commercial,4,Athens,https://www.piraeusbank.gr,1916,PIRAGRAT,TRUE,Official Website
+Greece,GRC,Attica Bank,Commercial,5,Athens,https://www.atticabank.gr,1925,ATTIGRAT,TRUE,Official Website
+Grenada,GRD,Eastern Caribbean Central Bank,Central,0,Basseterre,https://www.eccb-centralbank.org,1983,ECCXGDBA,TRUE,Official Website
+Grenada,GRD,Republic Bank Grenada,Commercial,1,St. George's,https://republicgrenada.com,2004,RGXXGDST,TRUE,Official Website
+Grenada,GRD,Grenada Co-operative Bank,Commercial,2,St. George's,https://www.grenadaco-opbank.com,1932,GOXXGDST,TRUE,Official Website
+Grenada,GRD,CIBC FirstCaribbean Grenada,Commercial,3,St. George's,https://www.cibcfcib.com,2002,CFGXGDST,TRUE,Official Website
+Grenada,GRD,RBC Royal Bank Grenada,Commercial,4,St. George's,https://www.rbcroyalbank.com/caribbean,1905,RRGXGDST,TRUE,Official Website
+Grenada,GRD,Ariza Credit Union,Commercial,5,St. George's,https://www.arizacu.com,1965,ACUXGDST,TRUE,Official Website
+Guatemala,GTM,Bank of Guatemala,Central,0,Guatemala City,https://www.banguat.gob.gt,1945,GUATGTGU,TRUE,Official Website
+Guatemala,GTM,Banco Industrial,Commercial,1,Guatemala City,https://www.bi.com.gt,1968,BIXXGTGU,TRUE,Official Website
+Guatemala,GTM,Banrural,Commercial,2,Guatemala City,https://www.banrural.com.gt,1997,BANRGTGU,TRUE,Official Website
+Guatemala,GTM,BAC Credomatic Guatemala,Commercial,3,Guatemala City,https://www.baccredomatic.com,1952,BCGXGTGU,TRUE,Official Website
+Guatemala,GTM,Banco G&T Continental,Commercial,4,Guatemala City,https://www.gtc.com.gt,1962,BGTCGTGU,TRUE,Official Website
+Guatemala,GTM,Banco Promerica Guatemala,Commercial,5,Guatemala City,https://www.promerica.com.gt,1992,BPGXGTGU,TRUE,Official Website
+Guinea,GIN,Central Bank of the Republic of Guinea,Central,0,Conakry,https://www.bcrg-guinee.org,1960,CRGXGNCO,TRUE,Official Website
+Guinea,GIN,Banque Internationale pour le Commerce et l'Industrie de la Guinée,Commercial,1,Conakry,https://www.bicigui.com,1985,BIPLGNCO,TRUE,Official Website
+Guinea,GIN,Ecobank Guinea,Commercial,2,Conakry,https://www.ecobank.com,2006,EGXXGNCO,TRUE,Official Website
+Guinea,GIN,Vista Bank Guinea,Commercial,3,Conakry,https://www.vistabankgroup.com,2021,VGXXGNCO,TRUE,Official Website
+Guinea,GIN,United Bank for Africa Guinea,Commercial,4,Conakry,https://www.ubagroup.com,2009,UFAGGNCO,TRUE,Official Website
+Guinea,GIN,Orabank Guinea,Commercial,5,Conakry,https://www.orabank.net,1988,OGXXGNCO,TRUE,Official Website
+Guinea-Bissau,GNB,Central Bank of West African States,Central,0,Bissau,https://www.bceao.int,1962,CWASGWBI,TRUE,Official Website
+Guinea-Bissau,GNB,Banque Atlantique Guinée-Bissau,Commercial,1,Bissau,https://www.banqueatlantique.net,2006,BAGBGWBI,TRUE,Official Website
+Guinea-Bissau,GNB,Ecobank Guinea-Bissau,Commercial,2,Bissau,https://www.ecobank.com,2010,EGBXGWBI,TRUE,Official Website
+Guinea-Bissau,GNB,Orabank Guinea-Bissau,Commercial,3,Bissau,https://www.orabank.net,2003,OGBXGWBI,TRUE,Official Website
+Guinea-Bissau,GNB,Bank of Africa Guinea-Bissau,Commercial,4,Bissau,https://www.boagroup.com,2015,AGBXGWBI,TRUE,Official Website
+Guinea-Bissau,GNB,Banque Régionale de Solidarité,Commercial,5,Bissau,https://www.brsbank.net,2005,BRDSGWBI,TRUE,Official Website
+Guyana,GUY,Bank of Guyana,Central,0,Georgetown,https://bankofguyana.org.gy,1965,GUYAGYGE,TRUE,Official Website
+Guyana,GUY,Republic Bank Guyana,Commercial,1,Georgetown,https://republicguyana.com,1836,RGXXGYGE,TRUE,Official Website
+Guyana,GUY,GBTI Bank,Commercial,2,Georgetown,https://gbtibank.com,1988,GBTIGYGE,TRUE,Official Website
+Guyana,GUY,Demerara Bank,Commercial,3,Georgetown,https://www.demerarabank.com,1994,DEMEGYGE,TRUE,Official Website
+Guyana,GUY,Citizens Bank Guyana,Commercial,4,Georgetown,https://www.citizensbankgy.com,1993,CGXXGYGE,TRUE,Official Website
+Guyana,GUY,New Building Society,Commercial,5,Georgetown,https://www.nbsgy.org,1940,NBSXGYGE,TRUE,Official Website
+Haiti,HTI,Bank of the Republic of Haiti,Central,0,Port-au-Prince,https://www.brh.ht,1979,RHXXHTPO,TRUE,Official Website
+Haiti,HTI,Unibank Haiti,Commercial,1,Port-au-Prince,https://www.unibankhaiti.com,1993,UHXXHTPO,TRUE,Official Website
+Haiti,HTI,Sogebank,Commercial,2,Port-au-Prince,https://www.sogebank.com,1986,SOGEHTPO,TRUE,Official Website
+Haiti,HTI,BNC Haiti,Commercial,3,Port-au-Prince,https://www.bnconline.com,1919,BHXXHTPO,TRUE,Official Website
+Haiti,HTI,Capital Bank Haiti,Commercial,4,Port-au-Prince,https://www.capitalbankhaiti.biz,2005,CHXXHTPO,TRUE,Official Website
+Haiti,HTI,BUH Haiti,Commercial,5,Port-au-Prince,https://www.buh.ht,1973,BHXXHTPO,TRUE,Official Website
+Honduras,HND,Central Bank of Honduras,Central,0,Tegucigalpa,https://www.bch.hn,1950,CHXXHNTE,TRUE,Official Website
+Honduras,HND,Banco Ficohsa,Commercial,1,Tegucigalpa,https://www.ficohsa.com,1994,BFXXHNTE,TRUE,Official Website
+Honduras,HND,Banco Atlántida,Commercial,2,La Ceiba,https://www.bancatlan.hn,1913,BAXXHNLA,TRUE,Official Website
+Honduras,HND,BAC Credomatic Honduras,Commercial,3,Tegucigalpa,https://www.baccredomatic.com,1952,BCHXHNTE,TRUE,Official Website
+Honduras,HND,Banco de Occidente Honduras,Commercial,4,San Pedro Sula,https://www.bancocci.hn,1951,BDOHHNSA,TRUE,Official Website
+Honduras,HND,Banpais,Commercial,5,San Pedro Sula,https://www.banpais.hn,1992,BANPHNSA,TRUE,Official Website
+Hungary,HUN,Magyar Nemzeti Bank,Central,0,Budapest,https://www.mnb.hu,1924,MNXXHUBU,TRUE,Official Website
+Hungary,HUN,OTP Bank,Commercial,1,Budapest,https://www.otpbank.hu,1949,OTPXHUBU,TRUE,Official Website
+Hungary,HUN,K&H Bank,Commercial,2,Budapest,https://www.kh.hu,1987,KHXXHUBU,TRUE,Official Website
+Hungary,HUN,MBH Bank,Commercial,3,Budapest,https://www.mbhbank.hu,2023,MBHXHUBU,TRUE,Official Website
+Hungary,HUN,UniCredit Bank Hungary,Commercial,4,Budapest,https://www.unicreditbank.hu,1990,UHXXHUBU,TRUE,Official Website
+Hungary,HUN,Erste Bank Hungary,Commercial,5,Budapest,https://www.erstebank.hu,1997,EHXXHUBU,TRUE,Official Website
+Iceland,ISL,Central Bank of Iceland,Central,0,Reykjavik,https://www.cb.is,1961,CIXXISRE,TRUE,Official Website
+Iceland,ISL,Landsbankinn,Commercial,1,Reykjavik,https://www.landsbankinn.is,1886,LANDISRE,TRUE,Official Website
+Iceland,ISL,Arion Bank,Commercial,2,Reykjavik,https://www.arionbanki.is,2009,ARIOISRE,TRUE,Official Website
+Iceland,ISL,Íslandsbanki,Commercial,3,Reykjavik,https://www.islandsbanki.is,2009,ÃSLAISRE,TRUE,Official Website
+Iceland,ISL,Kvika Bank,Commercial,4,Reykjavik,https://www.kvika.is,1999,KVIKISRE,TRUE,Official Website
+Iceland,ISL,Sparisjóður Austurlands,Commercial,5,Egilsstaðir,https://www.sparisjodur.is,1915,SAXXISEG,TRUE,Official Website
+India,IND,Reserve Bank of India,Central,0,Mumbai,https://www.rbi.org.in,1935,RIXXINMU,TRUE,Official Website
+India,IND,State Bank of India,Commercial,1,Mumbai,https://sbi.co.in,1955,SIXXINMU,TRUE,Official Website
+India,IND,HDFC Bank,Commercial,2,Mumbai,https://www.hdfcbank.com,1994,HDFCINMU,TRUE,Official Website
+India,IND,ICICI Bank,Commercial,3,Mumbai,https://www.icicibank.com,1994,ICICINMU,TRUE,Official Website
+India,IND,Punjab National Bank,Commercial,4,New Delhi,https://www.pnbindia.in,1894,PNXXINNE,TRUE,Official Website
+India,IND,Axis Bank,Commercial,5,Mumbai,https://www.axisbank.com,1993,AXISINMU,TRUE,Official Website
+Indonesia,IDN,Bank Indonesia,Central,0,Jakarta,https://www.bi.go.id,1953,INDOIDJA,TRUE,
+Indonesia,IDN,Bank Mandiri,Commercial,1,Jakarta,https://bankmandiri.co.id,1998,MANDIDJA,TRUE,
+Indonesia,IDN,Bank Rakyat Indonesia,Commercial,2,Jakarta,https://bri.co.id,1895,RIXXIDJA,TRUE,
+Indonesia,IDN,Bank Central Asia,Commercial,3,Jakarta,https://www.bca.co.id,1957,CAXXIDJA,TRUE,
+Indonesia,IDN,BNI,Commercial,4,Jakarta,https://www.bni.co.id,1946,BNIXIDJA,TRUE,
+Indonesia,IDN,CIMB Niaga,Commercial,5,Jakarta,https://www.cimbniaga.co.id,1955,CNXXIDJA,TRUE,
+Iran,IRN,Central Bank of the Islamic Republic of Iran,Central,0,Tehran,https://www.cbi.ir,1960,CIRIIRTE,TRUE,Official Website
+Iran,IRN,Bank Melli Iran,Commercial,1,Tehran,https://bmi.ir,1928,MIXXIRTE,TRUE,Official Website
+Iran,IRN,Bank Mellat,Commercial,2,Tehran,https://www.bankmellat.ir,1980,MELLIRTE,TRUE,Official Website
+Iran,IRN,Bank Saderat Iran,Commercial,3,Tehran,https://www.bsi.ir,1952,SIXXIRTE,TRUE,Official Website
+Iran,IRN,Tejarat Bank,Commercial,4,Tehran,https://www.tejaratbank.ir,1979,TEJAIRTE,TRUE,Official Website
+Iran,IRN,Parsian Bank,Commercial,5,Tehran,https://www.parsian-bank.ir,2001,PARSIRTE,TRUE,Official Website
+Iraq,IRQ,Central Bank of Iraq,Central,0,Baghdad,https://cbi.iq,1947,CIXXIQBA,TRUE,Official Website
+Iraq,IRQ,Rafidain Bank,Commercial,1,Baghdad,https://rafidain-bank.gov.iq,1941,RAFIIQBA,TRUE,Official Website
+Iraq,IRQ,Rasheed Bank,Commercial,2,Baghdad,https://www.rasheedbank.gov.iq,1988,RASHIQBA,TRUE,Official Website
+Iraq,IRQ,Trade Bank of Iraq,Commercial,3,Baghdad,https://www.tbiraq.com,2003,TIXXIQBA,TRUE,Official Website
+Iraq,IRQ,National Bank of Iraq,Commercial,4,Baghdad,https://nbi.iq,1995,NIXXIQBA,TRUE,Official Website
+Iraq,IRQ,Bank of Baghdad,Commercial,5,Baghdad,https://www.bankofbaghdad.com.iq,1992,BAGHIQBA,TRUE,Official Website
+Ireland,IRL,Central Bank of Ireland,Central,0,Dublin,https://www.centralbank.ie,1943,CIXXIEDU,TRUE,Official Website
+Ireland,IRL,Bank of Ireland,Commercial,1,Dublin,https://www.bankofireland.com,1783,IRELIEDU,TRUE,Official Website
+Ireland,IRL,AIB,Commercial,2,Dublin,https://aib.ie,1966,AIBXIEDU,TRUE,Official Website
+Ireland,IRL,Permanent TSB,Commercial,3,Dublin,https://www.permanenttsb.ie,1884,PTXXIEDU,TRUE,Official Website
+Ireland,IRL,PTSB,Commercial,4,Dublin,https://www.ptsb.ie,1884,PTSBIEDU,TRUE,Official Website
+Ireland,IRL,EBS,Commercial,5,Dublin,https://www.ebs.ie,1935,EBSXIEDU,TRUE,Official Website
+Israel,ISR,Bank of Israel,Central,0,Jerusalem,https://www.boi.org.il,1954,ISRAILJE,TRUE,Official Website
+Israel,ISR,Bank Leumi,Commercial,1,Tel Aviv,https://www.leumi.co.il,1902,LEUMILTE,TRUE,Official Website
+Israel,ISR,Bank Hapoalim,Commercial,2,Tel Aviv,https://www.bankhapoalim.co.il,1921,HAPOILTE,TRUE,Official Website
+Israel,ISR,Israel Discount Bank,Commercial,3,Tel Aviv,https://www.discountbank.co.il,1935,IDXXILTE,TRUE,Official Website
+Israel,ISR,Mizrahi Tefahot Bank,Commercial,4,Ramat Gan,https://www.mizrahi-tefahot.co.il,1923,MTXXILRA,TRUE,Official Website
+Israel,ISR,First International Bank of Israel,Commercial,5,Ramat Gan,https://www.fibi.co.il,1972,FIIXILRA,TRUE,Official Website
+Italy,ITA,Banca d'Italia,Central,0,Rome,https://www.bancaditalia.it,1893,BDIXITRO,TRUE,Official Website
+Italy,ITA,Intesa Sanpaolo,Commercial,1,Turin,https://group.intesasanpaolo.com,2007,ISXXITTU,TRUE,Official Website
+Italy,ITA,UniCredit,Commercial,2,Milan,https://www.unicreditgroup.eu,1998,UNICITMI,TRUE,Official Website
+Italy,ITA,Banco BPM,Commercial,3,Milan,https://www.bancobpm.it,2017,BBXXITMI,TRUE,Official Website
+Italy,ITA,BPER Banca,Commercial,4,Modena,https://istituzionale.bper.it,1867,BBXXITMO,TRUE,Official Website
+Italy,ITA,Monte dei Paschi di Siena,Commercial,5,Siena,https://www.gruppomps.it,1472,MDPDITSI,TRUE,Official Website
+Ivory Coast,CIV,Central Bank of West African States,Central,0,Abidjan,https://www.bceao.int,1962,CWASCIAB,TRUE,Official Website
+Ivory Coast,CIV,Société Générale Côte d'Ivoire,Commercial,1,Abidjan,https://www.sgci.ci,1962,SGCDCIAB,TRUE,Official Website
+Ivory Coast,CIV,NSIA Banque Côte d'Ivoire,Commercial,2,Abidjan,https://www.nsiabanque.com,1999,NBCDCIAB,TRUE,Official Website
+Ivory Coast,CIV,Banque Atlantique Côte d'Ivoire,Commercial,3,Abidjan,https://www.banqueatlantique.net,1978,BACDCIAB,TRUE,Official Website
+Ivory Coast,CIV,Ecobank Côte d'Ivoire,Commercial,4,Abidjan,https://www.ecobank.com,1989,ECDICIAB,TRUE,Official Website
+Ivory Coast,CIV,Bank of Africa Côte d'Ivoire,Commercial,5,Abidjan,https://www.boacoteivoire.com,1996,ACDICIAB,TRUE,Official Website
+Jamaica,JAM,Bank of Jamaica,Central,0,Kingston,https://boj.org.jm,1960,JAMAJMKI,TRUE,Official Website
+Jamaica,JAM,National Commercial Bank Jamaica,Commercial,1,Kingston,https://www.jncb.com,1837,NCJXJMKI,TRUE,Official Website
+Jamaica,JAM,Sagicor Bank Jamaica,Commercial,2,Kingston,https://www.sagicorjamaica.com,1970,SJXXJMKI,TRUE,Official Website
+Jamaica,JAM,Scotiabank Jamaica,Commercial,3,Kingston,https://jm.scotiabank.com,1889,SJXXJMKI,TRUE,Official Website
+Jamaica,JAM,JMMB Bank Jamaica,Commercial,4,Kingston,https://jm.jmmb.com,1992,JJXXJMKI,TRUE,Official Website
+Jamaica,JAM,First Global Bank,Commercial,5,Kingston,https://www.firstglobal-bank.com,1994,FGXXJMKI,TRUE,Official Website
+Japan,JPN,Bank of Japan,Central,0,Tokyo,https://www.boj.or.jp,1882,JAPAJPTO,TRUE,Official Website
+Japan,JPN,Mitsubishi UFJ Bank,Commercial,1,Tokyo,https://www.bk.mufg.jp,1919,MUXXJPTO,TRUE,Official Website
+Japan,JPN,Sumitomo Mitsui Banking Corporation,Commercial,2,Tokyo,https://www.smbc.co.jp,1996,SMBXJPTO,TRUE,Official Website
+Japan,JPN,Mizuho Bank,Commercial,3,Tokyo,https://www.mizuhogroup.com,2002,MIZUJPTO,TRUE,Official Website
+Japan,JPN,Resona Bank,Commercial,4,Osaka,https://www.resonabank.co.jp,1918,RESOJPOS,TRUE,Official Website
+Japan,JPN,Norinchukin Bank,Commercial,5,Tokyo,https://www.nochubank.or.jp,1923,NORIJPTO,TRUE,Official Website
+Jordan,JOR,Central Bank of Jordan,Central,0,Amman,https://www.cbj.gov.jo,1964,CJXXJOAM,TRUE,Official Website
+Jordan,JOR,Arab Bank,Commercial,1,Amman,https://www.arabbank.com,1930,ARABJOAM,TRUE,Official Website
+Jordan,JOR,Housing Bank for Trade and Finance,Commercial,2,Amman,https://www.hbtf.com,1973,HFTFJOAM,TRUE,Official Website
+Jordan,JOR,Cairo Amman Bank,Commercial,3,Amman,https://www.cab.jo,1960,CAXXJOAM,TRUE,Official Website
+Jordan,JOR,Jordan Kuwait Bank,Commercial,4,Amman,https://www.jkb.com,1976,JKXXJOAM,TRUE,Official Website
+Jordan,JOR,Capital Bank of Jordan,Commercial,5,Amman,https://www.capitalbank.jo,1995,CJXXJOAM,TRUE,Official Website
+Kazakhstan,KAZ,National Bank of Kazakhstan,Central,0,Astana,https://nationalbank.kz,1993,NKXXKZAS,TRUE,Official Website
+Kazakhstan,KAZ,Halyk Bank,Commercial,1,Almaty,https://halykbank.kz,1923,HALYKZAL,TRUE,Official Website
+Kazakhstan,KAZ,Kaspi Bank,Commercial,2,Almaty,https://kaspi.kz,1991,KASPKZAL,TRUE,Official Website
+Kazakhstan,KAZ,ForteBank,Commercial,3,Astana,https://forte.kz,2015,FORTKZAS,TRUE,Official Website
+Kazakhstan,KAZ,Bank CenterCredit,Commercial,4,Almaty,https://bcc.kz,1988,CENTKZAL,TRUE,Official Website
+Kazakhstan,KAZ,Eurasian Bank,Commercial,5,Almaty,https://eubank.kz,1994,EURAKZAL,TRUE,Official Website
+Kenya,KEN,Central Bank of Kenya,Central,0,Nairobi,https://www.centralbank.go.ke,1966,CKXXKENA,TRUE,Official Website
+Kenya,KEN,Equity Bank Kenya,Commercial,1,Nairobi,https://equitygroupholdings.com,1984,EKXXKENA,TRUE,Official Website
+Kenya,KEN,KCB Bank Kenya,Commercial,2,Nairobi,https://ke.kcbgroup.com,1896,KKXXKENA,TRUE,Official Website
+Kenya,KEN,Co-operative Bank of Kenya,Commercial,3,Nairobi,https://www.co-opbank.co.ke,1965,OKXXKENA,TRUE,Official Website
+Kenya,KEN,Absa Bank Kenya,Commercial,4,Nairobi,https://www.absabank.co.ke,1916,AKXXKENA,TRUE,Official Website
+Kenya,KEN,Stanbic Bank Kenya,Commercial,5,Nairobi,https://www.stanbicbank.co.ke,1958,SKXXKENA,TRUE,Official Website
+Kiribati,KIR,Central Bank of Kiribati,Central,0,South Tarawa,https://www.cbk.gov.ki,1982,CKXXKISO,TRUE,Official Website
+Kiribati,KIR,ANZ Kiribati,Commercial,1,South Tarawa,https://www.anz.com,1954,AKXXKISO,TRUE,Official Website
+Kiribati,KIR,Bank of Kiribati,Commercial,2,South Tarawa,https://www.bok.com.ki,1984,KIRIKISO,TRUE,Official Website
+Kosovo,XKX,Central Bank of the Republic of Kosovo,Central,0,Pristina,https://bqk-kos.org,2008,CRKXXXPR,TRUE,Official Website
+Kosovo,XKX,ProCredit Bank Kosovo,Commercial,1,Pristina,https://www.procreditbank-kos.com,1999,PKXXXXPR,TRUE,Official Website
+Kosovo,XKX,Raiffeisen Bank Kosovo,Commercial,2,Pristina,https://www.raiffeisen-kosovo.com,2002,RKXXXXPR,TRUE,Official Website
+Kosovo,XKX,NLB Bank Kosovo,Commercial,3,Pristina,https://www.nlb-kos.com,2008,NKXXXXPR,TRUE,Official Website
+Kosovo,XKX,TEB Bank Kosovo,Commercial,4,Pristina,https://www.teb-kos.com,2008,TKXXXXPR,TRUE,Official Website
+Kosovo,XKX,BPB Bank,Commercial,5,Pristina,https://www.bpb-ks.com,2001,BPBXXXPR,TRUE,Official Website
+Kuwait,KWT,Central Bank of Kuwait,Central,0,Kuwait City,https://www.cbk.gov.kw,1969,CKXXKWKU,TRUE,Official Website
+Kuwait,KWT,National Bank of Kuwait,Commercial,1,Kuwait City,https://www.nbk.com,1952,NKXXKWKU,TRUE,Official Website
+Kuwait,KWT,Kuwait Finance House,Commercial,2,Kuwait City,https://www.kfh.com,1977,KFHXKWKU,TRUE,Official Website
+Kuwait,KWT,Burgan Bank,Commercial,3,Kuwait City,https://www.burgan.com,1977,BURGKWKU,TRUE,Official Website
+Kuwait,KWT,Gulf Bank,Commercial,4,Kuwait City,https://www.e-gulfbank.com,1960,GULFKWKU,TRUE,Official Website
+Kuwait,KWT,Commercial Bank of Kuwait,Commercial,5,Kuwait City,https://www.cbk.com,1960,CKXXKWKU,TRUE,Official Website
+Kyrgyzstan,KGZ,National Bank of the Kyrgyz Republic,Central,0,Bishkek,https://www.nbkr.kg,1991,NKRXKGBI,TRUE,Official Website
+Kyrgyzstan,KGZ,Optima Bank,Commercial,1,Bishkek,https://optimabank.kg,1992,OPTIKGBI,TRUE,Official Website
+Kyrgyzstan,KGZ,DemirBank,Commercial,2,Bishkek,https://demirbank.kg,1997,DEMIKGBI,TRUE,Official Website
+Kyrgyzstan,KGZ,Aiyl Bank,Commercial,3,Bishkek,https://ab.kg,1996,AIYLKGBI,TRUE,Official Website
+Kyrgyzstan,KGZ,Kompanion Bank,Commercial,4,Bishkek,https://kompanion.kg,2004,KOMPKGBI,TRUE,Official Website
+Kyrgyzstan,KGZ,RSK Bank,Commercial,5,Bishkek,https://rsk.kg,1996,RSKXKGBI,TRUE,Official Website
+Laos,LAO,Bank of the Lao PDR,Central,0,Vientiane,https://www.bol.gov.la,1968,LPXXLAVI,TRUE,
+Laos,LAO,Banque Pour Le Commerce Exterieur Lao,Commercial,1,Vientiane,https://www.bcel.com.la,1975,BPLCLAVI,TRUE,
+Laos,LAO,Lao Development Bank,Commercial,2,Vientiane,https://www.ldb.com.la,2003,LDXXLAVI,TRUE,
+Laos,LAO,Joint Development Bank,Commercial,3,Vientiane,https://www.jdbbank.com.la,1989,JDXXLAVI,TRUE,
+Laos,LAO,Phongsavanh Bank,Commercial,4,Vientiane,https://www.phongsavanhbank.com,2007,PHONLAVI,TRUE,
+Laos,LAO,ST Bank Laos,Commercial,5,Vientiane,https://www.stbank.la,2008,SLXXLAVI,TRUE,
+Latvia,LVA,Bank of Latvia,Central,0,Riga,https://www.bank.lv,1922,LATVLVRI,TRUE,Official Website
+Latvia,LVA,Swedbank Latvia,Commercial,1,Riga,https://www.swedbank.lv,1991,SLXXLVRI,TRUE,Official Website
+Latvia,LVA,SEB Latvia,Commercial,2,Riga,https://www.seb.lv,1993,SLXXLVRI,TRUE,Official Website
+Latvia,LVA,Citadele Bank,Commercial,3,Riga,https://www.citadele.lv,2010,CITALVRI,TRUE,Official Website
+Latvia,LVA,Luminor Latvia,Commercial,4,Riga,https://www.luminor.lv,2017,LLXXLVRI,TRUE,Official Website
+Latvia,LVA,BlueOrange Bank,Commercial,5,Riga,https://www.blueorangebank.com,2001,BLUELVRI,TRUE,Official Website
+Lebanon,LBN,Banque du Liban,Central,0,Beirut,https://www.bdl.gov.lb,1963,BDLXLBBE,TRUE,Official Website
+Lebanon,LBN,BLOM Bank,Commercial,1,Beirut,https://www.blombank.com,1951,BLOMLBBE,TRUE,Official Website
+Lebanon,LBN,Byblos Bank,Commercial,2,Beirut,https://www.byblosbank.com,1963,BYBLLBBE,TRUE,Official Website
+Lebanon,LBN,Bank Audi,Commercial,3,Beirut,https://www.bankaudi.com.lb,1830,AUDILBBE,TRUE,Official Website
+Lebanon,LBN,Fransabank,Commercial,4,Beirut,https://www.fransabank.com,1921,FRANLBBE,TRUE,Official Website
+Lebanon,LBN,Credit Libanais,Commercial,5,Beirut,https://www.creditlibanais.com.lb,1961,CLXXLBBE,TRUE,Official Website
+Lesotho,LSO,Central Bank of Lesotho,Central,0,Maseru,https://www.centralbank.org.ls,1978,CLXXLSMA,TRUE,Official Website
+Lesotho,LSO,Standard Lesotho Bank,Commercial,1,Maseru,https://www.standardlesothobank.co.ls,1998,SLXXLSMA,TRUE,Official Website
+Lesotho,LSO,FNB Lesotho,Commercial,2,Maseru,https://www.fnb.co.ls,2004,FLXXLSMA,TRUE,Official Website
+Lesotho,LSO,Nedbank Lesotho,Commercial,3,Maseru,https://www.nedbank.co.ls,1991,NLXXLSMA,TRUE,Official Website
+Lesotho,LSO,Lesotho PostBank,Commercial,4,Maseru,https://www.postbank.co.ls,2004,LPXXLSMA,TRUE,Official Website
+Lesotho,LSO,Standard Chartered Lesotho,Commercial,5,Maseru,https://www.sc.com/ls,1906,SCLXLSMA,TRUE,Official Website
+Liberia,LBR,Central Bank of Liberia,Central,0,Monrovia,https://www.cbl.org.lr,1999,CLXXLRMO,TRUE,Official Website
+Liberia,LBR,Liberian Bank for Development and Investment,Commercial,1,Monrovia,https://www.lbdi.net,1965,LFDILRMO,TRUE,Official Website
+Liberia,LBR,Ecobank Liberia,Commercial,2,Monrovia,https://www.ecobank.com,1999,ELXXLRMO,TRUE,Official Website
+Liberia,LBR,International Bank Liberia,Commercial,3,Monrovia,https://www.ibliberia.com,1999,ILXXLRMO,TRUE,Official Website
+Liberia,LBR,Global Bank Liberia,Commercial,4,Monrovia,https://www.globalbankliberia.com,2005,GLXXLRMO,TRUE,Official Website
+Liberia,LBR,GN Bank Liberia,Commercial,5,Monrovia,https://www.gnbank.com.gh,2014,GLXXLRMO,TRUE,Official Website
+Libya,LBY,Central Bank of Libya,Central,0,Tripoli,https://cbl.gov.ly,1956,CLXXLYTR,TRUE,Official Website
+Libya,LBY,Jumhouria Bank,Commercial,1,Tripoli,https://www.jbank.ly,2008,JUMHLYTR,TRUE,Official Website
+Libya,LBY,National Commercial Bank Libya,Commercial,2,Benghazi,https://www.ncb.ly,1970,NCLXLYBE,TRUE,Official Website
+Libya,LBY,Sahara Bank,Commercial,3,Tripoli,https://www.saharabank.com.ly,1964,SAHALYTR,TRUE,Official Website
+Libya,LBY,Wahda Bank,Commercial,4,Bayda,https://www.wahdabank.ly,1970,WAHDLYBA,TRUE,Official Website
+Libya,LBY,North Africa Bank,Commercial,5,Benghazi,https://www.bankofnorthafrica.com.ly,1970,NAXXLYBE,TRUE,Official Website
+Lithuania,LTU,Bank of Lithuania,Central,0,Vilnius,https://www.lb.lt,1922,LITHLTVI,TRUE,Official Website
+Lithuania,LTU,Swedbank Lithuania,Commercial,1,Vilnius,https://www.swedbank.lt,1991,SLXXLTVI,TRUE,Official Website
+Lithuania,LTU,SEB Bank Lithuania,Commercial,2,Vilnius,https://www.seb.lt,1990,SLXXLTVI,TRUE,Official Website
+Lithuania,LTU,Luminor Bank Lithuania,Commercial,3,Vilnius,https://www.luminor.lt,2017,LLXXLTVI,TRUE,Official Website
+Lithuania,LTU,Šiaulių Bankas,Commercial,4,Šiauliai,https://www.sb.lt,1992,Å BXXLTÅ I,TRUE,Official Website
+Lithuania,LTU,Medicinos Bankas,Commercial,5,Vilnius,https://www.medbank.lt,1992,MBXXLTVI,TRUE,Official Website
+Luxembourg,LUX,Banque centrale du Luxembourg,Central,0,Luxembourg,https://www.bcl.lu,1998,BCDLLULU,TRUE,Official Website
+Luxembourg,LUX,Banque Internationale à Luxembourg,Commercial,1,Luxembourg,https://www.bil.com,1856,BIÃ€LLULU,TRUE,Official Website
+Luxembourg,LUX,BGL BNP Paribas,Commercial,2,Luxembourg,https://www.bgl.lu,1919,BBPXLULU,TRUE,Official Website
+Luxembourg,LUX,Spuerkeess,Commercial,3,Luxembourg,https://www.spuerkeess.lu,1856,SPUELULU,TRUE,Official Website
+Luxembourg,LUX,Banque Raiffeisen,Commercial,4,Leudelange,https://www.raiffeisen.lu,1925,BRXXLULE,TRUE,Official Website
+Luxembourg,LUX,ING Luxembourg,Commercial,5,Luxembourg,https://www.ing.lu,1960,ILXXLULU,TRUE,Official Website
+Madagascar,MDG,Banky Foiben'i Madagasikara,Central,0,Antananarivo,https://www.banque-centrale.mg,1973,BFIMMGAN,TRUE,Official Website
+Madagascar,MDG,BNI Madagascar,Commercial,1,Antananarivo,https://www.bni.mg,1991,BMXXMGAN,TRUE,Official Website
+Madagascar,MDG,BFV Société Générale,Commercial,2,Antananarivo,https://bfvsg.com,1977,BSGXMGAN,TRUE,Official Website
+Madagascar,MDG,BOA Madagascar,Commercial,3,Antananarivo,https://www.boamadagascar.com,1999,BMXXMGAN,TRUE,Official Website
+Madagascar,MDG,MCB Madagascar,Commercial,4,Antananarivo,https://www.mcbmadagascar.com,1997,MMXXMGAN,TRUE,Official Website
+Madagascar,MDG,AccèsBanque Madagascar,Commercial,5,Antananarivo,https://www.accesbanque.mg,2006,AMXXMGAN,TRUE,Official Website
+Malawi,MWI,Reserve Bank of Malawi,Central,0,Lilongwe,https://www.rbm.mw,1965,RMXXMWLI,TRUE,Official Website
+Malawi,MWI,National Bank of Malawi,Commercial,1,Blantyre,https://www.natbank.co.mw,1971,NMXXMWBL,TRUE,Official Website
+Malawi,MWI,Standard Bank Malawi,Commercial,2,Blantyre,https://www.standardbank.co.mw,1970,SMXXMWBL,TRUE,Official Website
+Malawi,MWI,FDH Bank,Commercial,3,Blantyre,https://www.fdh.co.mw,2008,FDHXMWBL,TRUE,Official Website
+Malawi,MWI,NBS Bank,Commercial,4,Blantyre,https://www.nbs.mw,1995,NBSXMWBL,TRUE,Official Website
+Malawi,MWI,Ecobank Malawi,Commercial,5,Blantyre,https://www.ecobank.com,2008,EMXXMWBL,TRUE,Official Website
+Malaysia,MYS,Bank Negara Malaysia,Central,0,Kuala Lumpur,https://www.bnm.gov.my,1959,BNMAMYKL,TRUE,
+Malaysia,MYS,Maybank,Commercial,1,Kuala Lumpur,https://www.maybank.com,1960,MAYBMYKU,TRUE,
+Malaysia,MYS,CIMB Bank,Commercial,2,Kuala Lumpur,https://www.cimb.com,1974,CIMBMYKU,TRUE,
+Malaysia,MYS,Public Bank,Commercial,3,Kuala Lumpur,https://www.pbebank.com,1966,PUBLMYKU,TRUE,
+Malaysia,MYS,RHB Bank,Commercial,4,Kuala Lumpur,https://www.rhbgroup.com,1913,RHBXMYKU,TRUE,
+Malaysia,MYS,Hong Leong Bank,Commercial,5,Kuala Lumpur,https://www.hlb.com.my,1905,HLXXMYKU,TRUE,
+Mali,MLI,Central Bank of West African States,Central,0,Bamako,https://www.bceao.int,1962,CWASMLBA,TRUE,Official Website
+Mali,MLI,Bank of Africa Mali,Commercial,1,Bamako,https://www.boamali.com,1982,AMXXMLBA,TRUE,Official Website
+Mali,MLI,Banque Malienne de Solidarité,Commercial,2,Bamako,https://www.bms-sa.com,2002,BMDSMLBA,TRUE,Official Website
+Mali,MLI,Ecobank Mali,Commercial,3,Bamako,https://www.ecobank.com,1999,EMXXMLBA,TRUE,Official Website
+Mali,MLI,BNDA Mali,Commercial,4,Bamako,https://www.bnda-mali.com,1981,BMXXMLBA,TRUE,Official Website
+Mali,MLI,BDM-SA,Commercial,5,Bamako,https://www.bdm-sa.com,1989,BSXXMLBA,TRUE,Official Website
+Malta,MLT,Central Bank of Malta,Central,0,Valletta,https://www.centralbankmalta.org,1968,CMXXMTVA,TRUE,Official Website
+Malta,MLT,Bank of Valletta,Commercial,1,Santa Venera,https://www.bov.com,1974,VALLMTSA,TRUE,Official Website
+Malta,MLT,HSBC Bank Malta,Commercial,2,Valletta,https://www.hsbc.com.mt,1999,HMXXMTVA,TRUE,Official Website
+Malta,MLT,Lombard Bank Malta,Commercial,3,Valletta,https://www.lombardmalta.com,1955,LMXXMTVA,TRUE,Official Website
+Malta,MLT,APS Bank,Commercial,4,Birkirkara,https://www.apsbank.com.mt,1910,APSXMTBI,TRUE,Official Website
+Malta,MLT,BNF Bank,Commercial,5,Gzira,https://www.bnf.bank,2008,BNFXMTGZ,TRUE,Official Website
+Marshall Islands,MHL,Banking Commission of the Marshall Islands,Central,0,Majuro,https://www.bankingcommission.org,1987,BCMIXXMA,TRUE,Official Website
+Marshall Islands,MHL,Bank of Marshall Islands,Commercial,1,Majuro,https://www.bomi.biz,1982,MIXXXXMA,TRUE,Official Website
+Marshall Islands,MHL,First Hawaiian Bank Marshall Islands,Commercial,2,Majuro,https://www.fhb.com,1969,FHMIXXMA,TRUE,Official Website
+Mauritania,MRT,Central Bank of Mauritania,Central,0,Nouakchott,https://www.bcm.mr,1973,CMXXMRNO,TRUE,Official Website
+Mauritania,MRT,Banque Populaire de Mauritanie,Commercial,1,Nouakchott,https://www.bpm.mr,1984,BPDMMRNO,TRUE,Official Website
+Mauritania,MRT,Banque Mauritanienne pour le Commerce International,Commercial,2,Nouakchott,https://www.bmci.mr,1974,BMPLMRNO,TRUE,Official Website
+Mauritania,MRT,Attijari Bank Mauritania,Commercial,3,Nouakchott,https://www.attijaribank.mr,2006,AMXXMRNO,TRUE,Official Website
+Mauritania,MRT,Generale de Banque de Mauritanie,Commercial,4,Nouakchott,https://www.gbm.mr,1998,GDBDMRNO,TRUE,Official Website
+Mauritania,MRT,Banque Al Wataniya,Commercial,5,Nouakchott,https://www.alwataniya.mr,2008,BAWXMRNO,TRUE,Official Website
+Mauritius,MUS,Bank of Mauritius,Central,0,Port Louis,https://www.bom.mu,1967,MAURMUPO,TRUE,Official Website
+Mauritius,MUS,MCB Mauritius,Commercial,1,Port Louis,https://www.mcb.mu,1838,MMXXMUPO,TRUE,Official Website
+Mauritius,MUS,State Bank of Mauritius,Commercial,2,Port Louis,https://www.sbmgroup.mu,1973,SMXXMUPO,TRUE,Official Website
+Mauritius,MUS,Absa Bank Mauritius,Commercial,3,Ebene,https://www.absa.mu,1919,AMXXMUEB,TRUE,Official Website
+Mauritius,MUS,AfrAsia Bank,Commercial,4,Port Louis,https://www.afrasiabank.com,2007,AFRAMUPO,TRUE,Official Website
+Mauritius,MUS,MauBank,Commercial,5,Port Louis,https://www.maubank.mu,2016,MAUBMUPO,TRUE,Official Website
+Mexico,MEX,Bank of Mexico,Central,0,Mexico City,https://www.banxico.org.mx,1925,MEXIMXME,TRUE,Official Website
+Mexico,MEX,BBVA México,Commercial,1,Mexico City,https://www.bbva.mx,1932,BMXXMXME,TRUE,Official Website
+Mexico,MEX,Banorte,Commercial,2,Monterrey,https://www.banorte.com,1899,BANOMXMO,TRUE,Official Website
+Mexico,MEX,Santander México,Commercial,3,Mexico City,https://www.santander.com.mx,1932,SMXXMXME,TRUE,Official Website
+Mexico,MEX,Citibanamex,Commercial,4,Mexico City,https://www.banamex.com,1884,CITIMXME,TRUE,Official Website
+Mexico,MEX,HSBC México,Commercial,5,Mexico City,https://www.hsbc.com.mx,1941,HMXXMXME,TRUE,Official Website
+Micronesia,FSM,Banking Board of the Federated States of Micronesia,Central,0,Palikir,https://www.fsmgov.org,1982,BBFSFMPA,TRUE,Official Website
+Micronesia,FSM,Bank of Guam FSM,Commercial,1,Pohnpei,https://www.bankofguam.com,1972,GFXXFMPO,TRUE,Official Website
+Micronesia,FSM,Bank of the Federated States of Micronesia,Commercial,2,Pohnpei,https://www.fsmbank.fm,1986,FSMXFMPO,TRUE,Official Website
+Moldova,MDA,National Bank of Moldova,Central,0,Chișinău,https://www.bnm.md,1991,NMXXMDCH,TRUE,Official Website
+Moldova,MDA,MAIB,Commercial,1,Chișinău,https://www.maib.md,1991,MAIBMDCH,TRUE,Official Website
+Moldova,MDA,Moldindconbank,Commercial,2,Chișinău,https://www.micb.md,1959,MOLDMDCH,TRUE,Official Website
+Moldova,MDA,Victoriabank,Commercial,3,Chișinău,https://www.victoriabank.md,1989,VICTMDCH,TRUE,Official Website
+Moldova,MDA,OTP Bank Moldova,Commercial,4,Chișinău,https://www.otpbank.md,1993,OMXXMDCH,TRUE,Official Website
+Moldova,MDA,Eximbank Moldova,Commercial,5,Chișinău,https://www.eximbank.md,1994,EMXXMDCH,TRUE,Official Website
+Mongolia,MNG,Bank of Mongolia,Central,0,Ulaanbaatar,https://www.mongolbank.mn,1924,MONGMNUL,TRUE,Official Website
+Mongolia,MNG,Khan Bank,Commercial,1,Ulaanbaatar,https://www.khanbank.com,1991,KHANMNUL,TRUE,Official Website
+Mongolia,MNG,Golomt Bank,Commercial,2,Ulaanbaatar,https://www.golomtbank.com,1995,GOLOMNUL,TRUE,Official Website
+Mongolia,MNG,Trade and Development Bank of Mongolia,Commercial,3,Ulaanbaatar,https://www.tdbm.mn,1990,TDMXMNUL,TRUE,Official Website
+Mongolia,MNG,XacBank,Commercial,4,Ulaanbaatar,https://www.xacbank.mn,2001,XACBMNUL,TRUE,Official Website
+Mongolia,MNG,State Bank of Mongolia,Commercial,5,Ulaanbaatar,https://www.statebank.mn,2009,SMXXMNUL,TRUE,Official Website
+Montenegro,MNE,Central Bank of Montenegro,Central,0,Podgorica,https://www.cbcg.me,2000,CMXXMEPO,TRUE,Official Website
+Montenegro,MNE,NLB Banka Montenegro,Commercial,1,Podgorica,https://www.nlb.me,1995,NBMXMEPO,TRUE,Official Website
+Montenegro,MNE,Crnogorska Komercijalna Banka,Commercial,2,Podgorica,https://www.ckb.me,1901,CKBXMEPO,TRUE,Official Website
+Montenegro,MNE,Hipotekarna Banka,Commercial,3,Podgorica,https://www.hipotekarnabanka.com,1995,HBXXMEPO,TRUE,Official Website
+Montenegro,MNE,Erste Bank Montenegro,Commercial,4,Podgorica,https://www.erstebank.me,2009,EMXXMEPO,TRUE,Official Website
+Montenegro,MNE,Ziraat Bank Montenegro,Commercial,5,Podgorica,https://www.ziraatbank.me,2015,ZMXXMEPO,TRUE,Official Website
+Morocco,MAR,Bank Al-Maghrib,Central,0,Rabat,https://www.bkam.ma,1959,AMXXMARA,TRUE,Official Website
+Morocco,MAR,Attijariwafa Bank,Commercial,1,Casablanca,https://www.attijariwafabank.com,1904,ATTIMACA,TRUE,Official Website
+Morocco,MAR,Banque Populaire du Maroc,Commercial,2,Casablanca,https://www.gbp.ma,1961,BPDMMACA,TRUE,Official Website
+Morocco,MAR,Bank of Africa Morocco,Commercial,3,Casablanca,https://www.bankofafrica.ma,1959,AMXXMACA,TRUE,Official Website
+Morocco,MAR,BMCI,Commercial,4,Casablanca,https://www.bmci.ma,1943,BMCIMACA,TRUE,Official Website
+Morocco,MAR,CIH Bank,Commercial,5,Casablanca,https://www.cihbank.ma,1920,CIHXMACA,TRUE,Official Website
+Mozambique,MOZ,Bank of Mozambique,Central,0,Maputo,https://www.bancomoc.mz,1975,MOZAMZMA,TRUE,Official Website
+Mozambique,MOZ,Banco Comercial e de Investimentos,Commercial,1,Maputo,https://www.bci.co.mz,1996,BCEDMZMA,TRUE,Official Website
+Mozambique,MOZ,Millennium BIM,Commercial,2,Maputo,https://www.millenniumbim.co.mz,1995,MBXXMZMA,TRUE,Official Website
+Mozambique,MOZ,Standard Bank Mozambique,Commercial,3,Maputo,https://www.standardbank.co.mz,1974,SMXXMZMA,TRUE,Official Website
+Mozambique,MOZ,Absa Bank Mozambique,Commercial,4,Maputo,https://www.absa.co.mz,2013,AMXXMZMA,TRUE,Official Website
+Mozambique,MOZ,Moza Banco,Commercial,5,Maputo,https://www.mozabanco.co.mz,2008,MBXXMZMA,TRUE,Official Website
+Myanmar,MMR,Central Bank of Myanmar,Central,0,Naypyidaw,https://www.cbm.gov.mm,1948,CMXXMMNA,TRUE,
+Myanmar,MMR,KBZ Bank,Commercial,1,Yangon,https://www.kbzbank.com,1994,KBZXMMYA,TRUE,
+Myanmar,MMR,AYA Bank,Commercial,2,Yangon,https://www.ayabank.com,2010,AYAXMMYA,TRUE,
+Myanmar,MMR,CB Bank,Commercial,3,Yangon,https://www.cbbank.com.mm,1992,CBXXMMYA,TRUE,
+Myanmar,MMR,UAB Bank,Commercial,4,Yangon,https://www.uabbank.com,2010,UABXMMYA,TRUE,
+Myanmar,MMR,Yoma Bank,Commercial,5,Yangon,https://www.yomabank.com,1993,YOMAMMYA,TRUE,
+Namibia,NAM,Bank of Namibia,Central,0,Windhoek,https://www.bon.com.na,1990,NAMINAWI,TRUE,Official Website
+Namibia,NAM,First National Bank Namibia,Commercial,1,Windhoek,https://www.fnbnamibia.com.na,1990,FNNXNAWI,TRUE,Official Website
+Namibia,NAM,Bank Windhoek,Commercial,2,Windhoek,https://www.bankwindhoek.com.na,1982,WINDNAWI,TRUE,Official Website
+Namibia,NAM,Nedbank Namibia,Commercial,3,Windhoek,https://www.nedbanknamibia.com.na,1973,NNXXNAWI,TRUE,Official Website
+Namibia,NAM,Standard Bank Namibia,Commercial,4,Windhoek,https://www.standardbank.com.na,1915,SNXXNAWI,TRUE,Official Website
+Namibia,NAM,Letshego Bank Namibia,Commercial,5,Windhoek,https://www.letshego.com/namibia,2017,LNXXNAWI,TRUE,Official Website
+Nauru,NRU,Republic of Nauru Finance Department,Central,0,Yaren,https://naurugov.nr,1968,RNFDNRYA,TRUE,Official Website
+Nauru,NRU,Bendigo Bank Nauru Agency,Commercial,1,Yaren,https://www.bendigobank.com.au,2006,BNAXNRYA,TRUE,Official Website
+Nepal,NPL,Nepal Rastra Bank,Central,0,Kathmandu,https://www.nrb.org.np,1956,NRXXNPKA,TRUE,Official Website
+Nepal,NPL,Nabil Bank,Commercial,1,Kathmandu,https://www.nabilbank.com,1984,NABINPKA,TRUE,Official Website
+Nepal,NPL,Global IME Bank,Commercial,2,Kathmandu,https://globalimebank.com,2007,GIXXNPKA,TRUE,Official Website
+Nepal,NPL,NIC Asia Bank,Commercial,3,Kathmandu,https://www.nicasiabank.com,1998,NAXXNPKA,TRUE,Official Website
+Nepal,NPL,Rastriya Banijya Bank,Commercial,4,Kathmandu,https://www.rbb.com.np,1966,RBXXNPKA,TRUE,Official Website
+Nepal,NPL,Everest Bank,Commercial,5,Kathmandu,https://www.everestbankltd.com,1994,EVERNPKA,TRUE,Official Website
+Netherlands,NLD,De Nederlandsche Bank,Central,0,Amsterdam,https://www.dnb.nl,1814,DNXXNLAM,TRUE,Official Website
+Netherlands,NLD,ING Bank,Commercial,1,Amsterdam,https://www.ing.com,1991,INGXNLAM,TRUE,Official Website
+Netherlands,NLD,Rabobank,Commercial,2,Utrecht,https://www.rabobank.com,1898,RABONLUT,TRUE,Official Website
+Netherlands,NLD,ABN AMRO Bank,Commercial,3,Amsterdam,https://www.abnamro.com,1991,AAXXNLAM,TRUE,Official Website
+Netherlands,NLD,de Volksbank,Commercial,4,Utrecht,https://www.devolksbank.nl,1817,DVXXNLUT,TRUE,Official Website
+Netherlands,NLD,NIBC Bank,Commercial,5,The Hague,https://www.nibc.com,1945,NIBCNLTH,TRUE,Official Website
+New Zealand,NZL,Reserve Bank of New Zealand,Central,0,Wellington,https://www.rbnz.govt.nz,1934,RNZXNZWE,TRUE,Official Website
+New Zealand,NZL,ANZ New Zealand,Commercial,1,Auckland,https://www.anz.co.nz,1840,ANZXNZAU,TRUE,Official Website
+New Zealand,NZL,ASB Bank,Commercial,2,Auckland,https://www.asb.co.nz,1847,ASBXNZAU,TRUE,Official Website
+New Zealand,NZL,BNZ,Commercial,3,Auckland,https://www.bnz.co.nz,1861,BNZXNZAU,TRUE,Official Website
+New Zealand,NZL,Westpac New Zealand,Commercial,4,Auckland,https://www.westpac.co.nz,1861,WNZXNZAU,TRUE,Official Website
+New Zealand,NZL,Kiwibank,Commercial,5,Wellington,https://www.kiwibank.co.nz,2002,KIWINZWE,TRUE,Official Website
+Nicaragua,NIC,Central Bank of Nicaragua,Central,0,Managua,https://www.bcn.gob.ni,1960,CNXXNIMA,TRUE,Official Website
+Nicaragua,NIC,Banco Lafise Bancentro,Commercial,1,Managua,https://www.lafise.com,1985,BLBXNIMA,TRUE,Official Website
+Nicaragua,NIC,Banco de la Producción,Commercial,2,Managua,https://www.banprogrupopromerica.com.ni,1991,BDLPNIMA,TRUE,Official Website
+Nicaragua,NIC,Banco Avanz,Commercial,3,Managua,https://www.bancoavanz.com,2005,BAXXNIMA,TRUE,Official Website
+Nicaragua,NIC,Banco Ficohsa Nicaragua,Commercial,4,Managua,https://www.ficohsa.com,2012,BFNXNIMA,TRUE,Official Website
+Nicaragua,NIC,BAC Credomatic Nicaragua,Commercial,5,Managua,https://www.baccredomatic.com,1952,BCNXNIMA,TRUE,Official Website
+Niger,NER,Central Bank of West African States,Central,0,Niamey,https://www.bceao.int,1962,CWASNENI,TRUE,Official Website
+Niger,NER,Bank of Africa Niger,Commercial,1,Niamey,https://www.boaniger.com,1989,ANXXNENI,TRUE,Official Website
+Niger,NER,Ecobank Niger,Commercial,2,Niamey,https://www.ecobank.com,2008,ENXXNENI,TRUE,Official Website
+Niger,NER,Banque Atlantique Niger,Commercial,3,Niamey,https://www.banqueatlantique.net,2008,BANXNENI,TRUE,Official Website
+Niger,NER,Orabank Niger,Commercial,4,Niamey,https://www.orabank.net,1988,ONXXNENI,TRUE,Official Website
+Niger,NER,Banque Internationale pour l'Afrique Niger,Commercial,5,Niamey,https://www.biaplus.com,1991,BIPLNENI,TRUE,Official Website
+Nigeria,NGA,Central Bank of Nigeria,Central,0,Abuja,https://www.cbn.gov.ng,1958,CNXXNGAB,TRUE,Official Website
+Nigeria,NGA,Access Bank,Commercial,1,Lagos,https://www.accessbankplc.com,1989,ACCENGLA,TRUE,Official Website
+Nigeria,NGA,Zenith Bank,Commercial,2,Lagos,https://www.zenithbank.com,1990,ZENINGLA,TRUE,Official Website
+Nigeria,NGA,United Bank for Africa,Commercial,3,Lagos,https://www.ubagroup.com,1949,UFAXNGLA,TRUE,Official Website
+Nigeria,NGA,Guaranty Trust Bank,Commercial,4,Lagos,https://www.gtbank.com,1990,GTXXNGLA,TRUE,Official Website
+Nigeria,NGA,First Bank of Nigeria,Commercial,5,Lagos,https://www.firstbanknigeria.com,1894,FNXXNGLA,TRUE,Official Website
+North Macedonia,MKD,National Bank of the Republic of North Macedonia,Central,0,Skopje,https://www.nbrm.mk,1946,NRNMMKSK,TRUE,Official Website
+North Macedonia,MKD,Komercijalna Banka,Commercial,1,Skopje,https://www.kb.com.mk,1955,KBXXMKSK,TRUE,Official Website
+North Macedonia,MKD,Stopanska Banka Skopje,Commercial,2,Skopje,https://www.stb.com.mk,1944,SBSXMKSK,TRUE,Official Website
+North Macedonia,MKD,NLB Banka Skopje,Commercial,3,Skopje,https://www.nlb.mk,1985,NBSXMKSK,TRUE,Official Website
+North Macedonia,MKD,Halkbank AD Skopje,Commercial,4,Skopje,https://www.halkbank.mk,1993,HASXMKSK,TRUE,Official Website
+North Macedonia,MKD,ProCredit Bank,Commercial,5,Skopje,https://www.pcb.mk,2003,PROCMKSK,TRUE,Official Website
+Norway,NOR,Norges Bank,Central,0,Oslo,https://www.norges-bank.no,1816,NORGNOOS,TRUE,Official Website
+Norway,NOR,DNB Bank,Commercial,1,Oslo,https://www.dnb.no,1822,DNBXNOOS,TRUE,Official Website
+Norway,NOR,Nordea Norge,Commercial,2,Oslo,https://www.nordea.no,1820,NNXXNOOS,TRUE,Official Website
+Norway,NOR,SpareBank 1 SR-Bank,Commercial,3,Stavanger,https://www.sr-bank.no,1976,S1SXNOST,TRUE,Official Website
+Norway,NOR,Handelsbanken Norway,Commercial,4,Oslo,https://www.handelsbanken.no,1986,HNXXNOOS,TRUE,Official Website
+Norway,NOR,Storebrand Bank,Commercial,5,Lysaker,https://www.storebrand.no,1996,STORNOLY,TRUE,Official Website
+Oman,OMN,Central Bank of Oman,Central,0,Muscat,https://www.cbo.gov.om,1974,COXXOMMU,TRUE,Official Website
+Oman,OMN,Bank Muscat,Commercial,1,Muscat,https://www.bankmuscat.com,1982,MUSCOMMU,TRUE,Official Website
+Oman,OMN,National Bank of Oman,Commercial,2,Muscat,https://www.nbo.om,1973,NOXXOMMU,TRUE,Official Website
+Oman,OMN,Sohar International,Commercial,3,Muscat,https://www.soharinternational.com,2007,SIXXOMMU,TRUE,Official Website
+Oman,OMN,Bank Dhofar,Commercial,4,Salalah,https://www.bankdhofar.com,1990,DHOFOMSA,TRUE,Official Website
+Oman,OMN,Ahli Bank,Commercial,5,Muscat,https://www.ahlibank.om,2007,AHLIOMMU,TRUE,Official Website
+Pakistan,PAK,State Bank of Pakistan,Central,0,Karachi,https://www.sbp.org.pk,1948,SPXXPKKA,TRUE,Official Website
+Pakistan,PAK,Habib Bank Limited,Commercial,1,Karachi,https://www.hbl.com,1947,HABIPKKA,TRUE,Official Website
+Pakistan,PAK,United Bank Limited,Commercial,2,Karachi,https://www.ubldigital.com,1959,UNITPKKA,TRUE,Official Website
+Pakistan,PAK,MCB Bank,Commercial,3,Lahore,https://www.mcb.com.pk,1947,MCBXPKLA,TRUE,Official Website
+Pakistan,PAK,National Bank of Pakistan,Commercial,4,Karachi,https://www.nbp.com.pk,1949,NPXXPKKA,TRUE,Official Website
+Pakistan,PAK,Meezan Bank,Commercial,5,Karachi,https://www.meezanbank.com,1997,MEEZPKKA,TRUE,Official Website
+Palau,PLW,National Development Bank of Palau,Central,0,Ngerulmud,https://www.ndbp.com,1987,NDPXPWNG,TRUE,Official Website
+Palau,PLW,Bank of Guam Palau,Commercial,1,Koror,https://www.bankofguam.com,1962,GPXXPWKO,TRUE,Official Website
+Palau,PLW,Bank of Hawaii Palau,Commercial,2,Koror,https://www.boh.com,1969,HPXXPWKO,TRUE,Official Website
+Panama,PAN,National Bank of Panama,Central,0,Panama City,https://www.banconal.com.pa,1904,NPXXPAPA,TRUE,Official Website
+Panama,PAN,Banco General,Commercial,1,Panama City,https://www.bgeneral.com,1955,BGXXPAPA,TRUE,Official Website
+Panama,PAN,Banistmo,Commercial,2,Panama City,https://www.banistmo.com,1984,BANIPAPA,TRUE,Official Website
+Panama,PAN,BAC International Bank,Commercial,3,Panama City,https://www.baccredomatic.com,1952,BIXXPAPA,TRUE,Official Website
+Panama,PAN,Global Bank Panama,Commercial,4,Panama City,https://www.globalbank.com.pa,1994,GPXXPAPA,TRUE,Official Website
+Panama,PAN,Multibank Panama,Commercial,5,Panama City,https://www.multibank.com.pa,1990,MPXXPAPA,TRUE,Official Website
+Papua New Guinea,PNG,Bank of Papua New Guinea,Central,0,Port Moresby,https://www.bankpng.gov.pg,1973,PNGXPGPO,TRUE,Official Website
+Papua New Guinea,PNG,BSP Financial Group,Commercial,1,Port Moresby,https://www.bsp.com.pg,1957,BFGXPGPO,TRUE,Official Website
+Papua New Guinea,PNG,Kina Bank,Commercial,2,Port Moresby,https://www.kinabank.com.pg,1985,KINAPGPO,TRUE,Official Website
+Papua New Guinea,PNG,Westpac Papua New Guinea,Commercial,3,Port Moresby,https://www.westpac.com.pg,1910,WPNGPGPO,TRUE,Official Website
+Papua New Guinea,PNG,MiBank,Commercial,4,Port Moresby,https://www.mibank.com.pg,2010,MIBAPGPO,TRUE,Official Website
+Papua New Guinea,PNG,ANZ Papua New Guinea,Commercial,5,Port Moresby,https://www.anz.com.pg,1910,APNGPGPO,TRUE,Official Website
+Paraguay,PRY,Central Bank of Paraguay,Central,0,Asunción,https://www.bcp.gov.py,1952,CPXXPYAS,TRUE,Official Website
+Paraguay,PRY,Banco Nacional de Fomento,Commercial,1,Asunción,https://www.bnf.gov.py,1961,BNDFPYAS,TRUE,Official Website
+Paraguay,PRY,Banco Itaú Paraguay,Commercial,2,Asunción,https://www.itau.com.py,1978,BIPXPYAS,TRUE,Official Website
+Paraguay,PRY,Banco Continental Paraguay,Commercial,3,Asunción,https://www.bancontinental.com.py,1980,BCPXPYAS,TRUE,Official Website
+Paraguay,PRY,Visión Banco,Commercial,4,Asunción,https://www.visionbanco.com,1992,VBXXPYAS,TRUE,Official Website
+Paraguay,PRY,Banco GNB Paraguay,Commercial,5,Asunción,https://www.bancognb.com.py,1998,BGPXPYAS,TRUE,Official Website
+Peru,PER,Central Reserve Bank of Peru,Central,0,Lima,https://www.bcrp.gob.pe,1922,CRPXPELI,TRUE,Official Website
+Peru,PER,Banco de Crédito del Perú,Commercial,1,Lima,https://www.viabcp.com,1889,BDCDPELI,TRUE,Official Website
+Peru,PER,BBVA Perú,Commercial,2,Lima,https://www.bbva.pe,1951,BPXXPELI,TRUE,Official Website
+Peru,PER,Interbank Perú,Commercial,3,Lima,https://interbank.pe,1897,IPXXPELI,TRUE,Official Website
+Peru,PER,Scotiabank Perú,Commercial,4,Lima,https://www.scotiabank.com.pe,1997,SPXXPELI,TRUE,Official Website
+Peru,PER,Banco Pichincha Perú,Commercial,5,Lima,https://www.pichincha.pe,1963,BPPXPELI,TRUE,Official Website
+Philippines,PHL,Bangko Sentral ng Pilipinas,Central,0,Manila,https://www.bsp.gov.ph,1993,BSNPPHMA,TRUE,
+Philippines,PHL,BDO Unibank,Commercial,1,Makati,https://www.bdo.com.ph,1968,BUXXPHMA,TRUE,
+Philippines,PHL,Metropolitan Bank and Trust Company,Commercial,2,Makati,https://www.metrobank.com.ph,1962,MTXXPHMA,TRUE,
+Philippines,PHL,Bank of the Philippine Islands,Commercial,3,Makati,https://www.bpi.com.ph,1851,PIXXPHMA,TRUE,
+Philippines,PHL,Land Bank of the Philippines,Commercial,4,Manila,https://www.landbank.com,1963,LPXXPHMA,TRUE,
+Philippines,PHL,Philippine National Bank,Commercial,5,Pasay,https://www.pnb.com.ph,1916,PNXXPHPA,TRUE,
+Poland,POL,National Bank of Poland,Central,0,Warsaw,https://nbp.pl,1945,NPXXPLWA,TRUE,Official Website
+Poland,POL,PKO Bank Polski,Commercial,1,Warsaw,https://www.pkobp.pl,1919,PPXXPLWA,TRUE,Official Website
+Poland,POL,Bank Pekao,Commercial,2,Warsaw,https://www.pekao.com.pl,1929,PEKAPLWA,TRUE,Official Website
+Poland,POL,Santander Bank Polska,Commercial,3,Warsaw,https://www.santander.pl,2001,SPXXPLWA,TRUE,Official Website
+Poland,POL,mBank,Commercial,4,Warsaw,https://www.mbank.pl,1986,MBANPLWA,TRUE,Official Website
+Poland,POL,ING Bank Śląski,Commercial,5,Katowice,https://www.ing.pl,1988,IÅšXXPLKA,TRUE,Official Website
+Portugal,PRT,Banco de Portugal,Central,0,Lisbon,https://www.bportugal.pt,1846,BDPXPTLI,TRUE,Official Website
+Portugal,PRT,Caixa Geral de Depósitos,Commercial,1,Lisbon,https://www.cgd.pt,1876,CGDDPTLI,TRUE,Official Website
+Portugal,PRT,Millennium BCP,Commercial,2,Porto,https://ind.millenniumbcp.pt,1985,MBXXPTPO,TRUE,Official Website
+Portugal,PRT,Novo Banco,Commercial,3,Lisbon,https://www.novobanco.pt,2014,NBXXPTLI,TRUE,Official Website
+Portugal,PRT,Banco BPI,Commercial,4,Porto,https://www.bancobpi.pt,1981,BBXXPTPO,TRUE,Official Website
+Portugal,PRT,Banco Santander Totta,Commercial,5,Lisbon,https://www.santander.pt,1988,BSTXPTLI,TRUE,Official Website
+Qatar,QAT,Qatar Central Bank,Central,0,Doha,https://www.qcb.gov.qa,1993,QCXXQADO,TRUE,Official Website
+Qatar,QAT,Qatar National Bank,Commercial,1,Doha,https://www.qnb.com,1964,QNXXQADO,TRUE,Official Website
+Qatar,QAT,Commercial Bank of Qatar,Commercial,2,Doha,https://www.cbq.qa,1975,CQXXQADO,TRUE,Official Website
+Qatar,QAT,Doha Bank,Commercial,3,Doha,https://www.dohabank.com,1979,DOHAQADO,TRUE,Official Website
+Qatar,QAT,Dukhan Bank,Commercial,4,Doha,https://www.dukhanbank.com,2009,DUKHQADO,TRUE,Official Website
+Qatar,QAT,Qatar Islamic Bank,Commercial,5,Doha,https://www.qib.com.qa,1982,QIXXQADO,TRUE,Official Website
+Republic of the Congo,COG,Bank of Central African States,Central,0,Brazzaville,https://www.beac.int,1972,CASXCGBR,TRUE,Official Website
+Republic of the Congo,COG,Banque Commerciale Internationale,Commercial,1,Brazzaville,https://www.bci.cg,1974,BCIXCGBR,TRUE,Official Website
+Republic of the Congo,COG,BGFIBank Congo,Commercial,2,Brazzaville,https://www.bgfibank.com,2000,BCXXCGBR,TRUE,Official Website
+Republic of the Congo,COG,Ecobank Congo,Commercial,3,Brazzaville,https://www.ecobank.com,2009,ECXXCGBR,TRUE,Official Website
+Republic of the Congo,COG,Crédit du Congo,Commercial,4,Pointe-Noire,https://www.creditducongo.com,1994,CDCXCGPO,TRUE,Official Website
+Republic of the Congo,COG,UBA Congo,Commercial,5,Brazzaville,https://www.ubagroup.com,2011,UCXXCGBR,TRUE,Official Website
+Romania,ROU,National Bank of Romania,Central,0,Bucharest,https://www.bnr.ro,1880,NRXXROBU,TRUE,Official Website
+Romania,ROU,Banca Transilvania,Commercial,1,Cluj-Napoca,https://www.bancatransilvania.ro,1993,BTXXROCL,TRUE,Official Website
+Romania,ROU,BCR,Commercial,2,Bucharest,https://www.bcr.ro,1990,BCRXROBU,TRUE,Official Website
+Romania,ROU,BRD Groupe Société Générale,Commercial,3,Bucharest,https://www.brd.ro,1990,BGSGROBU,TRUE,Official Website
+Romania,ROU,CEC Bank,Commercial,4,Bucharest,https://www.cec.ro,1864,CECXROBU,TRUE,Official Website
+Romania,ROU,Raiffeisen Bank Romania,Commercial,5,Bucharest,https://www.raiffeisen.ro,1998,RRXXROBU,TRUE,Official Website
+Russia,RUS,Bank of Russia,Central,0,Moscow,https://www.cbr.ru,1860,RUSSRUMO,TRUE,Official Website
+Russia,RUS,Sberbank,Commercial,1,Moscow,https://www.sberbank.com,1841,SBERRUMO,TRUE,Official Website
+Russia,RUS,VTB Bank,Commercial,2,St. Petersburg,https://www.vtb.com,1990,VTBXRUST,TRUE,Official Website
+Russia,RUS,Gazprombank,Commercial,3,Moscow,https://www.gazprombank.ru,1990,GAZPRUMO,TRUE,Official Website
+Russia,RUS,Alfa-Bank Russia,Commercial,4,Moscow,https://alfabank.ru,1990,ARXXRUMO,TRUE,Official Website
+Russia,RUS,Rosselkhozbank,Commercial,5,Moscow,https://www.rshb.ru,2000,ROSSRUMO,TRUE,Official Website
+Rwanda,RWA,National Bank of Rwanda,Central,0,Kigali,https://www.bnr.rw,1964,NRXXRWKI,TRUE,Official Website
+Rwanda,RWA,Bank of Kigali,Commercial,1,Kigali,https://www.bk.rw,1966,KIGARWKI,TRUE,Official Website
+Rwanda,RWA,Equity Bank Rwanda,Commercial,2,Kigali,https://equitygroupholdings.com/rw,2011,ERXXRWKI,TRUE,Official Website
+Rwanda,RWA,I&M Bank Rwanda,Commercial,3,Kigali,https://www.imbankrw.com,1963,IMRXRWKI,TRUE,Official Website
+Rwanda,RWA,Ecobank Rwanda,Commercial,4,Kigali,https://www.ecobank.com,2008,ERXXRWKI,TRUE,Official Website
+Rwanda,RWA,Cogebanque,Commercial,5,Kigali,https://www.cogebanque.com,1999,COGERWKI,TRUE,Official Website
+Saint Kitts and Nevis,KNA,Eastern Caribbean Central Bank,Central,0,Basseterre,https://www.eccb-centralbank.org,1983,ECCXKNBA,TRUE,Official Website
+Saint Kitts and Nevis,KNA,St. Kitts-Nevis-Anguilla National Bank,Commercial,1,Basseterre,https://www.nationalbankgroup.com,1971,SKNAKNBA,TRUE,Official Website
+Saint Kitts and Nevis,KNA,CIBC Caribbean St. Kitts and Nevis,Commercial,2,Basseterre,https://www.cibcfcib.com,2002,CCSKKNBA,TRUE,Official Website
+Saint Kitts and Nevis,KNA,Republic Bank EC St. Kitts and Nevis,Commercial,3,Basseterre,https://republicbankec.com,2004,RESKKNBA,TRUE,Official Website
+Saint Kitts and Nevis,KNA,St. Kitts-Nevis Co-operative Bank,Commercial,4,Basseterre,https://www.skncoopbank.com,1938,SKNOKNBA,TRUE,Official Website
+Saint Kitts and Nevis,KNA,FirstCaribbean International Wealth Management,Commercial,5,Basseterre,https://www.cibcfcib.com,2002,FIWMKNBA,TRUE,Official Website
+Saint Lucia,LCA,Eastern Caribbean Central Bank,Central,0,Castries,https://www.eccb-centralbank.org,1983,ECCXLCCA,TRUE,Official Website
+Saint Lucia,LCA,1st National Bank St. Lucia,Commercial,1,Castries,https://www.1stnationalbankonline.com,1938,1NSLLCCA,TRUE,Official Website
+Saint Lucia,LCA,Bank of Saint Lucia,Commercial,2,Castries,https://www.bankofsaintlucia.com,2001,SLXXLCCA,TRUE,Official Website
+Saint Lucia,LCA,CIBC Caribbean Saint Lucia,Commercial,3,Castries,https://www.cibcfcib.com,2002,CCSLLCCA,TRUE,Official Website
+Saint Lucia,LCA,Republic Bank EC Saint Lucia,Commercial,4,Castries,https://republicbankec.com,2004,RESLLCCA,TRUE,Official Website
+Saint Lucia,LCA,RBC Royal Bank Saint Lucia,Commercial,5,Castries,https://www.rbcroyalbank.com/caribbean,1909,RRSLLCCA,TRUE,Official Website
+Saint Vincent and the Grenadines,VCT,Eastern Caribbean Central Bank,Central,0,Basseterre,https://www.eccb-centralbank.org,1983,ECCXVCBA,TRUE,Official Website
+Saint Vincent and the Grenadines,VCT,Bank of St. Vincent and the Grenadines,Commercial,1,Kingstown,https://www.bosvg.com,1977,SVGXVCKI,TRUE,Official Website
+Saint Vincent and the Grenadines,VCT,Republic Bank EC St. Vincent,Commercial,2,Kingstown,https://republicbankec.com,2004,RESVVCKI,TRUE,Official Website
+Saint Vincent and the Grenadines,VCT,CIBC Caribbean St. Vincent,Commercial,3,Kingstown,https://www.cibcfcib.com,2002,CCSVVCKI,TRUE,Official Website
+Saint Vincent and the Grenadines,VCT,RBC Royal Bank St. Vincent,Commercial,4,Kingstown,https://www.rbcroyalbank.com/caribbean,1908,RRSVVCKI,TRUE,Official Website
+Saint Vincent and the Grenadines,VCT,GECCU Credit Union,Commercial,5,Kingstown,https://www.geccu.com,1984,GCUXVCKI,TRUE,Official Website
+Samoa,WSM,Central Bank of Samoa,Central,0,Apia,https://www.cbs.gov.ws,1984,CSXXWSAP,TRUE,Official Website
+Samoa,WSM,ANZ Samoa,Commercial,1,Apia,https://www.anz.com/samoa,1905,ASXXWSAP,TRUE,Official Website
+Samoa,WSM,BSP Samoa,Commercial,2,Apia,https://www.bsp.com.ws,1998,BSXXWSAP,TRUE,Official Website
+Samoa,WSM,National Bank of Samoa,Commercial,3,Apia,https://www.nbs.ws,1994,NSXXWSAP,TRUE,Official Website
+Samoa,WSM,SSAB Bank,Commercial,4,Apia,https://www.ssabank.ws,2005,SSABWSAP,TRUE,Official Website
+Sao Tome and Principe,STP,Central Bank of Sao Tome and Principe,Central,0,São Tomé,https://www.bcstp.st,1975,CSTPSTSÃƒ,TRUE,Official Website
+Sao Tome and Principe,STP,Banco Internacional de São Tomé e Príncipe,Commercial,1,São Tomé,https://www.bistp.st,1993,BIDSSTSÃƒ,TRUE,Official Website
+Sao Tome and Principe,STP,Banco Equador,Commercial,2,São Tomé,https://www.bancoequador.st,2011,BEXXSTSÃƒ,TRUE,Official Website
+Sao Tome and Principe,STP,BGFI Bank STP,Commercial,3,São Tomé,https://www.bgfibank.com,2012,BSXXSTSÃƒ,TRUE,Official Website
+Sao Tome and Principe,STP,Energy Bank STP,Commercial,4,São Tomé,https://www.energybankghana.com,2011,ESXXSTSÃƒ,TRUE,Official Website
+Sao Tome and Principe,STP,Oceanic Bank STP,Commercial,5,São Tomé,https://www.oceanicbank.st,2008,OSXXSTSÃƒ,TRUE,Official Website
+Saudi Arabia,SAU,Saudi Central Bank,Central,0,Riyadh,https://www.sama.gov.sa,1952,SCXXSARI,TRUE,Official Website
+Saudi Arabia,SAU,Saudi National Bank,Commercial,1,Riyadh,https://www.alahli.com,1953,SNXXSARI,TRUE,Official Website
+Saudi Arabia,SAU,Al Rajhi Bank,Commercial,2,Riyadh,https://www.alrajhibank.com.sa,1957,ARXXSARI,TRUE,Official Website
+Saudi Arabia,SAU,Riyad Bank,Commercial,3,Riyadh,https://www.riyadbank.com,1957,RIYASARI,TRUE,Official Website
+Saudi Arabia,SAU,Bank Albilad,Commercial,4,Riyadh,https://www.bankalbilad.com,2004,ALBISARI,TRUE,Official Website
+Saudi Arabia,SAU,Arab National Bank,Commercial,5,Riyadh,https://www.anb.com.sa,1979,ANXXSARI,TRUE,Official Website
+Senegal,SEN,Central Bank of West African States,Central,0,Dakar,https://www.bceao.int,1962,CWASSNDA,TRUE,Official Website
+Senegal,SEN,CBAO Groupe Attijariwafa Bank,Commercial,1,Dakar,https://www.cbao.sn,1853,CGAXSNDA,TRUE,Official Website
+Senegal,SEN,Banque Atlantique Sénégal,Commercial,2,Dakar,https://www.banqueatlantique.net,2006,BASXSNDA,TRUE,Official Website
+Senegal,SEN,Ecobank Sénégal,Commercial,3,Dakar,https://www.ecobank.com,1999,ESXXSNDA,TRUE,Official Website
+Senegal,SEN,Orabank Sénégal,Commercial,4,Dakar,https://www.orabank.net,1988,OSXXSNDA,TRUE,Official Website
+Senegal,SEN,Coris Bank Sénégal,Commercial,5,Dakar,https://www.corisbank.com,2016,CSXXSNDA,TRUE,Official Website
+Serbia,SRB,National Bank of Serbia,Central,0,Belgrade,https://www.nbs.rs,1884,NSXXRSBE,TRUE,Official Website
+Serbia,SRB,Banca Intesa Beograd,Commercial,1,Belgrade,https://www.bancaintesa.rs,1991,BIBXRSBE,TRUE,Official Website
+Serbia,SRB,Komercijalna Banka,Commercial,2,Belgrade,https://www.kombank.com,1970,KBXXRSBE,TRUE,Official Website
+Serbia,SRB,AIK Banka,Commercial,3,Belgrade,https://www.aikbanka.rs,1976,ABXXRSBE,TRUE,Official Website
+Serbia,SRB,Raiffeisen Bank Serbia,Commercial,4,Belgrade,https://www.raiffeisenbank.rs,2001,RSXXRSBE,TRUE,Official Website
+Serbia,SRB,OTP Bank Serbia,Commercial,5,Novi Sad,https://www.otpbanka.rs,2007,OSXXRSNO,TRUE,Official Website
+Seychelles,SYC,Central Bank of Seychelles,Central,0,Victoria,https://www.cbs.sc,1978,CSXXSCVI,TRUE,Official Website
+Seychelles,SYC,Absa Bank Seychelles,Commercial,1,Victoria,https://www.absa.sc,2000,ASXXSCVI,TRUE,Official Website
+Seychelles,SYC,MCB Seychelles,Commercial,2,Victoria,https://www.mcbseychelles.sc,2004,MSXXSCVI,TRUE,Official Website
+Seychelles,SYC,Nouvobanq,Commercial,3,Victoria,https://www.nouvobanq.sc,1991,NOUVSCVI,TRUE,Official Website
+Seychelles,SYC,Bank of Baroda Seychelles,Commercial,4,Victoria,https://www.bankofbaroda.in,1978,BSXXSCVI,TRUE,Official Website
+Seychelles,SYC,Al Salam Bank Seychelles,Commercial,5,Victoria,https://www.alsalambank.com,2010,ASSXSCVI,TRUE,Official Website
+Sierra Leone,SLE,Bank of Sierra Leone,Central,0,Freetown,https://www.bsl.gov.sl,1964,SLXXSLFR,TRUE,Official Website
+Sierra Leone,SLE,Rokel Commercial Bank,Commercial,1,Freetown,https://www.rokelbank.sl,1917,RCXXSLFR,TRUE,Official Website
+Sierra Leone,SLE,Guaranty Trust Bank Sierra Leone,Commercial,2,Freetown,https://www.gtbank.com,2002,GTSLSLFR,TRUE,Official Website
+Sierra Leone,SLE,Ecobank Sierra Leone,Commercial,3,Freetown,https://www.ecobank.com,2008,ESLXSLFR,TRUE,Official Website
+Sierra Leone,SLE,United Bank for Africa Sierra Leone,Commercial,4,Freetown,https://www.ubagroup.com,2008,UFASSLFR,TRUE,Official Website
+Sierra Leone,SLE,First International Bank Sierra Leone,Commercial,5,Freetown,https://www.fib-sl.com,2014,FISLSLFR,TRUE,Official Website
+Singapore,SGP,Monetary Authority of Singapore,Central,0,Singapore,https://www.mas.gov.sg,1971,MASXSGSI,TRUE,
+Singapore,SGP,DBS Bank,Commercial,1,Singapore,https://www.dbs.com,1968,DBSXSGSI,TRUE,
+Singapore,SGP,OCBC Bank,Commercial,2,Singapore,https://www.ocbc.com,1932,OCBCSGSI,TRUE,
+Singapore,SGP,United Overseas Bank,Commercial,3,Singapore,https://www.uobgroup.com,1935,UOXXSGSI,TRUE,
+Singapore,SGP,Standard Chartered Bank Singapore,Commercial,4,Singapore,https://www.sc.com/sg,1859,SCSXSGSI,TRUE,
+Singapore,SGP,Citibank Singapore,Commercial,5,Singapore,https://www.citibank.com.sg,1902,CSXXSGSI,TRUE,
+Slovakia,SVK,National Bank of Slovakia,Central,0,Bratislava,https://nbs.sk,1993,NSXXSKBR,TRUE,Official Website
+Slovakia,SVK,Slovenská sporiteľňa,Commercial,1,Bratislava,https://www.slsp.sk,1825,SSXXSKBR,TRUE,Official Website
+Slovakia,SVK,VÚB Banka,Commercial,2,Bratislava,https://www.vub.sk,1990,VBXXSKBR,TRUE,Official Website
+Slovakia,SVK,Tatra Banka,Commercial,3,Bratislava,https://www.tatrabanka.sk,1990,TBXXSKBR,TRUE,Official Website
+Slovakia,SVK,ČSOB Slovakia,Commercial,4,Bratislava,https://www.csob.sk,1964,ÄŒSXXSKBR,TRUE,Official Website
+Slovakia,SVK,UniCredit Bank Slovakia,Commercial,5,Bratislava,https://www.unicreditbank.sk,2007,USXXSKBR,TRUE,Official Website
+Slovenia,SVN,Bank of Slovenia,Central,0,Ljubljana,https://www.bsi.si,1991,SLOVSILJ,TRUE,Official Website
+Slovenia,SVN,NLB,Commercial,1,Ljubljana,https://www.nlb.si,1994,NLBXSILJ,TRUE,Official Website
+Slovenia,SVN,NKBM,Commercial,2,Maribor,https://www.nkbm.si,1862,NKBMSIMA,TRUE,Official Website
+Slovenia,SVN,SKB Banka,Commercial,3,Ljubljana,https://www.skb.si,1965,SBXXSILJ,TRUE,Official Website
+Slovenia,SVN,UniCredit Bank Slovenia,Commercial,4,Ljubljana,https://www.unicreditbank.si,1991,USXXSILJ,TRUE,Official Website
+Slovenia,SVN,Gorenjska Banka,Commercial,5,Kranj,https://www.gbkr.si,1955,GBXXSIKR,TRUE,Official Website
+Solomon Islands,SLB,Central Bank of Solomon Islands,Central,0,Honiara,https://www.cbsi.com.sb,1976,CSIXSBHO,TRUE,Official Website
+Solomon Islands,SLB,BSP Financial Group Solomon Islands,Commercial,1,Honiara,https://www.bsp.com.sb,1988,BFGSSBHO,TRUE,Official Website
+Solomon Islands,SLB,ANZ Solomon Islands,Commercial,2,Honiara,https://www.anz.com,1970,ASIXSBHO,TRUE,Official Website
+Solomon Islands,SLB,Pan Oceanic Bank,Commercial,3,Honiara,https://www.pan-oceanicbank.com,2014,POXXSBHO,TRUE,Official Website
+Solomon Islands,SLB,Public Financial Corporation,Commercial,4,Honiara,https://www.pfc.com.sb,1977,PFXXSBHO,TRUE,Official Website
+Somalia,SOM,Central Bank of Somalia,Central,0,Mogadishu,https://www.centralbank.gov.so,1960,CSXXSOMO,TRUE,Official Website
+Somalia,SOM,Premier Bank Somalia,Commercial,1,Mogadishu,https://www.premierbank.so,2009,PSXXSOMO,TRUE,Official Website
+Somalia,SOM,Salaam Somali Bank,Commercial,2,Mogadishu,https://www.salaambank.so,2009,SSXXSOMO,TRUE,Official Website
+Somalia,SOM,Dahabshiil Bank International,Commercial,3,Mogadishu,https://www.dahabshiilbank.com,2010,DIXXSOMO,TRUE,Official Website
+Somalia,SOM,International Bank of Somalia,Commercial,4,Mogadishu,https://www.ibsbank.so,2014,ISXXSOMO,TRUE,Official Website
+Somalia,SOM,Amal Bank,Commercial,5,Mogadishu,https://www.amalbank.so,1997,AMALSOMO,TRUE,Official Website
+South Africa,ZAF,South African Reserve Bank,Central,0,Pretoria,https://www.resbank.co.za,1921,SARXZAPR,TRUE,Official Website
+South Africa,ZAF,Standard Bank South Africa,Commercial,1,Johannesburg,https://www.standardbank.co.za,1862,SSAXZAJO,TRUE,Official Website
+South Africa,ZAF,First National Bank,Commercial,2,Johannesburg,https://www.fnb.co.za,1838,FNXXZAJO,TRUE,Official Website
+South Africa,ZAF,Absa Bank South Africa,Commercial,3,Johannesburg,https://www.absa.co.za,1991,ASAXZAJO,TRUE,Official Website
+South Africa,ZAF,Nedbank,Commercial,4,Johannesburg,https://www.nedbank.co.za,1888,NEDBZAJO,TRUE,Official Website
+South Africa,ZAF,Capitec Bank,Commercial,5,Stellenbosch,https://www.capitecbank.co.za,2001,CAPIZAST,TRUE,Official Website
+South Korea,KOR,Bank of Korea,Central,0,Seoul,https://www.bok.or.kr,1950,KOREKRSE,TRUE,Official Website
+South Korea,KOR,KB Kookmin Bank,Commercial,1,Seoul,https://www.kbstar.com,1963,KKXXKRSE,TRUE,Official Website
+South Korea,KOR,Shinhan Bank,Commercial,2,Seoul,https://bank.shinhan.com,1982,SHINKRSE,TRUE,Official Website
+South Korea,KOR,Hana Bank,Commercial,3,Seoul,https://www.kebhana.com,1971,HANAKRSE,TRUE,Official Website
+South Korea,KOR,Woori Bank,Commercial,4,Seoul,https://www.wooribank.com,1899,WOORKRSE,TRUE,Official Website
+South Korea,KOR,NH Bank,Commercial,5,Seoul,https://banking.nonghyup.com,1961,NHXXKRSE,TRUE,Official Website
+South Sudan,SSD,Bank of South Sudan,Central,0,Juba,https://www.boss.gov.ss,2011,SSXXSSJU,TRUE,Official Website
+South Sudan,SSD,Equity Bank South Sudan,Commercial,1,Juba,https://equitygroupholdings.com/ss,2009,ESSXSSJU,TRUE,Official Website
+South Sudan,SSD,KCB Bank South Sudan,Commercial,2,Juba,https://ke.kcbgroup.com,2012,KSSXSSJU,TRUE,Official Website
+South Sudan,SSD,Cooperative Bank South Sudan,Commercial,3,Juba,https://www.co-opbankss.com,2013,CSSXSSJU,TRUE,Official Website
+South Sudan,SSD,National Credit Bank,Commercial,4,Juba,https://www.ncbss.com,2013,NCXXSSJU,TRUE,Official Website
+South Sudan,SSD,Buffalo Commercial Bank,Commercial,5,Juba,https://www.buffalobankss.com,2012,BCXXSSJU,TRUE,Official Website
+Spain,ESP,Bank of Spain,Central,0,Madrid,https://www.bde.es,1782,SPAIESMA,TRUE,Official Website
+Spain,ESP,Banco Santander,Commercial,1,Santander,https://www.santander.com,1857,BSXXESSA,TRUE,Official Website
+Spain,ESP,BBVA,Commercial,2,Bilbao,https://www.bbva.com,1857,BBVAESBI,TRUE,Official Website
+Spain,ESP,CaixaBank,Commercial,3,Valencia,https://www.caixabank.com,2011,CAIXESVA,TRUE,Official Website
+Spain,ESP,Banco Sabadell,Commercial,4,Alicante,https://www.bancsabadell.com,1881,BSXXESAL,TRUE,Official Website
+Spain,ESP,Unicaja Banco,Commercial,5,Malaga,https://www.unicajabanco.com,2011,UBXXESMA,TRUE,Official Website
+Sri Lanka,LKA,Central Bank of Sri Lanka,Central,0,Colombo,https://www.cbsl.gov.lk,1950,CSLXLKCO,TRUE,Official Website
+Sri Lanka,LKA,Bank of Ceylon,Commercial,1,Colombo,https://www.boc.lk,1939,CEYLLKCO,TRUE,Official Website
+Sri Lanka,LKA,People's Bank,Commercial,2,Colombo,https://www.peoplesbank.lk,1961,PSXXLKCO,TRUE,Official Website
+Sri Lanka,LKA,Commercial Bank of Ceylon,Commercial,3,Colombo,https://www.combank.lk,1920,CCXXLKCO,TRUE,Official Website
+Sri Lanka,LKA,Sampath Bank,Commercial,4,Colombo,https://www.sampath.lk,1987,SAMPLKCO,TRUE,Official Website
+Sri Lanka,LKA,Hatton National Bank,Commercial,5,Colombo,https://www.hnb.net,1888,HNXXLKCO,TRUE,Official Website
+Sudan,SDN,Central Bank of Sudan,Central,0,Khartoum,https://cbos.gov.sd,1960,CSXXSDKH,TRUE,Official Website
+Sudan,SDN,Bank of Khartoum,Commercial,1,Khartoum,https://bankofkhartoum.com,1913,KHARSDKH,TRUE,Official Website
+Sudan,SDN,Faisal Islamic Bank Sudan,Commercial,2,Khartoum,https://www.fibsd.com,1977,FISXSDKH,TRUE,Official Website
+Sudan,SDN,Omdurman National Bank,Commercial,3,Khartoum,https://www.onb-sd.com,1984,ONXXSDKH,TRUE,Official Website
+Sudan,SDN,Animal Resources Bank,Commercial,4,Khartoum,https://www.arbank.sd,1992,ARXXSDKH,TRUE,Official Website
+Sudan,SDN,Al Salam Bank Sudan,Commercial,5,Khartoum,https://www.alsalam.sd,1993,ASSXSDKH,TRUE,Official Website
+Suriname,SUR,Central Bank of Suriname,Central,0,Paramaribo,https://www.cbvs.sr,1957,CSXXSRPA,TRUE,Official Website
+Suriname,SUR,De Surinaamsche Bank,Commercial,1,Paramaribo,https://www.dsb.sr,1865,DSXXSRPA,TRUE,Official Website
+Suriname,SUR,Hakrinbank,Commercial,2,Paramaribo,https://www.hakrinbank.com,1974,HAKRSRPA,TRUE,Official Website
+Suriname,SUR,Republic Bank Suriname,Commercial,3,Paramaribo,https://republicsuriname.com,1995,RSXXSRPA,TRUE,Official Website
+Suriname,SUR,Finabank,Commercial,4,Paramaribo,https://www.finabanknv.com,1991,FINASRPA,TRUE,Official Website
+Suriname,SUR,Trustbank Amanah,Commercial,5,Paramaribo,https://www.trustbankamanah.com,2005,TAXXSRPA,TRUE,Official Website
+Sweden,SWE,Sveriges Riksbank,Central,0,Stockholm,https://www.riksbank.se,1668,SRXXSEST,TRUE,Official Website
+Sweden,SWE,SEB,Commercial,1,Stockholm,https://sebgroup.com,1856,SEBXSEST,TRUE,Official Website
+Sweden,SWE,Swedbank,Commercial,2,Sundbyberg,https://www.swedbank.com,1820,SWEDSESU,TRUE,Official Website
+Sweden,SWE,Handelsbanken,Commercial,3,Stockholm,https://www.handelsbanken.com,1871,HANDSEST,TRUE,Official Website
+Sweden,SWE,Nordea Bank,Commercial,4,Helsinki,https://www.nordea.com,1820,NORDSEHE,TRUE,Official Website
+Sweden,SWE,SBAB Bank,Commercial,5,Solna,https://www.sbab.se,1985,SBABSESO,TRUE,Official Website
+Switzerland,CHE,Swiss National Bank,Central,0,Bern,https://www.snb.ch,1907,SNXXCHBE,TRUE,Official Website
+Switzerland,CHE,UBS,Commercial,1,Zurich,https://www.ubs.com,1862,UBSXCHZU,TRUE,Official Website
+Switzerland,CHE,Julius Baer,Commercial,2,Zurich,https://www.juliusbaer.com,1890,JBXXCHZU,TRUE,Official Website
+Switzerland,CHE,Raiffeisen Switzerland,Commercial,3,St. Gallen,https://www.raiffeisen.ch,1899,RSXXCHST,TRUE,Official Website
+Switzerland,CHE,Zürcher Kantonalbank,Commercial,4,Zurich,https://www.zkb.ch,1870,ZKXXCHZU,TRUE,Official Website
+Switzerland,CHE,PostFinance,Commercial,5,Bern,https://www.postfinance.ch,1906,POSTCHBE,TRUE,Official Website
+Syria,SYR,Central Bank of Syria,Central,0,Damascus,https://www.cb-sy.gov.sy,1953,CSXXSYDA,TRUE,Official Website
+Syria,SYR,Commercial Bank of Syria,Commercial,1,Damascus,https://cbs-bank.sy,1966,CSXXSYDA,TRUE,Official Website
+Syria,SYR,Banque Bemo Saudi Fransi,Commercial,2,Damascus,https://www.bbsfbank.com,2004,BBSFSYDA,TRUE,Official Website
+Syria,SYR,Bank of Syria and Overseas,Commercial,3,Damascus,https://www.bsobank.com,2004,SOXXSYDA,TRUE,Official Website
+Syria,SYR,Qatar National Bank Syria,Commercial,4,Damascus,https://www.qnbsyria.com,2009,QNSXSYDA,TRUE,Official Website
+Syria,SYR,International Bank for Trade and Finance,Commercial,5,Damascus,https://www.ibtf-syria.com,2003,IFTFSYDA,TRUE,Official Website
+Taiwan,TWN,Central Bank of the Republic of China (Taiwan),Central,0,Taipei,https://www.cbc.gov.tw,1928,CRCTTWTA,TRUE,Official Website
+Taiwan,TWN,CTBC Bank,Commercial,1,Taipei,https://www.ctbcbank.com,1966,CTBCTWTA,TRUE,Official Website
+Taiwan,TWN,Taipei Fubon Bank,Commercial,2,Taipei,https://www.fubon.com,1969,TFXXTWTA,TRUE,Official Website
+Taiwan,TWN,Mega International Commercial Bank,Commercial,3,Taipei,https://www.megabank.com.tw,2006,MICXTWTA,TRUE,Official Website
+Taiwan,TWN,First Commercial Bank,Commercial,4,Taipei,https://www.firstbank.com.tw,1899,FCXXTWTA,TRUE,Official Website
+Taiwan,TWN,Hua Nan Bank,Commercial,5,Taipei,https://www.hncb.com.tw,1919,HNXXTWTA,TRUE,Official Website
+Tajikistan,TJK,National Bank of Tajikistan,Central,0,Dushanbe,https://nbt.tj,1991,NTXXTJDU,TRUE,Official Website
+Tajikistan,TJK,Amonatbank,Commercial,1,Dushanbe,https://amonatbonk.tj,1925,AMONTJDU,TRUE,Official Website
+Tajikistan,TJK,Orienbank,Commercial,2,Dushanbe,https://orienbank.tj,1991,ORIETJDU,TRUE,Official Website
+Tajikistan,TJK,Eskhata Bank,Commercial,3,Khujand,https://eskhata.com,1993,ESKHTJKH,TRUE,Official Website
+Tajikistan,TJK,Spitamen Bank,Commercial,4,Dushanbe,https://spitamenbank.tj,2008,SPITTJDU,TRUE,Official Website
+Tajikistan,TJK,Dushanbe City Bank,Commercial,5,Dushanbe,https://dcbank.tj,2007,DCXXTJDU,TRUE,Official Website
+Tanzania,TZA,Bank of Tanzania,Central,0,Dodoma,https://www.bot.go.tz,1966,TANZTZDO,TRUE,Official Website
+Tanzania,TZA,CRDB Bank,Commercial,1,Dar es Salaam,https://www.crdbbank.co.tz,1996,CRDBTZDA,TRUE,Official Website
+Tanzania,TZA,NMB Bank,Commercial,2,Dar es Salaam,https://www.nmbbank.co.tz,1997,NMBXTZDA,TRUE,Official Website
+Tanzania,TZA,National Bank of Commerce Tanzania,Commercial,3,Dar es Salaam,https://www.nbc.co.tz,1967,NCTXTZDA,TRUE,Official Website
+Tanzania,TZA,Stanbic Bank Tanzania,Commercial,4,Dar es Salaam,https://www.stanbicbank.co.tz,1995,STXXTZDA,TRUE,Official Website
+Tanzania,TZA,Absa Bank Tanzania,Commercial,5,Dar es Salaam,https://www.absa.co.tz,2000,ATXXTZDA,TRUE,Official Website
+Thailand,THA,Bank of Thailand,Central,0,Bangkok,https://www.bot.or.th,1942,THAITHBA,TRUE,
+Thailand,THA,Bangkok Bank,Commercial,1,Bangkok,https://www.bangkokbank.com,1944,BANGTHBA,TRUE,
+Thailand,THA,Kasikornbank,Commercial,2,Bangkok,https://www.kasikornbank.com,1945,KASITHBA,TRUE,
+Thailand,THA,Krung Thai Bank,Commercial,3,Bangkok,https://krungthai.com,1966,KTXXTHBA,TRUE,
+Thailand,THA,Siam Commercial Bank,Commercial,4,Bangkok,https://www.scb.co.th,1906,SCXXTHBA,TRUE,
+Thailand,THA,Bank of Ayudhya,Commercial,5,Bangkok,https://www.krungsri.com,1945,AYUDTHBA,TRUE,
+Timor-Leste,TLS,Banco Central de Timor-Leste,Central,0,Dili,https://www.bancocentral.tl,2011,BCDTTLDI,TRUE,
+Timor-Leste,TLS,Banco Nacional de Comércio de Timor-Leste,Commercial,1,Dili,https://www.bnctl.tl,2011,BNDCTLDI,TRUE,
+Timor-Leste,TLS,ANZ Timor-Leste,Commercial,2,Dili,https://www.anz.com,2000,ATLXTLDI,TRUE,
+Timor-Leste,TLS,Mandiri Timor-Leste,Commercial,3,Dili,https://bankmandiri.co.id,2004,MTLXTLDI,TRUE,
+Timor-Leste,TLS,Banco Comercial de Timor-Leste,Commercial,4,Dili,https://www.bctl.tl,2002,BCDTTLDI,TRUE,
+Timor-Leste,TLS,Banco Nacional Ultramarino Timor-Leste,Commercial,5,Dili,https://www.bnu.tl,2001,BNUTTLDI,TRUE,
+Togo,TGO,Central Bank of West African States,Central,0,Lomé,https://www.bceao.int,1962,CWASTGLO,TRUE,Official Website
+Togo,TGO,Ecobank Togo,Commercial,1,Lomé,https://www.ecobank.com,1985,ETXXTGLO,TRUE,Official Website
+Togo,TGO,Orabank Togo,Commercial,2,Lomé,https://www.orabank.net,1988,OTXXTGLO,TRUE,Official Website
+Togo,TGO,Coris Bank Togo,Commercial,3,Lomé,https://www.corisbank.com,2019,CTXXTGLO,TRUE,Official Website
+Togo,TGO,Banque Atlantique Togo,Commercial,4,Lomé,https://www.banqueatlantique.net,2006,BATXTGLO,TRUE,Official Website
+Togo,TGO,Union Togolaise de Banque,Commercial,5,Lomé,https://www.utb.tg,1964,UTDBTGLO,TRUE,Official Website
+Tonga,TON,National Reserve Bank of Tonga,Central,0,Nuku'alofa,https://www.reservebank.to,1989,NRTXTONU,TRUE,Official Website
+Tonga,TON,ANZ Tonga,Commercial,1,Nuku'alofa,https://www.anz.com/tonga,1979,ATXXTONU,TRUE,Official Website
+Tonga,TON,Tonga Development Bank,Commercial,2,Nuku'alofa,https://www.tdb.to,1977,TDXXTONU,TRUE,Official Website
+Tonga,TON,MBf Bank Tonga,Commercial,3,Nuku'alofa,https://www.mbfbank.com,1998,MTXXTONU,TRUE,Official Website
+Trinidad and Tobago,TTO,Central Bank of Trinidad and Tobago,Central,0,Port of Spain,https://www.central-bank.org.tt,1964,CTTXTTPO,TRUE,Official Website
+Trinidad and Tobago,TTO,Republic Bank Trinidad and Tobago,Commercial,1,Port of Spain,https://republictt.com,1837,RTTXTTPO,TRUE,Official Website
+Trinidad and Tobago,TTO,First Citizens Bank Trinidad and Tobago,Commercial,2,Port of Spain,https://www.firstcitizensgroup.com,1993,FCTTTTPO,TRUE,Official Website
+Trinidad and Tobago,TTO,RBC Royal Bank Trinidad and Tobago,Commercial,3,Port of Spain,https://www.rbcroyalbank.com/caribbean,1902,RRTTTTPO,TRUE,Official Website
+Trinidad and Tobago,TTO,Scotiabank Trinidad and Tobago,Commercial,4,Port of Spain,https://tt.scotiabank.com,1954,STTXTTPO,TRUE,Official Website
+Trinidad and Tobago,TTO,JMMB Bank Trinidad and Tobago,Commercial,5,Port of Spain,https://tt.jmmb.com,2014,JTTXTTPO,TRUE,Official Website
+Tunisia,TUN,Central Bank of Tunisia,Central,0,Tunis,https://www.bct.gov.tn,1958,CTXXTNTU,TRUE,Official Website
+Tunisia,TUN,Banque Internationale Arabe de Tunisie,Commercial,1,Tunis,https://www.biat.com.tn,1976,BIADTNTU,TRUE,Official Website
+Tunisia,TUN,Banque Nationale Agricole,Commercial,2,Tunis,https://www.bna.tn,1959,BNAXTNTU,TRUE,Official Website
+Tunisia,TUN,Amen Bank,Commercial,3,Tunis,https://www.amenbank.com.tn,1967,AMENTNTU,TRUE,Official Website
+Tunisia,TUN,Attijari Bank Tunisia,Commercial,4,Tunis,https://www.attijaribank.com.tn,1968,ATXXTNTU,TRUE,Official Website
+Tunisia,TUN,Banque de Tunisie,Commercial,5,Tunis,https://www.bt.com.tn,1884,BDTXTNTU,TRUE,Official Website
+Turkey,TUR,Central Bank of the Republic of Türkiye,Central,0,Ankara,https://www.tcmb.gov.tr,1930,CRTXTRAN,TRUE,Official Website
+Turkey,TUR,Ziraat Bankası,Commercial,1,Ankara,https://www.ziraatbank.com.tr,1863,ZBXXTRAN,TRUE,Official Website
+Turkey,TUR,İşbank,Commercial,2,Istanbul,https://www.isbank.com.tr,1924,Ä°ÅžBATRIS,TRUE,Official Website
+Turkey,TUR,Garanti BBVA,Commercial,3,Istanbul,https://www.garantibbva.com.tr,1946,GBXXTRIS,TRUE,Official Website
+Turkey,TUR,Akbank,Commercial,4,Istanbul,https://www.akbank.com,1948,AKBATRIS,TRUE,Official Website
+Turkey,TUR,Yapı Kredi,Commercial,5,Istanbul,https://www.yapikredi.com.tr,1944,YKXXTRIS,TRUE,Official Website
+Turkmenistan,TKM,Central Bank of Turkmenistan,Central,0,Ashgabat,https://www.cbt.tm,1991,CTXXTMAS,TRUE,Official Website
+Turkmenistan,TKM,State Bank for Foreign Economic Affairs,Commercial,1,Ashgabat,https://tfeb.gov.tm,1992,SFFETMAS,TRUE,Official Website
+Turkmenistan,TKM,Turkmenbashy Bank,Commercial,2,Ashgabat,https://turkmenbashybank.gov.tm,1991,TURKTMAS,TRUE,Official Website
+Turkmenistan,TKM,Dayhanbank,Commercial,3,Ashgabat,https://dayhanbank.gov.tm,1992,DAYHTMAS,TRUE,Official Website
+Turkmenistan,TKM,Halkbank Turkmenistan,Commercial,4,Ashgabat,https://halkbank.gov.tm,1992,HTXXTMAS,TRUE,Official Website
+Turkmenistan,TKM,Senagat Bank,Commercial,5,Ashgabat,https://senagatbank.gov.tm,1992,SENATMAS,TRUE,Official Website
+Tuvalu,TUV,National Bank of Tuvalu,Central,0,Funafuti,https://www.nbt.com.tv,1981,NTXXTVFU,TRUE,Official Website
+Uganda,UGA,Bank of Uganda,Central,0,Kampala,https://www.bou.or.ug,1966,UGANUGKA,TRUE,Official Website
+Uganda,UGA,Stanbic Bank Uganda,Commercial,1,Kampala,https://www.stanbicbank.co.ug,1906,SUXXUGKA,TRUE,Official Website
+Uganda,UGA,Centenary Bank,Commercial,2,Kampala,https://www.centenarybank.co.ug,1983,CENTUGKA,TRUE,Official Website
+Uganda,UGA,dfcu Bank,Commercial,3,Kampala,https://www.dfcugroup.com,1964,DFCUUGKA,TRUE,Official Website
+Uganda,UGA,Equity Bank Uganda,Commercial,4,Kampala,https://equitygroupholdings.com/ug,2008,EUXXUGKA,TRUE,Official Website
+Uganda,UGA,Absa Bank Uganda,Commercial,5,Kampala,https://www.absa.co.ug,1927,AUXXUGKA,TRUE,Official Website
+Ukraine,UKR,National Bank of Ukraine,Central,0,Kyiv,https://bank.gov.ua,1991,NUXXUAKY,TRUE,Official Website
+Ukraine,UKR,PrivatBank,Commercial,1,Kyiv,https://privatbank.ua,1992,PRIVUAKY,TRUE,Official Website
+Ukraine,UKR,Oschadbank,Commercial,2,Kyiv,https://www.oschadbank.ua,1991,OSCHUAKY,TRUE,Official Website
+Ukraine,UKR,Ukreximbank,Commercial,3,Kyiv,https://www.eximb.com,1992,UKREUAKY,TRUE,Official Website
+Ukraine,UKR,Raiffeisen Bank Ukraine,Commercial,4,Kyiv,https://raiffeisen.ua,1992,RUXXUAKY,TRUE,Official Website
+Ukraine,UKR,Ukrsibbank,Commercial,5,Kyiv,https://ukrsibbank.com,1990,UKRSUAKY,TRUE,Official Website
+United Arab Emirates,ARE,Central Bank of the United Arab Emirates,Central,0,Abu Dhabi,https://www.centralbank.ae,1980,CUAEAEAB,TRUE,Official Website
+United Arab Emirates,ARE,First Abu Dhabi Bank,Commercial,1,Abu Dhabi,https://www.bankfab.com,2017,FADXAEAB,TRUE,Official Website
+United Arab Emirates,ARE,Emirates NBD,Commercial,2,Dubai,https://www.emiratesnbd.com,2007,ENXXAEDU,TRUE,Official Website
+United Arab Emirates,ARE,Abu Dhabi Commercial Bank,Commercial,3,Abu Dhabi,https://www.adcb.com,1985,ADCXAEAB,TRUE,Official Website
+United Arab Emirates,ARE,Dubai Islamic Bank,Commercial,4,Dubai,https://www.dib.ae,1975,DIXXAEDU,TRUE,Official Website
+United Arab Emirates,ARE,Mashreq Bank,Commercial,5,Dubai,https://www.mashreq.com,1967,MASHAEDU,TRUE,Official Website
+United Kingdom,GBR,Bank of England,Central,0,London,https://www.bankofengland.co.uk,1694,ENGLGBLO,TRUE,Official Website
+United Kingdom,GBR,HSBC UK Bank,Commercial,1,Birmingham,https://www.hsbc.co.uk,2018,HUXXGBBI,TRUE,Official Website
+United Kingdom,GBR,Barclays Bank,Commercial,2,London,https://www.barclays.co.uk,1690,BARCGBLO,TRUE,Official Website
+United Kingdom,GBR,Lloyds Bank,Commercial,3,London,https://www.lloydsbank.com,1765,LLOYGBLO,TRUE,Official Website
+United Kingdom,GBR,NatWest Bank,Commercial,4,Edinburgh,https://www.natwest.com,1968,NATWGBED,TRUE,Official Website
+United Kingdom,GBR,Standard Chartered Bank,Commercial,5,London,https://www.sc.com,1969,SCXXGBLO,TRUE,Official Website
+United States,USA,Federal Reserve System,Central,0,Washington D.C.,https://www.federalreserve.gov,1913,FRSXUSWA,TRUE,Official Website
+United States,USA,JPMorgan Chase Bank,Commercial,1,New York,https://www.jpmorganchase.com,1799,JCXXUSNE,TRUE,Official Website
+United States,USA,Bank of America,Commercial,2,Charlotte,https://www.bankofamerica.com,1904,AMERUSCH,TRUE,Official Website
+United States,USA,Wells Fargo Bank,Commercial,3,San Francisco,https://www.wellsfargo.com,1852,WFXXUSSA,TRUE,Official Website
+United States,USA,Citigroup,Commercial,4,New York,https://www.citigroup.com,1812,CITIUSNE,TRUE,Official Website
+United States,USA,U.S. Bank,Commercial,5,Minneapolis,https://www.usbank.com,1863,USXXUSMI,TRUE,Official Website
+Uruguay,URY,Central Bank of Uruguay,Central,0,Montevideo,https://www.bcu.gub.uy,1967,CUXXUYMO,TRUE,Official Website
+Uruguay,URY,Banco República,Commercial,1,Montevideo,https://www.brou.com.uy,1896,BRXXUYMO,TRUE,Official Website
+Uruguay,URY,Banco Santander Uruguay,Commercial,2,Montevideo,https://www.santander.com.uy,1982,BSUXUYMO,TRUE,Official Website
+Uruguay,URY,BBVA Uruguay,Commercial,3,Montevideo,https://www.bbva.com.uy,1887,BUXXUYMO,TRUE,Official Website
+Uruguay,URY,Scotiabank Uruguay,Commercial,4,Montevideo,https://www.scotiabank.com.uy,1915,SUXXUYMO,TRUE,Official Website
+Uruguay,URY,HSBC Uruguay,Commercial,5,Montevideo,https://www.hsbc.com.uy,1998,HUXXUYMO,TRUE,Official Website
+Uzbekistan,UZB,Central Bank of Uzbekistan,Central,0,Tashkent,https://cbu.uz,1991,CUXXUZTA,TRUE,Official Website
+Uzbekistan,UZB,National Bank of Uzbekistan,Commercial,1,Tashkent,https://nbu.uz,1991,NUXXUZTA,TRUE,Official Website
+Uzbekistan,UZB,Asakabank,Commercial,2,Tashkent,https://asakabank.uz,1995,ASAKUZTA,TRUE,Official Website
+Uzbekistan,UZB,Ipoteka Bank,Commercial,3,Tashkent,https://ipotekabank.uz,1996,IPOTUZTA,TRUE,Official Website
+Uzbekistan,UZB,Hamkorbank,Commercial,4,Andijan,https://hamkorbank.uz,1991,HAMKUZAN,TRUE,Official Website
+Uzbekistan,UZB,Agrobank,Commercial,5,Tashkent,https://agrobank.uz,1988,AGROUZTA,TRUE,Official Website
+Vanuatu,VUT,Reserve Bank of Vanuatu,Central,0,Port Vila,https://www.rbv.gov.vu,1981,RVXXVUPO,TRUE,Official Website
+Vanuatu,VUT,Bank of South Pacific Vanuatu,Commercial,1,Port Vila,https://www.bsp.com.vu,1987,SPVXVUPO,TRUE,Official Website
+Vanuatu,VUT,ANZ Vanuatu,Commercial,2,Port Vila,https://www.anz.com,1988,AVXXVUPO,TRUE,Official Website
+Vanuatu,VUT,National Bank of Vanuatu,Commercial,3,Port Vila,https://www.nbv.vu,1991,NVXXVUPO,TRUE,Official Website
+Vanuatu,VUT,BRED Bank Vanuatu,Commercial,4,Port Vila,https://www.bred.vu,2008,BVXXVUPO,TRUE,Official Website
+Venezuela,VEN,Central Bank of Venezuela,Central,0,Caracas,https://www.bcv.org.ve,1939,CVXXVECA,TRUE,Official Website
+Venezuela,VEN,Banco de Venezuela,Commercial,1,Caracas,https://www.bancodevenezuela.com,1890,BDVXVECA,TRUE,Official Website
+Venezuela,VEN,Banesco Banco Universal,Commercial,2,Caracas,https://www.banesco.com,1992,BBUXVECA,TRUE,Official Website
+Venezuela,VEN,Banco Mercantil,Commercial,3,Caracas,https://www.mercantilbanco.com,1925,BMXXVECA,TRUE,Official Website
+Venezuela,VEN,Banco Provincial BBVA,Commercial,4,Caracas,https://www.provincial.com,1953,BPBXVECA,TRUE,Official Website
+Venezuela,VEN,Banco Nacional de Crédito,Commercial,5,Caracas,https://www.bnc.com.ve,2002,BNDCVECA,TRUE,Official Website
+Vietnam,VNM,State Bank of Vietnam,Central,0,Hanoi,https://www.sbv.gov.vn,1951,SVXXVNHA,TRUE,
+Vietnam,VNM,Vietcombank,Commercial,1,Hanoi,https://www.vietcombank.com.vn,1963,VIETVNHA,TRUE,
+Vietnam,VNM,BIDV,Commercial,2,Hanoi,https://www.bidv.com.vn,1957,BIDVVNHA,TRUE,
+Vietnam,VNM,VietinBank,Commercial,3,Hanoi,https://www.vietinbank.vn,1988,VIETVNHA,TRUE,
+Vietnam,VNM,Techcombank,Commercial,4,Hanoi,https://www.techcombank.com.vn,1993,TECHVNHA,TRUE,
+Vietnam,VNM,ACB,Commercial,5,Ho Chi Minh City,https://www.acb.com.vn,1993,ACBXVNHO,TRUE,
+Yemen,YEM,Central Bank of Yemen,Central,0,Aden,https://www.centralbank.gov.ye,1971,CYXXYEAD,TRUE,Official Website
+Yemen,YEM,Yemen Kuwait Bank,Commercial,1,Sana'a,https://www.yk-bank.com,1977,YKXXYESA,TRUE,Official Website
+Yemen,YEM,Tadhamon International Islamic Bank,Commercial,2,Sana'a,https://www.tiibbank.com,1996,TIIXYESA,TRUE,Official Website
+Yemen,YEM,Cooperative and Agricultural Credit Bank,Commercial,3,Sana'a,https://www.cacbank.com.ye,1982,CACXYESA,TRUE,Official Website
+Yemen,YEM,Saba Islamic Bank,Commercial,4,Sana'a,https://www.sababank.com,1996,SIXXYESA,TRUE,Official Website
+Yemen,YEM,Yemen Commercial Bank,Commercial,5,Sana'a,https://www.ycb.com.ye,1993,YCXXYESA,TRUE,Official Website
+Zambia,ZMB,Bank of Zambia,Central,0,Lusaka,https://www.boz.zm,1964,ZAMBZMLU,TRUE,Official Website
+Zambia,ZMB,Zanaco Bank,Commercial,1,Lusaka,https://www.zanaco.co.zm,1969,ZANAZMLU,TRUE,Official Website
+Zambia,ZMB,Stanbic Bank Zambia,Commercial,2,Lusaka,https://www.stanbicbank.co.zm,1993,SZXXZMLU,TRUE,Official Website
+Zambia,ZMB,Absa Bank Zambia,Commercial,3,Lusaka,https://www.absa.co.zm,1918,AZXXZMLU,TRUE,Official Website
+Zambia,ZMB,First National Bank Zambia,Commercial,4,Lusaka,https://www.fnbzambia.co.zm,2009,FNZXZMLU,TRUE,Official Website
+Zambia,ZMB,Indo Zambia Bank,Commercial,5,Lusaka,https://www.izb.co.zm,1984,IZXXZMLU,TRUE,Official Website
+Zimbabwe,ZWE,Reserve Bank of Zimbabwe,Central,0,Harare,https://www.rbz.co.zw,1964,RZXXZWHA,TRUE,Official Website
+Zimbabwe,ZWE,CBZ Bank,Commercial,1,Harare,https://www.cbz.co.zw,1980,CBZXZWHA,TRUE,Official Website
+Zimbabwe,ZWE,Steward Bank,Commercial,2,Harare,https://www.stewardbank.co.zw,2001,STEWZWHA,TRUE,Official Website
+Zimbabwe,ZWE,Stanbic Bank Zimbabwe,Commercial,3,Harare,https://www.stanbicbank.co.zw,1992,SZXXZWHA,TRUE,Official Website
+Zimbabwe,ZWE,CABS,Commercial,4,Harare,https://www.cabs.co.zw,1952,CABSZWHA,TRUE,Official Website
+Zimbabwe,ZWE,NMB Bank Zimbabwe,Commercial,5,Harare,https://www.nmbz.co.zw,1992,NZXXZWHA,TRUE,Official Website
+Pending Public Data,ARG,Banco de la Nacicion Arg,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,BFA,Orabank Burkina Faso,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,BGR,Bulgarian Banking System,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,BGR,Eurobank Bulgaria,Commercial,7,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,BRA,Banco Central do Brasil,Central,7,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,BRA,Banco Santander Brasil,Commercial,8,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,BRA,Italy Unibanco,Commercial,9,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,CAF,Banque Sahara-Saharienne,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,COG,Banque Internationale pour l'Afrique Centrale,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,COM,Banque Fïnance de Commerce,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,CUB,Banco Central de Cuba,Central,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,CUB,Banco de Credo Comercio,Commercial,7,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,CZE,SOB,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,DEU,KfW Bank,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,DOM,Banco BHD,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,DOM,Banco de Reservas,Commercial,7,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,DOM,Scotiabank Dominican Republic,Commercial,8,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,ECU,Banco Central del Ecuador,Central,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,EGY,Agricultural Bank of Egypt,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,EGY,QNB Al Ahli,Commercial,7,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,EST,Bigbank,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,EST,Central Bank of Eswatini,Central,7,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,EST,LHV Bank,Commercial,8,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,ETH,Bank of Abyssinia,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,ETH,Wegagen Bank,Commercial,7,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,FJI,Bank of South Pacific Fiji,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,FJI,Fiji Development Bank,Commercial,7,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,FRA,La Banque Postale,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,FSM,Bank of Guam,Commercial,3,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,GAB,BGFI Bank Gabon,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,GBR,Barclays,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,GEO,Liberty Bank Georgia,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,GHA,Agricultural Development Bank,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,GIN,First Bank Guinea,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,GMB,Zenith Bank Gambia,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,GNB,Banco da ï¿½frica Ocidental,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,GRC,Eurobank Greece,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,GTM,Banco de Guatemala,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,GUY,GBTI,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,HND,BAC Honduras,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,HND,Banco Central de Honduras,Central,7,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,HND,Banco Davivienda Honduras,Commercial,8,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,HND,Credomatic Honduras,Commercial,9,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,HTI,Banque de la Rï¿½publique d'Haï¿½ti,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,HTI,Banque Nationale de Crï¿½dit,Commercial,7,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,HTI,Unibank,Commercial,8,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,HUN,Hungarian National Bank,Central,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,IDN,Bank Central Asia (BCA),Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,IRL,Bank of Ireland Group plc,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,IRL,Barclays Bank Ireland PLC,Commercial,7,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,IRN,Bank Sepah,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,IRN,Central Bank of Iran,Central,7,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,ITA,Banca Monte dei Paschi di Siena S.p.A.,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,ITA,BPER Banca S.p.A.,Commercial,7,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,ITA,Intesa Sanpaolo S.p.A.,Commercial,8,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,ITA,UniCredit S.p.A.,Commercial,9,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,JAM,JN Bank Limited,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,JAM,National Commercial Bank Jamaica Limited,Commercial,7,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,JAM,Scotia Group Jamaica Limited,Commercial,8,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,KGZ,Eldik Bank,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,KWT,Boubyan Bank,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,LBY,Umma Bank,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,LKA,Seylan Bank,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,LTU,SEB Lithuania,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,LTU,Šiauli Bankas,Commercial,7,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,LVA,Swedbank,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,MAR,Central Bank of Morocco,Central,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,MDA,Comertselkombank,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,MDA,Energbank,Commercial,7,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,MDA,Mobiasbanca,Commercial,8,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,MDG,BMOI,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,MDG,Central Bank of Madagascar,Central,7,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,MLI,Banque Internationale de Solidaire,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,MLI,Orabank Mali,Commercial,7,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,MNE,CKB Bank,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,MOZ,Banco Terra,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,MOZ,Central Bank of Mozambique,Central,7,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,MOZ,Nedbank Mozambique,Commercial,8,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,MRT,Banque Centrale de Mauritanie,Central,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,MRT,Centralbank of Mauritania,Commercial,7,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,MRT,Mauritania Business Bank,Commercial,8,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,MUS,Bank One,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,MUS,HSBC Mauritius,Commercial,7,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,MUS,Mauritius Commercial Bank,Commercial,8,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,NPL,Nepal Investment Bank,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,NRU,Bank of Nauru,Commercial,2,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,NZL,ANZ Bank New Zealand,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,NZL,Bank of New Zealand,Commercial,7,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,PAK,Allied Bank of Pakistan,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,PAK,Bank Alfalah,Commercial,7,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,PER,Banco Central de Reserva del Peru,Central,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,POL,Alior Bank,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,POL,Narodowy Bank Polski,Commercial,7,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,PRY,Banco Central del Paraguay,Central,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,QAT,Masraf Al Rayan,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,ROU,Banca Na?ional? a României,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,SDN,Agricultural Bank of Sudan,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,SLB,Bank South Pacific Solomon Islands,Commercial,5,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,SLV,Banco Hipotecario,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,SVK,SOB Slovakia,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,SVN,Addiko Bank Slovenia,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,SVN,Delavska Hranilnica,Commercial,7,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,SVN,Nova KBM,Commercial,8,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,SWE,Länsförsäkringar Bank,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,SWZ,First National Bank Eswatini,Central,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,SYR,Bemo Saudi Fransi Bank,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,TJK,First MicroFinanceBank Tajikistan,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,TLS,BNU Timor-Leste,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,TUN,BIAT,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,TZA,NBC Tanzania,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,URY,Banco Repï¿½blica,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,USA,Bank of America Corporation,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,UZB,National Bank for Foreign Economic Activity,Central,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,ZAF,Investec Bank,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
+Pending Public Data,ZMB,Zanaco,Commercial,6,Pending Public Data,Pending Public Data,Pending Public Data,Pending Public Data,TRUE,Synthetic Financial Dataset
