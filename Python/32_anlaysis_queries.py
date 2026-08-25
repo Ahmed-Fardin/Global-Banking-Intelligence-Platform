@@ -10,7 +10,7 @@ import psycopg2
 
 DB_NAME = "gbip"
 DB_USER = "postgres"
-DB_PASSWORD = "1204"
+DB_PASSWORD = "XXX"
 DB_HOST = "localhost"
 DB_PORT = 5432
 

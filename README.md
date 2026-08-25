@@ -31,7 +31,7 @@ Libraries used:
 - fake-useragent
 - Loguru
 
-Automated bank financial extraction was possible for a limited number of countries and banks due to differences and limitations in public data availability and source structures.
+Automated bank financial extraction was only possible for a limited number of countries and banks due to differences and limitations in public data availability and source structures.
 
 ## Data
 
