@@ -1,6 +1,6 @@
-# Global Banking Intelligence Platform
+# Global Banking Intelligence
 
-Global Banking Intelligence Platform (GBIP) is a banking analytics project covering countries, regions and banks from 2020 to 2025.
+Global Banking Intelligence is a banking analytics porfolio project covering countries, regions and banks from 2020 to 2025.
 
 The project combines banking financial data and economic indicators to analyze assets, deposits, loans, profitability, growth and risk.
 
